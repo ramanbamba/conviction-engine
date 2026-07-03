@@ -1,0 +1,376 @@
+{
+  "grades": {
+    "KPIGREEN": {
+      "grade": "C",
+      "score": 56,
+      "redFlags": 3
+    },
+    "GOKEX": {
+      "grade": "D",
+      "score": 45,
+      "redFlags": 5
+    },
+    "WABAG": {
+      "grade": "A",
+      "score": 89,
+      "redFlags": 0
+    },
+    "BEL": {
+      "grade": "B",
+      "score": 78,
+      "redFlags": 0
+    },
+    "ICICIBANK": {
+      "grade": "A",
+      "score": 83,
+      "redFlags": 0
+    },
+    "PRAJIND": {
+      "grade": "F",
+      "score": 35,
+      "redFlags": 5
+    },
+    "MARUTI": {
+      "grade": "A",
+      "score": 92,
+      "redFlags": 0
+    },
+    "LT": {
+      "grade": "C",
+      "score": 66,
+      "redFlags": 0
+    },
+    "MANAPPURAM": {
+      "grade": "F",
+      "score": 28,
+      "redFlags": 2
+    },
+    "KPIL": {
+      "grade": "B",
+      "score": 76,
+      "redFlags": 0
+    },
+    "KEC": {
+      "grade": "D",
+      "score": 48,
+      "redFlags": 2
+    },
+    "ASIANPAINT": {
+      "grade": "C",
+      "score": 67,
+      "redFlags": 0
+    },
+    "SHK": {
+      "grade": "D",
+      "score": 40,
+      "redFlags": 3
+    },
+    "MAYURUNIQ": {
+      "grade": "A",
+      "score": 81,
+      "redFlags": 0
+    },
+    "DABUR": {
+      "grade": "C",
+      "score": 67,
+      "redFlags": 0
+    },
+    "LTF": {
+      "grade": "A",
+      "score": 82,
+      "redFlags": 0
+    },
+    "TITAGARH": {
+      "grade": "C",
+      "score": 68,
+      "redFlags": 1
+    },
+    "BATAINDIA": {
+      "grade": "B",
+      "score": 75,
+      "redFlags": 0
+    },
+    "BALRAMCHIN": {
+      "grade": "D",
+      "score": 40,
+      "redFlags": 3
+    },
+    "INFY": {
+      "grade": "A",
+      "score": 82,
+      "redFlags": 0
+    },
+    "TRENT": {
+      "grade": "A",
+      "score": 91,
+      "redFlags": 1
+    },
+    "AHLUCONT": {
+      "grade": "A",
+      "score": 90,
+      "redFlags": 0
+    },
+    "HAL": {
+      "grade": "A",
+      "score": 92,
+      "redFlags": 0
+    },
+    "INDHOTEL": {
+      "grade": "A",
+      "score": 86,
+      "redFlags": 0
+    },
+    "IDFCFIRSTB": {
+      "grade": "C",
+      "score": 60,
+      "redFlags": 1
+    },
+    "KAYNES": {
+      "grade": "D",
+      "score": 51,
+      "redFlags": 3
+    },
+    "AMBER": {
+      "grade": "C",
+      "score": 59,
+      "redFlags": 1
+    },
+    "POLYCAB": {
+      "grade": "A",
+      "score": 89,
+      "redFlags": 0
+    },
+    "DIXON": {
+      "grade": "A",
+      "score": 95,
+      "redFlags": 0
+    },
+    "TECHNOE": {
+      "grade": "C",
+      "score": 65,
+      "redFlags": 2
+    },
+    "M&MFIN": {
+      "grade": "A",
+      "score": 82,
+      "redFlags": 0
+    },
+    "PERSISTENT": {
+      "grade": "A",
+      "score": 97,
+      "redFlags": 0
+    }
+  },
+  "alpha": {
+    "BEL": {
+      "score": 65,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "ICICIBANK": {
+      "score": 70,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "PRAJIND": {
+      "score": 21,
+      "tier": "NEGATIVE",
+      "gov": 1,
+      "eq": 0.6
+    },
+    "MARUTI": {
+      "score": 77,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "LT": {
+      "score": 51,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 1
+    },
+    "MANAPPURAM": {
+      "score": 46,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 0.9
+    },
+    "KPIL": {
+      "score": 74,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "KEC": {
+      "score": 41,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 1
+    },
+    "ASIANPAINT": {
+      "score": 66,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "SHK": {
+      "score": 21,
+      "tier": "NEGATIVE",
+      "gov": 1,
+      "eq": 0.6
+    },
+    "MAYURUNIQ": {
+      "score": 78,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "DABUR": {
+      "score": 47,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 0.9
+    },
+    "LTF": {
+      "score": 68,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 0.9
+    },
+    "TITAGARH": {
+      "score": 71,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "BATAINDIA": {
+      "score": 37,
+      "tier": "NEGATIVE",
+      "gov": 1,
+      "eq": 0.6
+    },
+    "BALRAMCHIN": {
+      "score": 45,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 0.9
+    },
+    "GOKEX": {
+      "score": 14,
+      "tier": "NEGATIVE",
+      "gov": 0.38,
+      "eq": 0.6
+    },
+    "INFY": {
+      "score": 57,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "KEC-PA": {
+      "score": 45,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 1
+    },
+    "AHLUCONT": {
+      "score": 78,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "HAL": {
+      "score": 85,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "INDHOTEL": {
+      "score": 78,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "PERSISTENT": {
+      "score": 71,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "KPIGREEN": {
+      "score": 36,
+      "tier": "NEGATIVE",
+      "gov": 0.68,
+      "eq": 0.9
+    },
+    "KAYNES": {
+      "score": 27,
+      "tier": "NEGATIVE",
+      "gov": 1,
+      "eq": 0.51
+    },
+    "WABAG": {
+      "score": 83,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "AMBER": {
+      "score": 58,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "POLYCAB": {
+      "score": 87,
+      "tier": "STRONG",
+      "gov": 1,
+      "eq": 1
+    },
+    "TECHNOE": {
+      "score": 45,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 0.77
+    },
+    "MOMOMENTUM": {
+      "score": 39,
+      "tier": "NEGATIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "METALIETF": {
+      "score": 55,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "GOLDBEES": {
+      "score": 55,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "SILVERBEES": {
+      "score": 54,
+      "tier": "NEUTRAL",
+      "gov": 1,
+      "eq": 1
+    },
+    "LIQUIDBEES": {
+      "score": 13,
+      "tier": "NEGATIVE",
+      "gov": 1,
+      "eq": 1
+    },
+    "GODREJCP": {
+      "score": 58,
+      "tier": "POSITIVE",
+      "gov": 1,
+      "eq": 1
+    }
+  }
+}

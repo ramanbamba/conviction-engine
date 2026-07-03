@@ -1,0 +1,196 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-deep:    #050D1E;
+  --bg-dark:    #08111E;
+  --bg-card:    #0D1E35;
+  --bg-card2:   #101F38;
+  --border:     #1A3050;
+  --border-dim: #0F1E30;
+  --text-pri:   #E0EEFF;
+  --text-sec:   #7A9BB8;
+  --text-dim:   #3A6080;
+  --green:      #10B981;
+  --red:        #EF4444;
+  --amber:      #F59E0B;
+  --orange:     #F97316;
+  --blue:       #3B82F6;
+  --purple:     #8B5CF6;
+  --gold:       #EAB308;
+  --teal:       #14B8A6;
+  --font-mono:  'IBM Plex Mono', 'Fira Code', monospace;
+  --font-sans:  'IBM Plex Sans', system-ui, sans-serif;
+  --radius-sm:  8px;
+  --radius-md:  12px;
+  --radius-lg:  16px;
+  /* header height for scroll offset — compact single-row + tab bar */
+  --header-h: 90px;
+}
+
+/* P6-10: prevent sticky header from overlapping anchored content */
+html {
+  scroll-padding-top: var(--header-h);
+}
+
+/* P6-6: Accordion animation */
+@keyframes accordionSlideDown {
+  from { max-height: 0; opacity: 0; }
+  to   { max-height: var(--accordion-content-height, 2000px); opacity: 1; }
+}
+@keyframes accordionSlideUp {
+  from { max-height: var(--accordion-content-height, 2000px); opacity: 1; }
+  to   { max-height: 0; opacity: 0; }
+}
+.accordion-content {
+  overflow: hidden;
+  transition: max-height 0.36s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.25s ease;
+}
+.accordion-content[data-open="true"]  { max-height: 3000px; opacity: 1; }
+.accordion-content[data-open="false"] { max-height: 0;      opacity: 0; pointer-events: none; }
+
+
+* { box-sizing: border-box; }
+
+body {
+  background: var(--bg-deep);
+  color: var(--text-pri);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Table rows */
+.table-row { transition: background 0.1s; }
+.table-row:hover { background: rgba(59, 130, 246, 0.04) !important; }
+
+/* Smooth color transitions only (not layout) */
+a, button, div { transition: color 0.12s, border-color 0.12s; }
+
+/* Custom scrollbar */
+::-webkit-scrollbar, .custom-scrollbar::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track, .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb, .custom-scrollbar::-webkit-scrollbar-thumb { background: rgba(26, 48, 80, 0.5); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover, .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: rgba(42, 74, 106, 0.8); }
+
+/* Tab content fade-in (replaces no-op tailwind animate-in) */
+@keyframes tabFadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.tab-enter { animation: tabFadeIn 0.28s cubic-bezier(0.4, 0, 0.2, 1) both; }
+
+/* Pulse for urgent items */
+@keyframes urgentPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+.pulse-dot { animation: urgentPulse 2s ease-in-out infinite; }
+
+/* Horizontal Fade Mask for Scrollable strips */
+.mask-fade-x {
+  mask-image: linear-gradient(to right, transparent, black 3%, black 97%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 3%, black 97%, transparent);
+}
+
+/* Right-edge fade only — signals horizontal scroll on a left-anchored strip (tab bar) */
+.mask-fade-right {
+  mask-image: linear-gradient(to right, black 88%, transparent);
+  -webkit-mask-image: linear-gradient(to right, black 88%, transparent);
+}
+
+/* Canonical surface card — one token for every panel/section container */
+.card {
+  border-radius: 0.75rem;            /* rounded-xl */
+  border: 1px solid rgb(255 255 255 / 0.10);
+  background: rgb(255 255 255 / 0.03);
+}
+
+/* Premium Depth Enhancements */
+.glass-hover {
+  transition: all 0.25s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.glass-hover:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 10px 30px -12px rgba(0, 0, 0, 0.5);
+  transform: translateY(-1px);
+}
+
+/* ── Phase R2 locked typography classes ── */
+.text-hero {
+  @apply font-mono text-3xl font-black tracking-tight;
+}
+.text-body {
+  @apply text-[15px] leading-relaxed;
+}
+.text-meta {
+  font-size: 12px;
+  @apply uppercase tracking-wider font-bold text-zinc-500;
+}
+
+/* ── UX polish (ui-ux-pro-max) ───────────────────────────────────────────── */
+
+/* Keyboard focus rings — visible only for keyboard users, on-brand blue.
+   a11y CRITICAL: never strip focus affordance. */
+:focus-visible {
+  outline: 2px solid rgba(59, 130, 246, 0.65);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+:focus:not(:focus-visible) { outline: none; }
+
+/* Press feedback — a touch of physicality on the primary controls only
+   (ratify/veto, tab switches, chips). Subtle scale, fast ease. */
+button:active:not(:disabled) { transform: scale(0.985); }
+button { transition: transform 0.08s ease-out, color 0.12s, border-color 0.12s, background-color 0.12s; }
+
+/* Calm entrance for the resting "all clear" state — a slow, confident breath,
+   not a jumpy pop. The daily moment of "you're fine, do nothing." */
+@keyframes calmRise {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.calm-rise { animation: calmRise 0.5s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+/* Respect reduced-motion — disable all non-essential animation/transition.
+   a11y HIGH: honor prefers-reduced-motion. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── Touch-first PWA (iPad/iPhone) ───────────────────────────────────────── */
+
+html { -webkit-text-size-adjust: 100%; }           /* no iOS auto font inflation */
+body {
+  overscroll-behavior-y: contain;                  /* tame rubber-band / accidental pull-to-refresh */
+  -webkit-tap-highlight-color: transparent;        /* no grey flash on tap; we own press feedback */
+}
+
+/* Inset the whole app within the safe area (notch / Dynamic Island / side
+   notch in landscape). Body bg fills the inset strips. Sticky headers inside
+   then stick below the notch automatically. Bottom handled per-surface. */
+@supports (padding: env(safe-area-inset-top)) {
+  body {
+    padding-top: env(safe-area-inset-top);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+}
+
+/* Kill the 300ms tap delay + double-tap zoom on controls (snappy taps) */
+button, a, [role="button"], input, select, textarea, label { touch-action: manipulation; }
+
+/* Momentum scrolling on every scroll region (native iOS feel) */
+.overflow-x-auto, .overflow-y-auto, .custom-scrollbar, .no-scrollbar {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Safe-area insets — keep content clear of notch / Dynamic Island / home indicator.
+   Header gets the top inset; main content the bottom + horizontal insets. */
+.safe-bottom { padding-bottom: calc(env(safe-area-inset-bottom) + 5rem); }

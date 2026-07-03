@@ -1,0 +1,14 @@
+{
+  "name": "Portfolio Command Center",
+  "short_name": "Portfolio",
+  "description": "India equity portfolio — supervised PM, target book, alpha engine.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050D18",
+  "theme_color": "#050D18",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

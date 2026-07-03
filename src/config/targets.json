@@ -1,0 +1,34 @@
+{
+  "architecture": {
+    "totalTarget": 12500000,
+    "note": "₹1.25Cr target architecture — update when advisor model changes"
+  },
+  "convictionBands": {
+    "strongBuy": { "min": 9, "max": 10, "label": "Strong Buy" },
+    "buy":       { "min": 7, "max": 8,  "label": "Buy" },
+    "hold":      { "min": 5, "max": 6,  "label": "Hold" },
+    "avoid":     { "min": 3, "max": 4,  "label": "Avoid" },
+    "exit":      { "min": 1, "max": 2,  "label": "Exit" }
+  },
+  "stopLoss": {
+    "powerAlpha": -0.08,
+    "platinum": -0.20,
+    "stars": -0.25
+  },
+  "riskFlags": {
+    "promoterPledgeMax": 0.40,
+    "singleCustomerConcentrationMax": 0.50,
+    "overweightThreshold": 0.08
+  },
+  "kiteRefresh": {
+    "combineT1": true,
+    "note": "qty = holding.quantity + t1_quantity + matching CNC position qty"
+  },
+  "sectorLimits": {
+    "defaultMax": 0.25,
+    "overrides": {
+      "Banking": 0.30,
+      "Defence": 0.20
+    }
+  }
+}

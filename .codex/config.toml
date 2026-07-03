@@ -1,0 +1,7 @@
+[mcp_servers.kite]
+args = [
+    "-y",
+    "mcp-remote",
+    "https://mcp.kite.trade/mcp",
+]
+command = "npx"

@@ -1,0 +1,85 @@
+name: Intelligence Ingest
+
+# Async, zero-touch data routine. Runs the public-data fetchers on a schedule,
+# commits any changed JSON, and lets Vercel auto-deploy. No local machine, no
+# server. The LLM conviction re-score is a SEPARATE Claude job — not here.
+#
+# Cadence: once a day pre-market (02:00 UTC ≈ 07:30 IST), Mon–Sat.
+# Manual run anytime via the "Run workflow" button (workflow_dispatch).
+
+on:
+  schedule:
+    - cron: '0 2 * * 1-6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: intelligence-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Install deps
+        run: npm ci
+
+      # --- Public sources (work from any IP) ---
+      - name: Stock news (Google News RSS)
+        run: npm run news || echo "::warning::news fetch failed, continuing"
+
+      - name: Repair filings dates
+        run: npm run filings:fix || echo "::warning::filings repair failed, continuing"
+
+      - name: Benchmark / alpha (Yahoo)
+        run: npm run benchmark || echo "::warning::benchmark fetch failed, continuing"
+
+      - name: Counterfactual prices (Yahoo) + rearview rebuild
+        run: npm run refresh:counterfactuals || echo "::warning::counterfactual refresh failed, continuing"
+
+      # The tape recorder — the model grades itself only if this never misses.
+      # Yahoo-priced so it needs no Kite session; stamps the price bar's date.
+      - name: Alpha model snapshot (Yahoo prices)
+        run: node scripts/snapshot-alpha.js --yahoo || echo "::warning::alpha snapshot failed, continuing"
+
+      # --- NSE sources (may be blocked from datacenter IPs — non-fatal) ---
+      - name: NSE board meetings / results
+        run: npm run calendar || echo "::warning::NSE calendar blocked from runner IP, skipping"
+
+      - name: NSE corporate actions
+        run: npm run actions || echo "::warning::NSE actions blocked from runner IP, skipping"
+
+      # --- Recompute delta signals over whatever refreshed ---
+      - name: Delta signals
+        run: npm run signals || echo "::warning::signals failed, continuing"
+
+      - name: PM brief (deterministic; Claude judgment layers in separately)
+        run: npm run pm:brief || echo "::warning::pm brief failed, continuing"
+
+      # Decision Ledger (Phase 25) — grades ratified/vetoed PM decisions vs Nifty
+      - name: Decision ledger (Yahoo prices)
+        run: npm run ledger || echo "::warning::decision ledger failed, continuing"
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "intelligence-bot"
+          git config user.email "actions@github.com"
+          git add src/data/*.json
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(ingest): scheduled intelligence refresh [skip ci]"
+            git push
+            echo "Committed and pushed refreshed data."
+          fi

@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "kite": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.kite.trade/mcp"]
+    },
+    "vercel": {
+      "command": "npx",
+      "args": ["-y", "@vercel/mcp-server"],
+      "env": {
+        "VERCEL_TOKEN": "set-your-own-token-here"
+      }
+    }
+  }
+}
