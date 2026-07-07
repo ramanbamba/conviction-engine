@@ -1,41 +1,41 @@
 {
-  "fetchedAt": "2026-07-06T06:36:28.087Z",
+  "fetchedAt": "2026-07-07T06:08:59.317Z",
   "symbol": "^NSEI",
   "name": "Nifty 50",
-  "latestClose": 24424,
-  "latestDate": "2026-07-06",
+  "latestClose": 24513,
+  "latestDate": "2026-07-07",
   "windows": {
     "ytd": {
       "label": "YTD",
       "startDate": "2026-01-01",
       "benchStart": 26147,
-      "benchEnd": 24424,
-      "benchReturn": -0.0659,
+      "benchEnd": 24513,
+      "benchReturn": -0.0625,
       "portfolioReturn": null,
       "alpha": null
     },
     "1y": {
       "label": "1Y",
-      "startDate": "2025-07-06",
+      "startDate": "2025-07-07",
       "benchStart": 25461,
-      "benchEnd": 24424,
-      "benchReturn": -0.0407,
+      "benchEnd": 24513,
+      "benchReturn": -0.0372,
       "portfolioReturn": null,
       "alpha": null
     },
     "3y": {
       "label": "3Y",
-      "startDate": "2023-07-06",
-      "benchStart": 19497,
-      "benchEnd": 24424,
-      "benchReturn": 0.2527,
+      "startDate": "2023-07-07",
+      "benchStart": 19332,
+      "benchEnd": 24513,
+      "benchReturn": 0.268,
       "portfolioReturn": null,
       "alpha": null
     },
     "inception": {
       "label": "Since Inception",
       "benchStart": null,
-      "benchEnd": 24424,
+      "benchEnd": 24513,
       "benchReturn": null,
       "portfolioReturn": null,
       "alpha": null
@@ -349,7 +349,12 @@
     },
     {
       "date": "2026-07-06",
-      "benchIdx": 95.93,
+      "benchIdx": 95.95,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-07-07",
+      "benchIdx": 96.28,
       "portIdx": 100
     }
   ]
