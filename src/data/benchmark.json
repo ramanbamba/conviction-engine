@@ -1,41 +1,41 @@
 {
-  "fetchedAt": "2026-07-09T06:10:35.860Z",
+  "fetchedAt": "2026-07-10T06:04:33.434Z",
   "symbol": "^NSEI",
   "name": "Nifty 50",
-  "latestClose": 24052,
-  "latestDate": "2026-07-09",
+  "latestClose": 24169,
+  "latestDate": "2026-07-10",
   "windows": {
     "ytd": {
       "label": "YTD",
       "startDate": "2026-01-01",
       "benchStart": 26147,
-      "benchEnd": 24052,
-      "benchReturn": -0.0801,
+      "benchEnd": 24169,
+      "benchReturn": -0.0756,
       "portfolioReturn": null,
       "alpha": null
     },
     "1y": {
       "label": "1Y",
-      "startDate": "2025-07-09",
-      "benchStart": 25476,
-      "benchEnd": 24052,
-      "benchReturn": -0.0559,
+      "startDate": "2025-07-10",
+      "benchStart": 25355,
+      "benchEnd": 24169,
+      "benchReturn": -0.0468,
       "portfolioReturn": null,
       "alpha": null
     },
     "3y": {
       "label": "3Y",
-      "startDate": "2023-07-09",
+      "startDate": "2023-07-10",
       "benchStart": 19356,
-      "benchEnd": 24052,
-      "benchReturn": 0.2426,
+      "benchEnd": 24169,
+      "benchReturn": 0.2487,
       "portfolioReturn": null,
       "alpha": null
     },
     "inception": {
       "label": "Since Inception",
       "benchStart": null,
-      "benchEnd": 24052,
+      "benchEnd": 24169,
       "benchReturn": null,
       "portfolioReturn": null,
       "alpha": null
@@ -43,318 +43,318 @@
   },
   "spark1y": [
     {
-      "date": "2025-07-09",
+      "date": "2025-07-10",
       "benchIdx": 100,
       "portIdx": 100
     },
     {
-      "date": "2025-07-15",
-      "benchIdx": 98.9,
+      "date": "2025-07-16",
+      "benchIdx": 99.44,
       "portIdx": 100
     },
     {
-      "date": "2025-07-21",
-      "benchIdx": 98.49,
+      "date": "2025-07-22",
+      "benchIdx": 98.84,
       "portIdx": 100
     },
     {
-      "date": "2025-07-25",
-      "benchIdx": 97.49,
+      "date": "2025-07-28",
+      "benchIdx": 97.34,
       "portIdx": 100
     },
     {
-      "date": "2025-07-31",
-      "benchIdx": 97.22,
+      "date": "2025-08-01",
+      "benchIdx": 96.88,
       "portIdx": 100
     },
     {
-      "date": "2025-08-06",
-      "benchIdx": 96.46,
+      "date": "2025-08-07",
+      "benchIdx": 97.01,
       "portIdx": 100
     },
     {
-      "date": "2025-08-12",
-      "benchIdx": 96.12,
+      "date": "2025-08-13",
+      "benchIdx": 97.1,
       "portIdx": 100
     },
     {
-      "date": "2025-08-19",
-      "benchIdx": 98.06,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-08-25",
-      "benchIdx": 98.01,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-09-01",
-      "benchIdx": 96.66,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-09-05",
-      "benchIdx": 97.11,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-09-11",
-      "benchIdx": 98.16,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-09-17",
-      "benchIdx": 99.43,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-09-23",
+      "date": "2025-08-20",
       "benchIdx": 98.8,
       "portIdx": 100
     },
     {
-      "date": "2025-09-29",
-      "benchIdx": 96.7,
+      "date": "2025-08-26",
+      "benchIdx": 97.46,
       "portIdx": 100
     },
     {
-      "date": "2025-10-06",
-      "benchIdx": 98.44,
+      "date": "2025-09-02",
+      "benchIdx": 96.94,
       "portIdx": 100
     },
     {
-      "date": "2025-10-10",
-      "benchIdx": 99.25,
+      "date": "2025-09-08",
+      "benchIdx": 97.7,
       "portIdx": 100
     },
     {
-      "date": "2025-10-16",
-      "benchIdx": 100.43,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-10-23",
-      "benchIdx": 101.63,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-10-29",
-      "benchIdx": 102.27,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-11-04",
-      "benchIdx": 100.48,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-11-11",
-      "benchIdx": 100.86,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-11-17",
-      "benchIdx": 102.11,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-11-21",
-      "benchIdx": 102.32,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-11-27",
-      "benchIdx": 102.9,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-12-03",
-      "benchIdx": 102,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-12-09",
-      "benchIdx": 101.43,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-12-15",
-      "benchIdx": 102.16,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-12-19",
-      "benchIdx": 101.92,
-      "portIdx": 100
-    },
-    {
-      "date": "2025-12-26",
-      "benchIdx": 102.22,
-      "portIdx": 100
-    },
-    {
-      "date": "2026-01-01",
-      "benchIdx": 102.63,
-      "portIdx": 100
-    },
-    {
-      "date": "2026-01-07",
-      "benchIdx": 102.61,
-      "portIdx": 100
-    },
-    {
-      "date": "2026-01-13",
-      "benchIdx": 101,
-      "portIdx": 100
-    },
-    {
-      "date": "2026-01-20",
+      "date": "2025-09-12",
       "benchIdx": 99.05,
       "portIdx": 100
     },
     {
-      "date": "2026-01-27",
+      "date": "2025-09-18",
+      "benchIdx": 100.27,
+      "portIdx": 100
+    },
+    {
+      "date": "2025-09-24",
       "benchIdx": 98.82,
       "portIdx": 100
     },
     {
-      "date": "2026-02-02",
-      "benchIdx": 98.48,
+      "date": "2025-09-30",
+      "benchIdx": 97.07,
       "portIdx": 100
     },
     {
-      "date": "2026-02-06",
-      "benchIdx": 100.86,
+      "date": "2025-10-07",
+      "benchIdx": 99.03,
       "portIdx": 100
     },
     {
-      "date": "2026-02-12",
-      "benchIdx": 101.3,
+      "date": "2025-10-13",
+      "benchIdx": 99.5,
       "portIdx": 100
     },
     {
-      "date": "2026-02-18",
-      "benchIdx": 101.35,
+      "date": "2025-10-17",
+      "benchIdx": 101.4,
       "portIdx": 100
     },
     {
-      "date": "2026-02-24",
-      "benchIdx": 99.8,
+      "date": "2025-10-24",
+      "benchIdx": 101.74,
       "portIdx": 100
     },
     {
-      "date": "2026-03-02",
-      "benchIdx": 97.61,
+      "date": "2025-10-30",
+      "benchIdx": 102.06,
       "portIdx": 100
     },
     {
-      "date": "2026-03-09",
-      "benchIdx": 94.32,
+      "date": "2025-11-06",
+      "benchIdx": 100.61,
       "portIdx": 100
     },
     {
-      "date": "2026-03-13",
-      "benchIdx": 90.87,
+      "date": "2025-11-12",
+      "benchIdx": 102.05,
       "portIdx": 100
     },
     {
-      "date": "2026-03-19",
-      "benchIdx": 90.29,
+      "date": "2025-11-18",
+      "benchIdx": 102.19,
       "portIdx": 100
     },
     {
-      "date": "2026-03-25",
-      "benchIdx": 91.48,
+      "date": "2025-11-24",
+      "benchIdx": 102.39,
       "portIdx": 100
     },
     {
-      "date": "2026-04-02",
-      "benchIdx": 89.15,
+      "date": "2025-11-28",
+      "benchIdx": 103.34,
       "portIdx": 100
     },
     {
-      "date": "2026-04-09",
-      "benchIdx": 93.32,
+      "date": "2025-12-04",
+      "benchIdx": 102.68,
       "portIdx": 100
     },
     {
-      "date": "2026-04-16",
-      "benchIdx": 94.98,
+      "date": "2025-12-10",
+      "benchIdx": 101.59,
       "portIdx": 100
     },
     {
-      "date": "2026-04-22",
+      "date": "2025-12-16",
+      "benchIdx": 101.99,
+      "portIdx": 100
+    },
+    {
+      "date": "2025-12-22",
+      "benchIdx": 103.22,
+      "portIdx": 100
+    },
+    {
+      "date": "2025-12-29",
+      "benchIdx": 102.32,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-01-02",
+      "benchIdx": 103.84,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-01-08",
+      "benchIdx": 102.06,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-01-14",
+      "benchIdx": 101.23,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-01-21",
+      "benchIdx": 99.22,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-01-28",
+      "benchIdx": 99.95,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-02-03",
+      "benchIdx": 101.47,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-02-09",
+      "benchIdx": 102.02,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-02-13",
+      "benchIdx": 100.46,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-02-19",
+      "benchIdx": 100.39,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-02-25",
+      "benchIdx": 100.5,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-03-04",
+      "benchIdx": 96.55,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-03-10",
       "benchIdx": 95.69,
       "portIdx": 100
     },
     {
-      "date": "2026-04-28",
-      "benchIdx": 94.19,
+      "date": "2026-03-16",
+      "benchIdx": 92.32,
       "portIdx": 100
     },
     {
-      "date": "2026-05-05",
-      "benchIdx": 94.34,
+      "date": "2026-03-20",
+      "benchIdx": 91.17,
       "portIdx": 100
     },
     {
-      "date": "2026-05-11",
-      "benchIdx": 93.48,
+      "date": "2026-03-27",
+      "benchIdx": 90,
       "portIdx": 100
     },
     {
-      "date": "2026-05-15",
-      "benchIdx": 92.81,
+      "date": "2026-04-06",
+      "benchIdx": 90.59,
       "portIdx": 100
     },
     {
-      "date": "2026-05-21",
-      "benchIdx": 92.85,
+      "date": "2026-04-10",
+      "benchIdx": 94.86,
       "portIdx": 100
     },
     {
-      "date": "2026-05-27",
-      "benchIdx": 93.84,
+      "date": "2026-04-17",
+      "benchIdx": 96.05,
       "portIdx": 100
     },
     {
-      "date": "2026-06-03",
-      "benchIdx": 91.87,
+      "date": "2026-04-23",
+      "benchIdx": 95.34,
       "portIdx": 100
     },
     {
-      "date": "2026-06-09",
-      "benchIdx": 91.23,
+      "date": "2026-04-29",
+      "benchIdx": 95.36,
       "portIdx": 100
     },
     {
-      "date": "2026-06-15",
-      "benchIdx": 93.63,
+      "date": "2026-05-06",
+      "benchIdx": 95.96,
       "portIdx": 100
     },
     {
-      "date": "2026-06-19",
-      "benchIdx": 94.26,
+      "date": "2026-05-12",
+      "benchIdx": 92.21,
       "portIdx": 100
     },
     {
-      "date": "2026-06-25",
-      "benchIdx": 94.43,
+      "date": "2026-05-18",
+      "benchIdx": 93.28,
       "portIdx": 100
     },
     {
-      "date": "2026-07-02",
-      "benchIdx": 94.9,
+      "date": "2026-05-22",
+      "benchIdx": 93.55,
       "portIdx": 100
     },
     {
-      "date": "2026-07-08",
-      "benchIdx": 93.74,
+      "date": "2026-05-29",
+      "benchIdx": 92.87,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-06-04",
+      "benchIdx": 92.36,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-06-10",
+      "benchIdx": 91.56,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-06-16",
+      "benchIdx": 94.61,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-06-22",
+      "benchIdx": 95.06,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-06-29",
+      "benchIdx": 94.44,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-07-03",
+      "benchIdx": 95.72,
       "portIdx": 100
     },
     {
       "date": "2026-07-09",
-      "benchIdx": 94.41,
+      "benchIdx": 94.51,
+      "portIdx": 100
+    },
+    {
+      "date": "2026-07-10",
+      "benchIdx": 95.32,
       "portIdx": 100
     }
   ]
