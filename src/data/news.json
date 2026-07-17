@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T05:11:20.639Z",
+  "fetchedAt": "2026-07-17T05:14:18.509Z",
   "source": "google-news-rss",
   "window": "30d",
   "stocks": {
@@ -69,11 +69,46 @@
       "query": "ICICI Bank",
       "headlines": [
         {
+          "date": "2026-07-17",
+          "title": "India Bank Margins Eye Boost From Foreign Currency Deposits",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEV6a2tuenVFenVfc0ZRNEdrMVVwVmNBTlJDMm5yendVNTJRVGsxZGl4RUx4VjdtYkwtSm1xV0NaQ2x5em1uekU4X1o0NGR2OHlYYXMwTzc2clNYVmhGYzRNeUdEM1RYT1BQeWFBVGV4VXNyZGNQbUlVLUFGVmpBVlBnVjA1UHJXUVdidTJ1ZlAxbXBJOUZvUWhwSzEwcHJQQzRObHQydw?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Five major banks are set to report Q1 results on Saturday; Here's what the street is expecting",
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGY0cHphSGJ6S253NXoybnIyLTRLaG84eUxIZmpSZWRBaGh2SFZuT1dyS1VhUXA2MF9uc0tVWlZwcWlBVFpuUDRVUlEzQzhCVGFDbjVIZGdFeTg5V0REYnp1d0dTYTQyVTM4NEl5MDlIWGVIM2NkTEhsRWhWcGZGOUpHX2pfaGg2RldWTnRJUnBIeXVwbzZSaWVEOWpCU2NxZXo1UGFBdnltbENsM0RwbEhlNmRWMExlNDRMcXNvcFRFazJsOU41ZzREUzFfcnQxNl80TGVra9IB3AFBVV95cUxOSlM5ZjllVnE2UDA5Z2JldzVxYWRyMVhRUllXVlVzZEVXbmI2OVJ2eTJCQ0UyQURvUlU4SDdqWVRFeXpKY0hxUElxZEQxLWRsWmlwTGVrZ2J6YjI5SUpKM29rbm9vc3J3VUJSTVluRlNOWlFHQTU1UUx1LWpCX3ZNeVNmUE0xRmRuUUxUSS1oTDVsUHJPc1lVX2J6SXRZbmNpT3VpcGN2bC1qRllQVkw2cGRpLVZRaTNPMkY1bFF6NVpuaWlYdVVFd1hkYXVTQmtObUhsSjF2NHlYbGtq?oc=5",
+          "type": "results"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "ICICI Bank Q1 Preview: Profit likely to be flat; NIMs may remain stable",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHFWNzd4YkJjY3V0VjlMRVBsMENNT1hfVkhlYmNoTU1VSERtUUZDSWFmYngtTEhnVHBXeDZYZ29vMEV5YXRPLUpWY1B3ZnNOaGRiQUlJa2R6RGQ3ME5TZXpzWEdaNW9kVU9kcjhuc2N4UFk0UmxQWmZwYUF2UHQ5TFBkcW9PNVlFOUpZazFDblJ2X1h2RlNiTTlLMTBoX0xBOUZyaGtlSWF5NFVOMktDQkRJS0VWaVRLcVYwajdwTWJYTHY4ekJQckw0U0RDajdORGRSZEpfNFhhZVlX0gHiAUFVX3lxTE13VnhqNjA3T2tReEM2bEhxUnZxeXlMenR2SUkyQzR1LVZyaHg4TjVubVA2X3oyUERXWG5wQ2JzRFNnNTdsRVRkS1Nnei1pODd0eUNkV1B5eWoxSEhjUDFDZWYzX1RLenJoZTBjM1lQdUQycC1fY2lUTzNDek04OHg5NGd4eXFHZnQzbG9qcTFlV3JpSEtiSEdwNmZVYUo1elpnSE5XXzQ0VHpCemlpR2pPTVlBbEMybTZJN3lqWDdnV2poSktLYUhRazNVNldVT2JxLUNGMzZkRHZ2VzdSaVNqcnc?oc=5",
+          "type": "results"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "ICICI Bank Ltd expected to post earnings of 41 cents a share - Earnings Preview",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOVctd3EydlN1VHBSZEVIVHdNVXV5eXlYWUlKVlo0dnFocF9ZTVZQNmwwaHZlc2V5YUhOekJyYmNnTktCTjFVM2ZheU9INzkwbjhrNTFSSG9kWnZwZUpGUWp3U2lwdU5GZzhhLWxQSEFpOWZoVTh5WWFWUDFCcld5MG8zMGVHT3ZFVmhMU2ZKQ0Y5Z1k4RlNXZWFnOG1jX3lSczdrQkZYWHY3Y2o3Qk5lbUs1aklpeWcyaXlRSTRRRXVKY2MyR2FoMjI3RDdOZDZMVEw5c2Yta2Z3TzhUWlB2Yg?oc=5",
+          "type": "results"
+        },
+        {
           "date": "2026-07-16",
           "title": "SBI, ICICI Bank may miss Q1 credit growth estimates even as PSU banks lag",
           "source": "BFSI News",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU3lDZ21lYkR2UFQ0Y1RCTEdMTWhiX0FZNGMxR3g5cjhkT1lKUGdsRWFWVTN4dmhBakhrV1hvckVpMlQ1X21IYXphSy1PRzlGemxKNmttNDBZY193c0Y3V1FkWEVhTmdKX2JVWjlYNzY4SkxJWUY3LS1SUmJTQ3lmYjQ4dkVneTNfWUlpOWR0T2dwWmx0ZlY1OURjNHQ3OGhEVlRCZ1dUdWd0bXR3QmNGR2c1bEdZcTk5UVN4Qm5SMUdQSENjc1hWR2FfWGhycndIQS0xTmN1cDBTcExKb0HSAeMBQVVfeXFMUF93eUJjdlpXdFJOV2s5elBPNmh5bHNfajV5RTk4YnpVT09TWThOQlROZHNmRkcyWTNHY2dESXY1TlV0UFYxYVo2emRmYmd2UUNUYkRHQkpLVjdvUC11bEh6dDk0bEV6WGJHRVJyVVZFRnAteUl2QlgxTlNzMTduMmYwamtBYUV4bmNTWm9ycUJ1dU02VVJMXzkza1NuX2hrNGg5T2VUdWRkQlA0V1BSY3piLXJueF9BdHpFYkMza21MYWdpRXN4Wk1lMllGTm03VUpOVmxodFJ2REZWejgyVXFCeE0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3d5QmN2Wld0Uk5Xazl6UE82aHlsc19qNXlFOThielVPT1NZOE5CVE5kc2ZGRzJZM0djZ0RJdjVOVXRQVjFhWjZ6ZGZiZ3ZRQ1RiREdCSktWN29QLXVsSHp0OTRsRXpYYkdFUnJVVkVGcC15SXZCWDFOU3MxN24yZjBqa0FhRXhuY1Nab3JxQnV1TTZVUkxfOTNrU25faGs0aDlPZVR1ZGRCUDRXUFJjemItcm54X0F0ekViQzNrbUxhZ2lFc3haTWUyWUZObTdVSk5WbGh0UnZERlZ6ODJVcUJ4TdIB4wFBVV95cUxQX3d5QmN2Wld0Uk5Xazl6UE82aHlsc19qNXlFOThielVPT1NZOE5CVE5kc2ZGRzJZM0djZ0RJdjVOVXRQVjFhWjZ6ZGZiZ3ZRQ1RiREdCSktWN29QLXVsSHp0OTRsRXpYYkdFUnJVVkVGcC15SXZCWDFOU3MxN24yZjBqa0FhRXhuY1Nab3JxQnV1TTZVUkxfOTNrU25faGs0aDlPZVR1ZGRCUDRXUFJjemItcm54X0F0ekViQzNrbUxhZ2lFc3haTWUyWUZObTdVSk5WbGh0UnZERlZ6ODJVcUJ4TQ?oc=5",
           "type": "results"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "ICICI Bank rises Thursday, outperforms market",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdE8xZm9jU0c1aWFGTkxxbUhlTjh1eFkwOHFaVkJiZTU0U0t5bVFLUWRnR0Zndko1a1dxclVSTlc2WE9veDI4Szd3OHNsNk1rUmFPU3B1bk4wSllIc2c4SHdYS2ZlOHVIa01wUEF2aVUtS2dWNHFudGRqS0hjUmdnME9IendCbVlFNlJlZzF0N01aajQ3NXpHUVZWWXd0azNVSUZCYjFhY08wQ0hMN3RjODJrNzJlRmpQcW9iS2R5UQ?oc=5",
+          "type": "news"
         },
         {
           "date": "2026-07-16",
@@ -84,44 +119,9 @@
         },
         {
           "date": "2026-07-16",
-          "title": "₹23 Crore Fake Gold Loan Scam: 10 Former ICICI Bank Branch Managers Under EOW Scanner",
-          "source": "Nagpur Today",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkp6bnl5RVJEeE45VC05b2hGWThiU3lrUC13VGl2cElJWXFFTFc2dkdnR3ZmbHpNNzNUNHcxOTBTdzNmU2pmQUdHTldicEVYYXB5OWZ4Qzg5eERuaUhtaDFxblQxdVh2bmVjNExXMldzbFNzdEZRampIaHB0eWRBd3l3V3Q2aldJSjhLWE1DYzl4aWRLbmY4SHVvVWVSaXptS3hJZ2hjazNLcndHbnU3UTlxcF9fOFNkZjV6cg?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "RBI's proposed ownership overhaul may deepen institutional shareholding in HDFC Bank, ICICI Bank, Axis Bank",
-          "source": "BFSI News",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV1Q1NHBrUHBpVGFuMGhqRWxudUs5cENTY19MeDJFTWdmSFBuQ3hiSW1JNWgzbFlrb0k3bUhuNlE1Q3hLaVl5dUJCc1lpN0NhSGZ5c2tndDhrMEZRVWpjd1U5Vk51YnVuNEd6bzl2ZTNjbk5kWnlGQ0Z2Ml9tTnhsU2N5bWhRNWt4TDQwSzNXd1JrRFdWUXFoSXBpTkxzRFVLVC1CM05fZm5leTNNME5RSURrb2ZiN1RrQnFCYVAtWWFpLWZ4QWJMUTM2Qi1DVUVZWV9mUNIB2gFBVV95cUxOSkNjWFgta2UyTGl6M0o2RXFuX0pBMS1VdHNTSWxuWm9mOFdaUExBRlpNSWRxb0U5TzVoNXUwNUQ1c1lFT2s5bEZxa3IzTzFJM1pFU3pkdk9OVU9leGRubVdQRWR1NEZxaFpLSnRiX0pwYXJhUWZRNjVRdS1YMlhvSTU4MElEVmxoN3NVd0ZpMGdYQlNoMWFzVWFXalczZDdaeFVhWU5SejkxYnlwUnBJYWRuSFFaT0oxZk8tcUl2dEx0WWh1LVZuS3Z4X3EtMkRwbmxESi1WeFpJUQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "ICICI Bank Ltd expected to post earnings of 41 cents a share - Earnings Preview",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGkzQV9sNE1xbmN2OEhINnZWRXAxTHB0UGh6MnowWk1WWVZQT212VnhQUzJXMUpkTU55NkxoNlhuX25icVZlNEZzWlVYNzJMcG1QcFF5R1VWeVUtVDFhcFRndVlPT3hSeFVLejdhM0NEcEQ4bVVORk1lcnlUMi1Ta214N3BZQWRoNjlWdUdhYXE1NFhBUHNub0s0X2RiSGpMajNaaVROSUFVTl9aV18wcDEwdHRzME9vZkthd2NqOG0xVnk0ZjRjMTQyTXpET0VZUkRoLUo5S3dacjYyWmdmaw?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Eternal, ICICI Bank, DMart among 9 largecap stocks with up to 34% upside. See full list",
+          "title": "FCNR(B) FD interest rates for NRIs: HDFC Bank, SBI, PNB, ICICI Bank and Axis Bank- which offers highest ma",
           "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSDE5UUNIN0lINjF0WHBIdzZsV3FsQ05Yblo5UDVIYmxmQ1dmS2g0Tm5TUENzdTgyYmJKN1BMOWZCNVhzTHlWeGhfTjNWSnFXNkhGOHMxUWVfMkN3bkxnOURvNW4xZkVVWWI0ZzhKZkRLUzFQcHlCTVNRMUhncnpYVDJmZC1rQ1pWOEdabmJQbWdGaDYySzhBM0VNeG0yZUdacFFHcmpfbG1HU2xLaDBYX1BLeHZfZldvRGY5U2QtTlh0dGZ0VFdHRlZhWG5KWk9qMzl6ZkRtZHhwSVJ3WHpUbHFzd1hsZi0xaTVLc3ljd2E1SGUydmNR?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Rs 23 crore fake gold loan scam EOW arrests ICICI Bank Manager, gold valuer",
-          "source": "thehitavada.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUFUVjVxdEtzYXFDbEdKb0Z1OFVrZkcwdlUtM2cyVmZfNGt6akFWSFFma2JuQUx5dW9WRzdtUUZlaF9hdFk1MndRd0h2azJoTVNTeUl2RS01QTVLbVk3TVY2VDJWQkhVNFhBR3R1RVd3dWhYb2puRE1DbUVpNnE1S2VrQ1AtSTQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "ITR filing 2026: How to access interest certificate from SBI, HDFC Bank, ICICI Bank, PNB and India Post",
-          "source": "livemint.com",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObFFRRVdpak1MTkNTWVVHejFENmZqbU5XckcxaC0wR1dPYllEWXZrMnc1cFVIeXNPZDAtUWxwNHBVaHF5Q2tGTi1ZS3l1V0NnVW4tUzM5c0xlODd1dzRpTVBXVlZvUTd4TEY0SEFZVXlMRm4zOEo5TUZ3YzMtUVFsaUlWQnJMZnhwS1cwa1NCNFpaWjZaUjh2SFhjY0hkTUFkY2JIdng1aXlMRi13dXNzODJqR0plUm5MWFlUY1NLS1pQaGVqc0dyRHVuc2FBdFBhV2hmdWE5a0V2cnI4MGo5RWF6NXYtM3pTcFkwOEhoUGs5YUE0Q0QzMlpBUdIBgAJBVV95cUxOZ3BWNHBTWlVYWUdGQjM1SjFLYmUydUxtZm5lWWdfbXdBQ2xJOGtnVm1pS0R2UWowRE5adnZHMTRqaDZ6VDI2dVdzMF82cXZqMGdsQ0YzWDk0WWRfTjFsRW5VNThjTXZmTzJHc0pQTElhcGUyaTlEUldHdENndEowampMZlVfYjhMMFlWTFZfbVo3YndiTnhxbUtPWHJmY3A1UXZLSkF0ZmVCZTBrYlU5VkNEYlBCVm84X19SVE1Dc1BDX1cxTTNDVDVVbWluaUc0enhKWVZ0SFBnVkdhNXR4a2lESnQ1Y25GY1l4cGZuNy1wUWZTRnBCUlpPUmszWGtJ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSUpGLUhJRnJFTlJpOXE2TXNQVXBXLXQxQzFOWFpSdWlwb3R4bkZnVjJEemw2bUd2alZHM20tRXVCMHpXQnp2X25feGlXMWpMOE1Cb01aaXNCb0h4eUNtNzdCOXI0eUhPaWVEZEpQWjZCWWpnU1c3d2h5Y2hMWVcydWUzc1JldnltNW5FdllOdFcyLXVBUEZIY2h6WFRBRWFHOVhzSURub3RHRHVHN2NOWmRncXQ0MkNqODExVmZHME5WWkNjV2lEbnRxU2thQWdHYnBpeC1GeU1GZFN6NVhXSnE2YzNKV0RPVzhXSW1oVHd1STJZblZlRThURVBlam8xVFNtWmQtSEhzN2wzWVplWjVIY2Y2bjExYmI0RDRsVlJpQUljeEVQctIBrgJBVV95cUxPaG1CVjVjaWJRR2xkTFFYLVhmQ01lN0VCQWVXWlloYTJ0dHhOa2FLUjQtRkhaZlB4U1VvOHZ4TVlwTnAxYS1vX3IzTUxMeWRFVExybFlBSmlkQ25QQ202NkVIR1Q4VTZFc0VoaTg5dUs0Z2xaNG13ZzIxbXRYclZvMjY2bUc4eVNna2NJczJYVnZSandnbmQtdTZTRXVneEJCVnNMN2xGa3NMVW40NWl6VjRoeHhuY3hSOHA1cDRmb25DSV9vZGtlQXB6R2FOb3pzaWtYUElSVFRaMGtoeldyOGk3MzVnRDdnQ3RkLTJzbDhlQ1JxYm9HNmdaamJTbXZDcTdTZUVVNHI3Rzh3VjgwdmtVNE13dmVGSTVHMG8yaTJIb3NLTWZQY1djNEUwZw?oc=5",
           "type": "news"
         }
       ],
@@ -201,60 +201,60 @@
       "query": "Maruti Suzuki",
       "headlines": [
         {
-          "date": "2026-07-15",
-          "title": "Maruti Brezza Facelift Teased Ahead of July 24 Launch, Bookings Open Now!",
-          "source": "CarDekho",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0FYeVdpYW5Qb1hjQl9iQmg1WlYyWVl4blBwSnF2bThRczlJOUVtbDUtSEtzZDg0TkhwSWlJZ3U4WDFkZzBwV1g3Q1dOb0FpM1BuRUkySVlDSzhESEljRDVMTG5UUmJaOUxCVkFWUU5SWTRDV21uYjdQVldBMzZuX25HdDRXeVpNSjl0Qjlic19hSElkY1NONWVKZHZDS0FmUG5FSXpMalVJX2sxYUhweXJneVd4bmFaVmxoTWlR0gHGAUFVX3lxTE9obTktU3Z4R20tLXNqZ014ZzJHR19XdHRXMTF2alpxMG9NWTNxaGZTSlM3ekl0eFM1alA3OUNqdzJqNnZEU0lkUkt0bFgydkhLMWhtYTZmeDhLTU9Ibnk1RFdZNWNxcFI5VmQyUFNTbG1SdURvck8zend6ZC1Bang5QlplOHJjTkFtM1dUQ3hnSHFJd2wyX3FLZnRNS0d3QnZERjVEUERjQlJ3RUpDbmU1QzA2RG1HWGZSMEt3bGlxOE1WZDZnZw?oc=5",
+          "date": "2026-07-17",
+          "title": "Consumer court orders Maruti Suzuki to replace Grand Vitara over alleged E20 fuel damage",
+          "source": "ET Auto",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmhDYkFjNG9xNW5GdlBSLW9YdGlGY3gxcEZyRUVPZTlTSjYwNlo4SExOSWlTTXdnMHE0QnY2WDJZbXdKTTc5b0VvR0J5WHcwUWdiZUctME1HeFRySHZsY0VPQTNhbUNfV1hpVk9QWkJDQnZxTU5lU0xiOGZzcTVQSE5WRFpKSUhqbXJFcjdod2RiWFViMEhzMzJUOFZQQlN2ZXFfOGNBak9PRzNwbTFDdURkUmJPTWk5UmlJZ1lRMnRjNDRqcENybWVSaFlOSFMtVVZhVFdsR0V0YUtfcGVzNWFB0gHnAUFVX3lxTE8yaG1FeWtNalh1aUxUamtrdDNiUDdBajFrVzY0Z1phZHU1bU5fNTY2clR1aVFHU3hQeGRCZUZjOS0yU0l0eFRLdzB2RkQtMFVGdkwxNGkwOEVTeHM4R1pfRWFRRUtYN2F1dU93T3YxSmV6bk5QSWN3bm1XTUVIdXpGczNfb29fNWozM2ppMEE1ZTVvRmdKZldjTXNRc3J0ejI3eVd5NDB6dFZ2ZkdBM0NQdmo4bC1JLXJXZmFKV2dpdkREb1VRcVJXTEZZUGJkUlVBY0FBLVozdjFQOUNoMHFIQWpFbVBNRQ?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Maruti Suzuki Brezza facelift bookings open",
-          "source": "Team-BHP",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjaGJLNzFfbUh1REowVkNDQ2VrRVBuNHNkM19PNUhTelZZT21iOGZEZnBMcGp4WDJaVzZraFEyaGhqZmtVaWRPVWhteWNEVmpDT2xtN1Fob2ZFOGRfa1BzVXhaSnlubW9jdTJjclhVSGVucHdXTzV3bVNOZS1lZ9IBgwFBVV95cUxNMC03X1RUX0tPOHFkMjFVbHhDeklmYkhEb0pFRUdXRVpBNGdUMFJ6X3hOMG5oZWp3TEh2UTI5eEwtZTBmVGlfZEJoNllDLVBiSjFWQ29YZUVMbXJ6dFMwVkdVV19FcThTSXpWaDNkSjdrMmZxYU9GQV91V195bTQxRmRodw?oc=5",
+          "date": "2026-07-17",
+          "title": "12 stocks to watch today: Maruti Suzuki, HCLTech, Coal India, PhysicsWallah, ITI, Sky Gold and more",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeDFtUV9GY3lvU0xjUVlRWEEzZFFwTGhNelRUdVp1Q2E5elhDYUV6dEtVaEhYME1XYUFzbE1HQXJhNzFLVVhwRkJzR1I2aG1OVHhPUGZwTldabXBic05oenFjUlg2M0lPbWZVejlkTkVjVU9KRkhDZXR2MF9aTGlJV185cFlTcW5faXlVaFNoMXZBc28tQjZEcm51Sk5yUHhQV3BLbGhjLU1Nck1UMmItOUFyLUpzRjE0VnhqQW92NVktYVJoQmt2ejd1VzdhYUdUOC1XSTV0NlRPcEtZSmxnSHljMnpwM1A3RXI2YTE1ZS0xVzZja0ZaTVRINVBpbjlzSmhSRDFB0gGMAkFVX3lxTE1KZ0NpcUVUZTRXMC14NXkxWlpKRzBlRU5kVUpzTmRtMWpUQkhQV3E5emRwdkJwTXE5OWcyLTRaRFUwNFBaU1VGS2RLVlFPZzRURDlKTHdzalk5cm5ocVdUVkZlVllZNjJRc0hFUl95UDRsMnJWNmcwVGVMZGd5d09saXpWd0hzdXdFQUZYQjhQeHhhZHgydWVhQTBWd3ZiYXd1aWJsQi1IaGVrdnhFUWJkcXZybWdkMzNaUk1lOUxISjQ1cjF6dWtNeHZwT2VPdzNpYWZ2V2w4dmYzMy1YTmZsTWgxVXR2TG1lYThRdjJYaGtWcWRDNzMwYXE2SUdTRDRJN1hYVUZ6b2dIS1E?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "2026 Maruti Brezza Facelift Booking Amount - Price Release on July 23",
-          "source": "CarLelo",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3J6Mmh2ZUtQRXNpS1pja0dUeW5nS1ptVURBbVVGNk45c0pBQmsyeEFpSjhQOFVyRkxSSGxyc1dJNjhBRm5TNi1vT280NG8xTVdMcUdIOTFQWGpGMDJBenlCLUJiWGwwMW1vNHlTWktTRDBuU0pyRkVTQW04VFItSDB0b01sZ3luaUNzTWRnQ1doUXN2V3BkV1VqanM?oc=5",
+          "date": "2026-07-17",
+          "title": "E20 Fuel Controversy Deepens as Maruti Suzuki Challenges Consumer Court Verdict",
+          "source": "outlookbusiness.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaW9Pek1KTFQwS3VpQVJGQUhkQ2xhVGNDWi1hZkRzVVRrRzZKaEhXWllkRE9NaW9JNDZaOGNSX0dUcDdLX2VaeEE0c1RrZjhVNWZMQWdZbEZpUk10Y09fbzM3dHlVbHVsQ1pIN25nejd6MHdXWHBBOXY0LXJfMW1yTEJhekthRnYyVUREV2twSXoxRkh3ckFScGRrVnVBQU5uQnN1UlF2QUxMdlZCZFgwb0plVC1jN1hQMWpmdjF30gHLAUFVX3lxTE9BYjRBVHMyeGdBdmtmWEZRMS1YenhYM0RGLWhhdnpNTDc1UEtlYVBwU2dKaWdTVkFwOEcxMHM0RkNBVURPcHMzck1xcmxib3l4RXFjVndpNmU3U2JLUzlnZ3JwV0F3dFNic2JpR255R0d4VENYU1BIcldoTUJhaTB0djF2aFpLX3l6LVZ2enJMcmFsSHY0WXZlcVlUOTFGb3RmMEt1cm02alBlc2lhVXNZakRZSUp6OERUYmdWeDJwVjdpT1Rmb3BESVBr?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "New Maruti Brezza – Bigger Screen, 6-Speed Manual and More",
-          "source": "CarLelo",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGJWUng3REFFTFB2N0lGZW1KaTViRE1sdVRFNjU3U2o5YVlUSkdwOUZLaHFfRWJ5R1FEYjJ1bTZDZkdjc1F4ek1aZVgzcjd0ZTNzSmo5S2hsWlNkeWhrQ1J4NDM5WnJxazFjZWxIT1l5MTlscDVzNmdoaWtnRTN2RVNzUGw1Vjg5em9Wa1RzODhRMEEx?oc=5",
+          "date": "2026-07-16",
+          "title": "Indian court orders Maruti to replace car in first E20 fuel damage ruling",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUw1RXNxejdkVWYzc2E1U0RsQXBfekVOdGx1NVppS19oVDNnb25PYkVfamJmaWNicXk4TDNpc2FoWEtIVkE4NUg4d041TjNnY1dPa2lNX1pHamhkM3RNYmk1bThXdWJUMUtxcnh0cWJqUEtvSmNNYUpTeHdYRTQ2NXdjdVNJWGdkNXFPUFIzSWZ6YVVGZHBSZVlQQzVxbVozVEZhTGM0dWVEMWFOcklhaktnR0l2UQ?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Maruti Suzuki opens Brezza facelift bookings with turbo option likely",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb1ladHkxdi1YeU5mMnRJcnp1WWJuQ3BLRmRnTTZRX2I1TlRscHF1cGYxWWFUdEsxOWRhLWgyR2ZmZ0RkV3FhMGZkVjR4QTVkQlRhamRzM25mUkg1a1ZGdHhzRk45NU1XbVcxT3k5aFdYMDhPcy1LaUZBVGhsZVdENnBPcjdhX3BKWnBKYm13RW4xdmZwMERkZU5RSG9ZYm03MWZoTFBaa2RvRHRfaUdDdENPbVZkbGdBenl3Y193bmRuWWNsemk0elRFQlV2RlJGZFMtRVExc3JFYXJTNXVuQzQzMy1jTjhOSUFwMXN0TnRVd3ExakNpYXYzczlXOE83?oc=5",
+          "date": "2026-07-16",
+          "title": "E20 fuel damages Maruti car; company ordered to give customer a new vehicle",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkVLeTRNZFJxWW5TX015X2ZBSm5laVdWaTYyQVVsMXk4eXYtVGhyY0hUTDhzNVo5eHRPc0wyZnlldm15OVFWM0YzSUNab2tJNnNRMVRidUFBNlkzX2Ntb1RWZ2Y0LS1BamJkRWt2TmN4ZTVEcFpPeDlibDBLRkY1UlMxWWpseVRBQjJZWHpFUXdwUENINll5TDZrTk9NZVBuUW9EOFhvS2VLT1FiWlh2UV9LeVF0bTdBVXR0SFRMSmdYZmVwQ0lZU2doQ3hrYzItaHA4QmlBb1NhSlcyaGtMddIB5gFBVV95cUxQOUoyZlJ6SW1PbTg1Yk41Y2FHRFVhRnRES1hlckpkZFNodlg1SGh0UDRZS05ockRvWjkxVVU0TTY3bThCNGcycGkxRGpDQ3h5cWFzeXNKNGJCazRJVnVubU9kclpZX2h3YWJIMEViUmpWbkNLLW8wcXI1ZU56MjM1ZGJTcjh2Vkw0c0REMlc0NXI2M3oteFRZT05sejlHVXlMNUxhaDFXelV2Mm12dTNCZl9ZYzVrS0RGSzd6Q1F3Ui0zeUZTUlNONFVLTnNfYlEzdjJDR3N3ODluZ1BOYms5WjVxcjh4dw?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Maruti Suzuki Baleno Safety Rating Explained",
-          "source": "ACKO Drive",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ydWN1bUpFdzhHWnlsZVdiN1NQOVo5MTcxQ0ZhcGJ3LW96RVF2c2R0NmpYc0FUQ3p2VjBLTkU2Q3pLbnROa0Nadk9lbjJiRzdFWVd0b2RfU0kxdnZSeHlSR2lzYmN4SUV5MmtFbXJqU1p4UWFyM2c?oc=5",
+          "date": "2026-07-16",
+          "title": "Consumer Court Directs Maruti Suzuki To Replace Car With E-20 Compliant Model",
+          "source": "Live Law",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjdBZXpsckszV3kxbEVNMVBWOURGNEZWSmZsLVhIc3ZMMEFJWW5iTG14WmotcmhtdHBzTnFadlpIcTZuN0ZmTXhERlA2LTNjd3lpQlF2Rnpob3NEY0xyWlJBMzhmRzNJRlJvWlNqMkRZZl81a1ZRZVhaN0FjSWhqV3p6TzFGbG5EcVpFWnJCa2ZqM3IwSWI5ZGJYemNlVFEzWlF5d3BMc0ZhYjJhVjhHSDd6cVRuV1pjN3Z1QlM4Mk1WSXFROEHSAcsBQVVfeXFMT0NSdWdXQ1lKNFpVb213OEdaWDgzMVlnSmJ0OVlCMDB3SFZ2eFJONU9uOWEwaVVIeEF4YTROQ1hVdVE1blo3Q0dxSlg4ckV5aExydjdQOTJIQVJ3aS1jLXhObXlOeTdvNU9jck8yXzdvbTlCWnpPZ0gwX0F0YlpZSEZpLWxOdzFZUEptbFdfc1A1N0x4enJQOEx5TlBmU2FuWFVYaXMzQ2tRWkNIak4tSmVNMHloWHp1RmNyVjNjOGN1dlU5bUxiYl8tZG8?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Maruti Suzuki to Consider Q1 FY27 Results on July 31 as ₹140 Dividend Record Date Approaches",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMDcySjRUU1N4N3RQWUpIU3A3TTg0c3hYN1hoTm1Zd0E0T1RWNmxMdkhNVkRvQVhWTEFwWWJrTVR4ZHQzWVZGc1kzWG5IYmJXUG1vcm9kbWlZS2FIcGE2Rm1meHM0VTQyTDZta2lEdjlMT0J2OEhSZnBlZWdXMDNqUzlMSUdXZ1hFRzZHcEhudDVFcEdHNExqeFJOMldDM3FHVHJOVW95VDc0ZWR3XzBBQ1VRLUpQdTN3TFlHcHFHUlB2OUtaMWdUY1F3?oc=5",
-          "type": "results"
+          "date": "2026-07-16",
+          "title": "Consumer Court Backs Owner In E20 Case, Orders Maruti To Replace Damaged Grand Vitara",
+          "source": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1gtWVlUT0ViTjBtcTIxNkxBclByTlBJS3M4SURfUWhtTlFyYzRQbExUaFFDdXFON1JBQW56QlduRkViVmZkQ01zVlc4TTlPdnVpMUhSM0hjWVk5UmwxZm53dDZKVjNlamJYa3JoYllIS0JrZzV4N1p3ekl4Z2RQaXJaV1lSZGRlYkZvenpwWE9oSXM0c2NSaUg0VHpMWkRtcVA1S3FhY3hVYk9PVjJyYdIBuAFBVV95cUxPdnp1UTFoSDJTVlJtNnhDekdDMzBRa1AyNU9CLVY2U3F3bjgtVzVkdFpmNFlLcEtWWGN6aWdtMEw0ZF9TV2d2d2RfSWdGdDRseWdsYVhndkhLRER2UjZOQWJqU0V4aEJtWW03bE80TFZPNTNNOXVCdlVjcnpTeEt3X1E2MkcxbkNzRlNxd0pUejUxMGtKVExBOTIzOXZjdDZoNUlJVmY2OHQ2WFVuM3RMMW9LclA3MW1F?oc=5",
+          "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Maruti Suzuki Brezza Facelift Bookings Open Ahead Of July 24 Launch",
-          "source": "Car and Bike",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjZzUFNKT3d5Sk5SaFZjVVZfa21qN0tGOGMwRzRlVnBtY1lBT3JQZXBuUmwwRnpDRG55RDBpdkx5Mk1aMWRHN1RuT05jR29vLVlkS2pWeS1ZemFZOWh4NmRENlE0QlRjMlNWVFdkd0J2VGFySUd5dWFxeWk3LXdfd2ZSaWxYT1hjMTdMWUlWamppMkNGU1NKT1pzempTVDUyRHZZd1pNeXYzYjQ?oc=5",
-          "type": "news"
+          "date": "2026-07-16",
+          "title": "Maruti Suzuki to challenge Raipur consumer court order on E20-compatible vehicle",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXhObHFEX0ZkMXdXZ3NQWTBuM2dZdFVFVnJIajFtNjdkSFBnSjctNWdCZE5Ed2VjZ3pVQTFiR0JTRElFeG5nLUZsY3JDOHlLdlZKNTNOc1BFZEExbEhsbE5HM2ljNW9TVWxYNVZOTndRa1dESDBLSV9KX3NBMEFqT1F0Mm1HajZ0Y1VoblJBdXdtYXBHbGstSjhZcmJoakhpNFFkUUdHVjdGY0g1bjJCUGQ1Y2hCQmhlT2RRTkU1bWEzLTVxT2M0RmkwUmZPN1RyVjlaUzVsb2hHQdIB3wFBVV95cUxPX0dEbENiOEVrLVhyQWI2eTFtNnlnSm5hMmNGZUVGSnJyS284cHFfa0JvQU1WU2tlcUx3eEJyY2dsUGtKTWVucWpQS0praXBnMzA0OUZ1NnhfZ29DM2R1aERCR1VqdGtzVUdXQ24yVFdqNXdEYVRpTGVYN1ZpUFlaMlZneWJ4SW9vdFNZNDlHSjhLSjFybTZ0WnpUdzc2T1dZTy1NdXNfcDhZbnFEcVdKUHJHZm8zV2tIbnlqM0NCS193a04yZVc3ck14OFZrU2JlY1pLR0J3SXdZenhUc1lN?oc=5",
+          "type": "order"
         }
       ],
       "ratingSignals": []
@@ -264,6 +264,27 @@
       "headlines": [
         {
           "date": "2026-07-16",
+          "title": "719LT34.N0 Bond Coupon Profile — Rate & Payments",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iVE5UUEpJdzBhTG5qZGozN0o1OXY3UlVnNkpoLUdLWVpYdC1YX190V1lSOXpEa0FTa2R1RDVpbXhBTGhPTTlteF9WSGxRTjExRWwwVi0xNGtXZS1iOW9USHA0bzZfdE9WS19GX251eVN2RTNv?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "3 Nuclear Energy Stocks With Exposure To India’s Power Buildout",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNJX01Za2p4X1pycUJEUFo2bGJIN09STVdOQm0yVmFCNnJhWTNaNVBVTlpPbE1SYnREUnFnalRIODNnNXZ5cm1maTNKd3p6VnBLTkZMWWE3WlRfQWdLM3JSZUtLZTN6ZUljeXJWdVFNQ3UxamxmcEVidWFqWTlRVXZWT1RhTVA2T0Y5YzlJT0dOMTRvTXV2bDhGcWEtejFHLXhRcGVRLUpsY04tOWZULUdfZTV5Zm9tZWQ3eTNvUm1UUHpOcWUweVNTN0ZaMjFtQndGSmpfZFNqVzJzc1F2YtIB4AFBVV95cUxQOUNJX01Za2p4X1pycUJEUFo2bGJIN09STVdOQm0yVmFCNnJhWTNaNVBVTlpPbE1SYnREUnFnalRIODNnNXZ5cm1maTNKd3p6VnBLTkZMWWE3WlRfQWdLM3JSZUtLZTN6ZUljeXJWdVFNQ3UxamxmcEVidWFqWTlRVXZWT1RhTVA2T0Y5YzlJT0dOMTRvTXV2bDhGcWEtejFHLXhRcGVRLUpsY04tOWZULUdfZTV5Zm9tZWQ3eTNvUm1UUHpOcWUweVNTN0ZaMjFtQndGSmpfZFNqVzJzc1F2Yg?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Larsen & Toubro Ltd: High-Value Trading Highlights Amid Sector-Aligned Performance",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0tfcl91VjA3OGxIbXhrbFBWZ3VoazVMbjBCQjlLMi15aTVOZ2VBd29YYzVsSlpBc3FVTU0xMTlBbHdBQ3RsWUs4ZlRhR1BzN3p3cGQzcGJJQzlBVThRM2pCQWxpVWlNY1JaN0VmcFBfUWVhcGw2U19pbWh2SVlFX0R4c3NITkpyRWtwTUFhaHdwVDJzTXdEN0t3UzAtT0tiMnRHdHd2SW5HRnJGc1NITXJ6SVJoZ2pfeFkxWWhQb2hfelJXOUhwVnJJeUR6amdNVDY0?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
           "title": "Stocks To Buy or Sell Today, July 16, 2026: Larsen & Toubro, UCO Bank, and United Breweries Among Shares",
           "source": "LatestLY",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMWY2S0NSZHNmalZxNmZWWjhLazJpcVgtYk1qMFZKakpYeXVMZDVQeDhzd3lBdmQ2ZWloZFUyZzROUjhvQkNRblBRUG9WQlp4X3B1U3JBNWYtWk1ZMHhZVEpzdlowVXd3Mm5yYWlBQ3VCR2V1NkcyZVE2WmdVWE1vWUJmU1FKdnJBdDUxeXdTREVvOGtpWVdUSGpLakUtMXh1d3R6cjFpdG9Qcko0YkpUZTdHbXMwTEc5QmIwVmZXeTlYMUhYZ1c4QmVKblpJcDY3Qk1BSFpZUjdQZzBmRjFJYW9uY1hfY3VWZ1NnZDVmUkpSUkx3UkVpTFpmRXBfZWJZdS0xbjl6Yi1zckxzeWJ5UTNnTdIBmAJBVV95cUxQbHJZS0d2TmZJVXg2R3VsZEU4anAzMzRrZm01ZkNVVERadzhVMTE2X0d3WERyd2NfYUZTbE1ob3JGRUdmaUJzODZrNDNxTHdLTXR1a2Q0R0dEQ2N4eWlMUUlZWVZENTZYT3hzbElFVjduTlZNTDFnemsxelB2RGlVTkNRUUNobWp6a3FmSjFkSU1OS1EwMkhYNUlvN1Myb1p0aGxpdG05WThSN2tSaFlMWVRqaUIyNkI5eGVNQXdUU0g2NEN5aTJWTVVhQnBlcEFpT3VpcUEwUGN0NERzNjJRR3V6a18xbDcza0VQTTZvTHlGMFU2dGFXdU41YTFXTTM3M1RBUXJ5VC10WWFBTEltOF9vVzRqTTlH?oc=5",
@@ -271,9 +292,9 @@
         },
         {
           "date": "2026-07-15",
-          "title": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVmU3ankyakd3LWZkTXJmN2xacmxRYlhfdjZlWmpWUzRKYjFZS1IzZ1RuOUxaSHVhS05NWHNGUVRKNTZ4VWEzc3V4RjdoMlJsWUNDSW5fY0hLZGR2bDN0TDM2Q1hYV2M?oc=5",
+          "title": "Larsen & Toubro slips Wednesday, underperforms competitors",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFF1VGdsWVprUnBpQ1RJeFl2V2VadWxIWWN3aWZudC0zWGFVTWo3TTFqTGRLNTZ2R2IzT3hlNkZscE5tSzFxUEVGVnhIMXpwTkktNkJzS05UTXNBb19jSVVyRlBEclM0eENWdmJtcDNWWnptSkZBV0pvOEFyM2QwNXNYTUhFZXB5V2ZPZWZTY0RNM3ltRTNsaGpDZjBIMTQ5MmVmaGQ2TV9MS09rNEVNdg?oc=5",
           "type": "news"
         },
         {
@@ -292,30 +313,9 @@
         },
         {
           "date": "2026-07-15",
-          "title": "Larsen & Toubro Ltd. is Rated Buy by MarketsMOJO",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdTMyaEQ5STRoeDlnWWpBaElwUVEwMGFSbGt1X0dXRmd6TTN3STJ6aThmTWhYclhXSHRoSXhEZjBQRVVHWk1HeXlrTTdTdHJWUDhrTnQyMFFPLWtsY1lzX0NUR1VsV1FjLWZ4NlB4TjJQYlQzUUFzTHlBaTgyY19YbEg5NkY0NTJuTnBuZldUdy1MMzBCTXhSWlh0Zl9OYXNOa25wSE43cU5uaVk?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Larsen & Toubro falls Tuesday, underperforms competitors",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjIxYW8yU2pGdldwclJBSDljLURtWktQcHNfWXZEWXFZbnUzSjM3SlRyRHdwWjBscENud0tLOWt1SmpxeTJBbzJYRzJkc28teEpoMG1EcWxQNmJ2RTNpMEx4XzQxc2g1NVBKSlgzOVFLLXY3alN6ZUtTQlZQdXF3VDlnUlVaUEY5V3VseURuUlNocEFjbUduajJtOGhfajVrNnNtUGxTMUQyeWhLRkE?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "India's L&T Technology Services revenue rises on strength in sustainability segment",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2R0MlU1aDA5T1RxRnQ5Rlc0ZkZtWUxUaFI1LWI4Wm56YzN2SGo2eUZsTXR2QUhmWWpzZUlEanZyNmVzdThUdnJGVFJ3LTQzWGZ3OHRoMWtvWjRsS0k5bHRMUUsxaGFxTm9NRWJNbUZxaktoU0VkZk1lN0VKREhoUDJ2LUFhQTlSVDVuMEFaLWRodFZ3cUE3YzJJQzR2M1BMbThUcTJwZHN1d1dQaVI2c01tZjBacEMxNEFwaE84M1M?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "3 India Nuclear Energy Stocks Backed By Reactor And Power Equipment Demand",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVC1mSzlGRUJfaTZIdEE1MjBZN2NoM1VkWUlNcUlla2xqaU9RVDlJQXhtMnJlR0xIeUxyNTNfYmtyaE5sZGp3NTBtcU1Kd2I5UENyTGQzUlNhcFR6YzkwNm9RN0FtQ2Z6eXFveXZkdl9WaXRNc1licVl1dTY5OUFBU2NBc2tYcE9fa3BGSXAtMGE0S295TS1BbXh1OFBNZzBoQUpxcGtudG55aU5NX2M2b0NvU0F2aGtYOGZYR3U3NGVtRmNaMEFLTjZDaWZ5YVVmcWoxeF90NllBaEFHa0NENtIB4AFBVV95cUxPVC1mSzlGRUJfaTZIdEE1MjBZN2NoM1VkWUlNcUlla2xqaU9RVDlJQXhtMnJlR0xIeUxyNTNfYmtyaE5sZGp3NTBtcU1Kd2I5UENyTGQzUlNhcFR6YzkwNm9RN0FtQ2Z6eXFveXZkdl9WaXRNc1licVl1dTY5OUFBU2NBc2tYcE9fa3BGSXAtMGE0S295TS1BbXh1OFBNZzBoQUpxcGtudG55aU5NX2M2b0NvU0F2aGtYOGZYR3U3NGVtRmNaMEFLTjZDaWZ5YVVmcWoxeF90NllBaEFHa0NENg?oc=5",
+          "title": "Al Maktoum Airport selects contractor for automated people mover system",
+          "source": "Construction Week Online",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWVienBXbEI5UlNtc3F2Zm9FR1JHamhiRFNJV2trS0hKRWl4Nk1sWjVYRVBicDlldnYwSHk1dW84TjJGbnBleTZiVUVBelN2YWtEejVqUDRENXhqRHB4SjVVS1NwYVl1X01uc2V2R3RTb1k0a3FHaWJISUNON0t4V0o0NjRCTW5l?oc=5",
           "type": "news"
         }
       ],
@@ -325,17 +325,24 @@
       "query": "Manappuram Finance",
       "headlines": [
         {
+          "date": "2026-07-16",
+          "title": "Manappuram Finance approves six director appointments at EGM",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXFDUnY4bUV4WC1Mdy1lazZmOEVPdklzWWFPa2dMYTBqM2hmRW01MVJMblVTbVlpZ2lCT0FILTZ0Q2hpZWxTdVBNNUVLN05VMTNGNDlXTXZnMnQybzlZZkM2ZWFrUmJodjRsdml4cjNJUnJ5UGtuaWVYU0Z3SkNTOVE5UkI5WUtYZDBqN184SDB3eFJ0QjVSWHBPUmQ1bmFUeUlMTFFXdEdfeWdqTE1tRDY3RmJWaXQyOVE?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Manappuram Finance announces completion of CRO's tenure and interim appointment",
+          "source": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0JTNkFTNURoajVQU25VM1lFSUdrWEl1U2lodnRTTjRWTEN0U3IzQWJHRXY4dS1sV2VYdVBYZ3MydnVVSjgyWUhmSm1WeU9wbTQwanF3QmtadXpyS2dWM09XNW1TWXFqUDUtNVF0TjNFYVhzdlctaXVfcEN0bU1RUENDdVB6SWJjU2ZKa0lwVUFkend5dk1UOTlXRllvSm5hSW1qZEMwM1RoUlRuR0tyYzF2bmNSRGM?oc=5",
+          "type": "news"
+        },
+        {
           "date": "2026-07-15",
           "title": "MFL19626 Bond Profile — Key Metrics",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGWnk1WDdkZ1pkWGJ6WXRLeFdoeG1WeDVFeHhocVR1UVVrN3BSME9NZWdEWkp3LXA3c0JMXzJOZkpGbU55Yk56N2x0ZExnX29YSnhGWDJlWUY0UTVObzU1MUs3LU1pZ2plY0d3UEtQYzJrR1RP?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Manappuram Finance appoints six directors to strengthen board",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXFDUnY4bUV4WC1Mdy1lazZmOEVPdklzWWFPa2dMYTBqM2hmRW01MVJMblVTbVlpZ2lCT0FILTZ0Q2hpZWxTdVBNNUVLN05VMTNGNDlXTXZnMnQybzlZZkM2ZWFrUmJodjRsdml4cjNJUnJ5UGtuaWVYU0Z3SkNTOVE5UkI5WUtYZDBqN184SDB3eFJ0QjVSWHBPUmQ1bmFUeUlMTFFXdEdfeWdqTE1tRDY3RmJWaXQyOVE?oc=5",
           "type": "news"
         },
         {
@@ -354,9 +361,9 @@
         },
         {
           "date": "2026-07-14",
-          "title": "Manappuram Finance Appoints Six New Directors, Strengthens Board Oversight",
+          "title": "Manappuram Finance Appoints Six New Directors After Strategic Investment",
           "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT2ptc3NRdjlnV19oTUZWNUd0ZFFnUzFaR0tYVnVCWHhXbkhXcHZ5XzhvenpTWDdIMXFkLVNnay0wMHhVVzF1M19HR1FiS2RvYk5palBlcllsN3k3emVOeXg1MEVZMm55eTR1cmEtb2VQU2x1UEVZTFBZRXctQlZCTklmYzNTZTdhV2tjdXp2eTdSWG9fQmxEc2hQd1ZBMlJ6R1dsZE5JUWFSNVVQQjYzN1ZkOFN5VWcxX3FWZnVBV01HTDVDc1JEWHNKMHBsWnB4YlJNUWJxY0RFWFhDNWdlak9FSnJUTkcyTnl2M0cxY3RwRm1oZ2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSUF6bzNJZ0FvbHNCcmJmLUZQVnpkcFhkYV9BdnRmcUlpbXhFU01Jb2Q5LUVhbHUweFpzZmtsd0pFMzBEdkNvelZ2MDdlN1oxZHNuSGV2UW5heHBjb2tJUVdxaGI1MDNYOXdTUUF3YmtFSjNEZVBNTXpVeW04RkwyYnVsUXdURk1fZm9PdUczNWxPMXBLRlVXVFlDWXYwbWM3dG1vY0gzeEVsQlRNY0U4RFNxTFc0bXpOd1g1bThadnZ2bXdNbE51TzR6VC1MOHo0eGRSMVFpSGp0RmhFUkVzaTJxRm14X0VDV0JDMHRwb1paNjN6?oc=5",
           "type": "news"
         },
         {
@@ -372,13 +379,6 @@
           "source": "Whalesbook",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObW10RkJrd01EWG1PUGtlQ09Ba0lEXzdGa1p5bXlSZ3hJT3N5V2diekdrRlJVclU0T1doV0pTTTVpRVlBbkNlYkdHX2I0RHFIczFFQlRuTThRRUdkWjdPQUtHM3BvZFlGc3l0V2dZSkp4cXdpOUV6cUpKT3dVSkxmVnRCclIxaVZoQXpZaElOSXl4QTQ3S2hhajMyUjRCcXhndHR3QUs1UHVfSTU5RzFHQWhNZmFNcWZnX1IxVTA2d3AtX19qQ0hYRFl0M3R4cmp2QkJYNV81ZENOa1hyeEFGcTAtQ3pNSmdVRC15QVFJMXctX2FZU3c?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Manappuram Finance: ਬੋਰਡ ਵਿੱਚ 6 ਨਵੇਂ ਡਾਇਰੈਕਟਰਾਂ ਦੀ ਨਿਯੁਕਤੀ, ਕਾਰਪੋਰੇਟ ਗਵਰਨੈਂਸ ਨੂੰ ਮਿਲੇਗਾ ਬਲ",
-          "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRUJBOU1iUzRwYm9pOUctUHNnM1ZXaC1YUllrWU1NYWZiaGlid3dhUEUxZ0dHY2s1UW41emtNclhCRTVrZjFlVmE4UXd5SHdXWE1Qak91SllMUXphel9ZcDI1M0F4LW5Hc1R2R1R6MWd5NTd2T1MzT1ptTkJaTWd1Z0RnZDloS2tsMGFlSWNmeDRiRTVYNk1hWklGU0IxbUVVajJtOVRTVVI0YlpnMl9DWTFGZ09vaVAxZVBVdTNRUDZlV192ZGJERW9kRzZCZG5rdFRMTUN1TUFoZHBMRVQ4N01aT2tYMVhKa2h3bk8xM3NCOUQ5WWc?oc=5",
-          "type": "news"
         }
       ],
       "ratingSignals": []
@@ -387,17 +387,31 @@
       "query": "Kalpataru Projects International",
       "headlines": [
         {
-          "date": "2026-07-15",
-          "title": "Kalpataru Projects International Limited Announces Declaration of A Final Dividend on Equity Shares for the Financial Year Ended March 31, 2026",
-          "source": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOazBEMXpKYllPWU1XN1lJVmdHUEowd3dVdTR1TEFObUdzekRpckt6UktwUXRudUtYTHY4d2VDdTlLNnNmbVBmRkI0WlJjMWtNd3lKU0d3alI1eURyc0ZvNWR4ZV84RE1pZXFkMEFHRl9CRVJvR2tMTERtSG1yc2prbjZhMk5XYm5tcGJzTEJkbENTb3cweVFsMFMydXNtVTB3YmpEdWlYdjk5b2ZrbkhnSkRuNWprVlFNTDRNcWFSY3ZvWGdUdkloQ25aS2VIeGJ3MDZmNUI4SW55V1k2bWVRWUVOZmZsb2c?oc=5",
+          "date": "2026-07-17",
+          "title": "Buy or sell: Vaishali Parekh recommends three stocks to buy today — 17 July 2026",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXQ1Q1FWMjNTaG42VFBjaEVkTF9Vbk1KMjMycS14NHRIaFEyU3FRbzViaVFTcEZqUE5Md3hackxYcWtnTzdQVWphRlNIT0JERUhiX0t2cnplUEFtX3VsU0c3UVFFY0N0MU5NUDJGZGI2eDZwSS0zd0hwSnhHQ1hGWXljV0xkQlVvSXdJMWU0b3M3YWJSX2d1cFZ2N085cTlxV2NkUkpEVkVNVE1ueWxvRGx1ZWRWWXZOS2o4VVNHVUtPN0VLdlNTTEdzbnZHOVVlSHY5NWlNaWFBUVlJSDZyVHpfeEtsUdIB5gFBVV95cUxQbXQ1Q1FWMjNTaG42VFBjaEVkTF9Vbk1KMjMycS14NHRIaFEyU3FRbzViaVFTcEZqUE5Md3hackxYcWtnTzdQVWphRlNIT0JERUhiX0t2cnplUEFtX3VsU0c3UVFFY0N0MU5NUDJGZGI2eDZwSS0zd0hwSnhHQ1hGWXljV0xkQlVvSXdJMWU0b3M3YWJSX2d1cFZ2N085cTlxV2NkUkpEVkVNVE1ueWxvRGx1ZWRWWXZOS2o4VVNHVUtPN0VLdlNTTEdzbnZHOVVlSHY5NWlNaWFBUVlJSDZyVHpfeEtsUQ?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Kalpataru Projects International Ltd Technical Momentum Shifts Signal Bullish Outlook",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFZaM01jLVlOWFhtSWhsOTRra2JaUVVKdTZjS3ZJYlNwbG1DUUdrcWRFcHF3cEM1Vkl3cHVscG1GSXdvanNPRzZCdXptQTlTY2tZNE5XRHhaQm5fWkl1SEd5VU5tMDI1cW93Y3RvU0ViWW1CRllmZWNwM1g2d1p1ODdhalByS1hBZExRemJJWFpWNVJkcUNqRDZBMTBNVUQ2eTlOMjhMVF9KZm5DZ2lSczF0OF9ha1M3ZGtGU24xS0RXVlgxZ1dPYUlhVHZfeVlXWGMzNnpfdEQwc1E?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "The 3 power EPC giants holding Rs 1.18 lakh crore in unexecuted orders",
+          "source": "financialexpress.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDd3cmNxMDZEcGExLS1XMXpubjlCc3p0Z0VwRDVOVkxYM1FEZzZrLU11LXppclpXRGRDWWZSM25XOHhfdUc4VFlGanJpYXVqNms0ZFBlZDc4d3kyWlZhNHcxblhBVkk4aHpjZFZiUURCNmR0NVY4alg4ZXhaRVpZSm9mOC13QlJYTVRwaTQwVFQtZU9EV2QwOUVzMjlMdURUV1lkU1JrX2FyeTItUlA2WFB1UWxXZlBBbXpfR3ppR2NuVEVnXzFHWHhYZXBlN3fSAdYBQVVfeXFMT3Z3Yksyd01CVVNtUnozcWprRS0ySTA2QnIxQkptSURKN05hZm11dnBzY2JTT092RndYYnhLZDNIRDNYb2lZeXkzUXBCYTVrbTFaRThIQTNzN3YzY1JkVzFmOVJVaUVxMWF1YWQ3bnphTEs0TGxFYW5pWTJhYW83c2dkYXpZZVRDOERLc0lkZDdPMWlZSEo1NVpfU0xubXQybTV0azZFejRtLXEwbzg0UXlpckxyOV91ZUNCTVY5MjZYMlNEVFNEU3VaWlFaWHlrc3dNSWdjdw?oc=5",
           "type": "news"
         },
         {
           "date": "2026-07-15",
-          "title": "Kalpataru Projects declares ₹11 dividend, approves FY26 accounts",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21nUnlUZHlfNmhqREEwaHBsVlQxU3YzQWdqN0xGZjlVa1ZwcG9UTkFsb3ZiRXhGNERpNmE2Yk9YQ3pMOVVpcEQyRkVIZHZ6VV91X20wd01HUzRhSDZSbXh5YjdrN1BzRWxpZTNSc3NiRnYyejN2SW5QeUVIT09nenh2TFRoN3hwYUxqMk01VFNwVVNlaHczaENTQXM0b1hXMXlQeG5fbXlpN0l1RjI4VWV6VDBTUzR2OUFZ?oc=5",
+          "title": "Kalpataru Projects International Limited Announces Declaration of A Final Dividend on Equity Shares for the Financial Year Ended March 31, 2026",
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOazBEMXpKYllPWU1XN1lJVmdHUEowd3dVdTR1TEFObUdzekRpckt6UktwUXRudUtYTHY4d2VDdTlLNnNmbVBmRkI0WlJjMWtNd3lKU0d3alI1eURyc0ZvNWR4ZV84RE1pZXFkMEFHRl9CRVJvR2tMTERtSG1yc2prbjZhMk5XYm5tcGJzTEJkbENTb3cweVFsMFMydXNtVTB3YmpEdWlYdjk5b2ZrbkhnSkRuNWprVlFNTDRNcWFSY3ZvWGdUdkloQ25aS2VIeGJ3MDZmNUI4SW55V1k2bWVRWUVOZmZsb2c?oc=5",
           "type": "news"
         },
         {
@@ -408,39 +422,25 @@
           "type": "news"
         },
         {
+          "date": "2026-07-15",
+          "title": "Kalpataru Projects declares ₹11 dividend, approves FY26 accounts",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21nUnlUZHlfNmhqREEwaHBsVlQxU3YzQWdqN0xGZjlVa1ZwcG9UTkFsb3ZiRXhGNERpNmE2Yk9YQ3pMOVVpcEQyRkVIZHZ6VV91X20wd01HUzRhSDZSbXh5YjdrN1BzRWxpZTNSc3NiRnYyejN2SW5QeUVIT09nenh2TFRoN3hwYUxqMk01VFNwVVNlaHczaENTQXM0b1hXMXlQeG5fbXlpN0l1RjI4VWV6VDBTUzR2OUFZ?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-14",
+          "title": "Kalpataru's Q1 pre-sales rise 6% YoY to Rs 1,329 crore",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkpOanBWVkFrV2NncFZ4MHo5WlpJdEF4VkJlaGpuWDhKZ0tBbTJ5WnBjWW5vRFFOdW55dUVrQjFsYkJ3Wk1uUk1vb1U1a0pNdnlxRUpSMWdUT3gxQTE4SDB1VS1HQ3NWMlhMQ0NSNV9uVk1IRFlUYlNSUloyb296MTY4SEh0TmdfenB6RUZoQXNoQ3dKR1llTURidnQxSGZ0bENBWllfYlE?oc=5",
+          "type": "results"
+        },
+        {
           "date": "2026-07-14",
           "title": "Kalpataru Projects International Ltd Upgraded to Strong Buy on Robust Fundamentals and Valuation",
           "source": "MarketsMojo",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYmpxWWtacVg0UTZIM2ExRGx6eUpzUU9hNl8tRThpZXJ2cERUS01RNUp6WlJYMmxfNlB5d1gzakdZOEwwSE83V3pUNmt3bjl5S0FVbzFzWG5BWDdBdkF6MnBpNDJUQmpzRi02TkJtTEZDWHloWEdyM21xWFlNNDJQMl9oT192aDNyeG53WEdkSk1lVnRzVEViU012Qk1NdFJBUEZZbVZFMXJVdkFPdUVCWmpxU3VpdGU4V1pfYzFQYjlhdHR4OEtUeWU5a3VScHdpSVMtRDlsS2hqR3ktWEJndDZ6UTJVSXdYbTc2RUtyQQ?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-07-13",
-          "title": "Kalpataru Projects International Ltd Valuation Shifts to Very Attractive Amid Strong Returns",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZjNUcDJvNWwtS29MVHlJV25QaWY2Ri1BOUhNcW82ZGI1VXp2OGlvQVRQOEtUd1pVb21BX0p4MGJTNDY0aFlBd3V4RTg4SHN0QXRZRXk5QWNXeFlUSmlseFNDdHFlOElJN0NOM1J1Z2hBN0hCNlJ2TFpycDhvUEhJeUZiNkVoWFJlcDFwanVTUmlXLUdaMEJKQWhxSHRIZUFjZEo1Ymd4NDhZQTJoVnlzT3dYVm9Uc1JzcG1uUFBTbTBYZHRacGVFLWRjWVVoSnZkc01GYV9GVXliaW9uVTFJSnVMUmk?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-09",
-          "title": "Kalpataru Projects International Ltd Sees Technical Momentum Shift Amid Mixed Market Signals",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSGVNN1FzUVBGcXY4bGlZY0VyWVpvSkxXU3I1WklpdDZBRE50YnpxRFd3VDdnZ2M2T2MyZVgtMFBCVTJaSF9pbzhHOUtpTUs5ckdwSFl0b2hZNmlMenVIcHVaaUZTaDF0alQzWWszUlNrQ3pvWW9ld0kyWlhzeFFYR2xfMzBMRXdKYUNpOHdrM0NkMlNrXzVoNFdpU0xOTFFSS1hQMkxmR3JDY0k1MDYzNU0xUmdRcGJxVUtucGhfaEpCQmRYdTlyWGdobUhUV1gtNFZ1STJja1NxNExRbV84Tl84Nlo?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "Corporate Updates: Orders For Suzlon And Kalpataru; KPIT Issues Performance Warning",
-          "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQU5fWjhlTnFvbVdVVEcwZ0dnaXZqSlE2WEFYWkltQlVvNUVDaC1rVVZWbmdvTGNVbWZXRlE2bzBaT0RVTFc5OTBTc0xtOWNMWXhFLUExcmpTeHZMSlVDYXNsWVFWZGNIVXo1TlcteTNkX3V0UVFubFBWX1M3SFMtTzY3ZG9TM00zUnllQmlrNTdPcEpBanRJRkt0cVVjSFdjUm5JMUVGS3VrQVh1RHgzcnpPdkt2WXBlZExLS0JLRmNXaGtsNmVHS0JHczdqandJQkx1VmZhX0JxVUhNSnBYYVpWdUpwejg?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-06-30",
-          "title": "Kalpataru Projects International bags orders worth Rs 2,957 crore",
-          "source": "Moneycontrol.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHpYX1pTc0lzUl9TQ2Y1SjhYSFpRWGFtY05xNlQzeDBfNTZHZ0kyOC15b2tDaVJYV1o5SS1rRlhqT3RFb1ZVc3h3MVl0bUt6OGU5alFaNUc3MzZ4SVpCZGVjYk1EdnJ0TWk5ODJxLXV1c1FoZTE1WVhpR0NxZWV3UzJkOVJKclZ3NG1DZ09uSW5MeXYwRDUteHdSbFp1Q1ZtQ0czb3hSWldodUhNanF6MVJkUmpvVXdERkVVRTdJQWtJQS1jdTIzcUVB0gHPAUFVX3lxTE5oNzFvNmFZVW43d1NqeU9MbDZvLUdURHhGSXdlUUhuSW9yb3lmaUJDWE9na1RBWnQyS0ZmQ1lSeGl1OUVKdWZKM05TWHQ1UDMxQWZTYkMySkR0LUJSZGExUzEzYVQ3eGVFcl8xQzRBOVQ4cUNZWlRpREY1TGU3a240TlNoTHFVazdfNGNpY21HaTNrNUtfRWtiVi03SHVBdlZ5LW9sRUZfTUMteUJHN2o1UnFMVXdZRl8yeE1XamxKQ2hFQks0dlJFUlNtOEQwdw?oc=5",
-          "type": "order"
         }
       ],
       "ratingSignals": []
@@ -450,9 +450,23 @@
       "headlines": [
         {
           "date": "2026-07-16",
+          "title": "Kec International Secures First Data Centre T&D Project In ₹1,180 Crore Order Win.",
+          "source": "megaproject.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEV2QzR3ZDAwaXlVTXk3UDltb2lRTUxFQTJrWXVsNFpHV0FTRnR3Z3UycUdaX09idjgybkJ2N3dDUzBtVGRreHUwRVc4NVpYUklDaXRnNVVIVzl3MmNHcGprLW9VWl95WTd2R3VzWDhxMUJ5WTBVa0RDdUtEaGxyVkk1bzAtS25obUFHQmRPOWhLbzIxbHF6SEk2UEo3ZHU0SFJIbnMxSzV5SkNIeF9ZSkk2emVESnM?oc=5",
+          "type": "order"
+        },
+        {
+          "date": "2026-07-16",
           "title": "KEC International Ltd Upgraded to Sell on Technical Improvement Despite Financial Challenges",
           "source": "MarketsMojo",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRnA1Y2Y4eGFjWnpQQ1dWRkVlMDZ4UjBvMXhtX3VRdE9hVFQ3RE9LWmpYWFNFdWxwVGhJR3c3RTdKdjdTYjh4QkdicVpTLWJVcmxKc1VCNW5uNWlScTEzZF91VnpWYlRRM09tZ0NBcFFwRmJ6SGZzbFVwZlFEaFlTaEJfQldJZlJDTXdOejZrbEhEMW1pV0hUcGJtaUswTjhkamZYanN6VUV1SFRYUWJzOGxvcFZXYUFGQ0xFYUd5QV80WEN4UHFUdUN4cGdBVXAzSEx5VnQ0aVlGOU5tZ3RSNHJEeGx1Z2NiUlE?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "KEC International Ltd Upgraded to Sell on Mixed Financial and Technical Signals",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM1lrS29Mek11T0RhSEtPa2sza3F6RUdfTHU4SVNUZENOUDEtLTBiTmxHaW5RX1VIS2thNlNJODMxVWVzbFpyc0llZERHSTNrbVUydWR4b3BvcWR0WlZvbHJzU0UzMm1HUTIwallsTm5RUWZkQ3ZGZ3pBRlBHX3I3cmI4NUVaSFhzeTUtUXBEd1M0ZG5ocVh4MFljaXoxaGVfbzE2c1ZpR0NfTFBWLVZ2c0xHMnYzYWRoaFBEbkZ5bDI2R1poZ2liS01kR1NGWTM4alB2QWFVM18?oc=5",
           "type": "news"
         },
         {
@@ -464,9 +478,9 @@
         },
         {
           "date": "2026-07-15",
-          "title": "KEC International Bags Rs 1,180 Crore Orders",
-          "source": "Equitypandit",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJVnFnaU9SR0VUS3FCblZxb2NydU9RdXZ0S21sMk9NS2hEcEs4QVpIdWlVWFR5UFM2aWRiRnFRM25Cei1VaUFBSE1ob0FsaHdFN0dNeFZwbkdIdzZnbFVrRkNhYkhnUWl6MGoyMDNRT2dsc3NNLWVKNEg2a1pwdw?oc=5",
+          "title": "KEC International bags ₹1,180 crore orders, including first data centre T&D project",
+          "source": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2ZTUHFJcnBSZmR4MXNJdzZiNnUxeWZUbWpXSG5YYUtwMWdZNVJ2ZGo0T1llNjJ2anBYYmFRNkJXTTlnN0EwTVl4R2MtZGJDNFN3YTVvX0xoeUF0MlRaQXA1RkFLYWZzU3F0QzlwaVM5UEhOdmpCWVlMQkhsTUZtMlFMbkpFLXQtTzBZaVdHWGJDZzJxa2did29jRmhTV29wRTRYQ1lSUEY2N3pab3dpMlFRbzl5TDBLVnZybkVfSXcyTzJCdjdmdkhrdUxubldWYl9QUWsyREhGZ2h5c083bmVR0gHnAUFVX3lxTE9xVDRVbHVESm9fN21iaExMZDljaHJnUUtMT3B1X1RiYVNiSnZELS1mNjdNY1RGYmJ3VU1LckNwRk1mUHlTYzFZQjZya0xRN1VoeXdDS19obzEyX3pFcERVR2FlSVdQcndiQXJNNmN3Rm5la3BCZWdvWFhyaFdjR2l5dWFVT0RHUU5HMG5kV0FIT0pESEFtNGxsV0R4UWVtSzFmMkNibmxWXzJiQTVVRTlvbGNfcHBjS3NJWUVvR3psa3ptRlBtZFQxX0F6Um9UYzRhQVBDalJzQ1ROZmpRVzFDVFRrR1NHQQ?oc=5",
           "type": "order"
         },
         {
@@ -478,31 +492,17 @@
         },
         {
           "date": "2026-07-15",
+          "title": "KEC International Bags Rs 1,180 Crore Orders",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJVnFnaU9SR0VUS3FCblZxb2NydU9RdXZ0S21sMk9NS2hEcEs4QVpIdWlVWFR5UFM2aWRiRnFRM25Cei1VaUFBSE1ob0FsaHdFN0dNeFZwbkdIdzZnbFVrRkNhYkhnUWl6MGoyMDNRT2dsc3NNLWVKNEg2a1pwdw?oc=5",
+          "type": "order"
+        },
+        {
+          "date": "2026-07-15",
           "title": "Stocks To Watch Today: Tata Elxsi, L&T Tech, KEC International, Tata Power, Hero MotoCorp & More",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRlRfTndTRVAtSk4wWEUtTXpvdUVUempBWjVUVDBEdlkyRVlaLUtrVHJMZ0FjcWQtdk9ISXJJRklEUVg5LTk5SkNLTG1MU1I3bUNrOEVDZzBxRlRobjduaHFvcjhoNTN4QkFNWW5fX0FSN09OR1BaOE13SUVvWVF5Unk5Ui1nOUlPSnItc0Itc1NydXQwNnBLYXZfUmRiOGhKbWswRE9JRndOUEVQd3F2XzBRa2h1LWhYWkpiTmVpdEpLTERQY0JMSGpwSVQwZ9IB1gFBVV95cUxNNVBGWG5MMW9IVy1DN1pRbGcwQlBpSlR5YTZma0doNlFiRGpfZ1R4VzFVVUlyNDVrNjVBZkVsRldvY0dCS293bW9hVC1JcjBTVzgzVmZnSTdYbm1qU1JHbHBpOTN2bTljUDJRWmxzQ2ZKNUhKTWhBX2hlejY3UFR6Y3VnSUhMSmZqY0V5bllfNl9fb192YWpfMHBzb1FudXZ5ZllyUDVUVkh3VEF1aG4xczVNNXFmOHoxUDRMYUxkTTBwdFZ0enRHZ0VNMHVTSmJ0M3pmZWh3?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "KEC International Secures ₹1,180 Crore Orders Across Key Infrastructure Businesses",
-          "source": "Machine Maker",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUhQb2tHZ3c0Z0pjTEtDUlgyWW9RVHBkNkpHNWNpWTVXR0pUMFFPTmFZbk1zcTMyRk1DRTRRM2RWV3JPcUQ4NUM2bkVLTXRaX0dJTUJqZEpIc0cwWW1ZSmZaRkZsVjhiZDlRSy1OcVhUeTZpbGFpeDV1RnJhRUlJb1d0YndUSHh4LVZBd1VFTk12Wk1vb09kNzFJcmV0YkJ5cVF0UVZ6WGVNaURQODdjb2NTYVNCWkNVd3NjV2Zubzc?oc=5",
-          "type": "order"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "KEC International bags ₹1,180 crore orders, including first data centre T&D project",
-          "source": "ET EnergyWorld",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2ZTUHFJcnBSZmR4MXNJdzZiNnUxeWZUbWpXSG5YYUtwMWdZNVJ2ZGo0T1llNjJ2anBYYmFRNkJXTTlnN0EwTVl4R2MtZGJDNFN3YTVvX0xoeUF0MlRaQXA1RkFLYWZzU3F0QzlwaVM5UEhOdmpCWVlMQkhsTUZtMlFMbkpFLXQtTzBZaVdHWGJDZzJxa2did29jRmhTV29wRTRYQ1lSUEY2N3pab3dpMlFRbzl5TDBLVnZybkVfSXcyTzJCdjdmdkhrdUxubldWYl9QUWsyREhGZ2h5c083bmVR0gHnAUFVX3lxTE9xVDRVbHVESm9fN21iaExMZDljaHJnUUtMT3B1X1RiYVNiSnZELS1mNjdNY1RGYmJ3VU1LckNwRk1mUHlTYzFZQjZya0xRN1VoeXdDS19obzEyX3pFcERVR2FlSVdQcndiQXJNNmN3Rm5la3BCZWdvWFhyaFdjR2l5dWFVT0RHUU5HMG5kV0FIT0pESEFtNGxsV0R4UWVtSzFmMkNibmxWXzJiQTVVRTlvbGNfcHBjS3NJWUVvR3psa3ptRlBtZFQxX0F6Um9UYzRhQVBDalJzQ1ROZmpRVzFDVFRrR1NHQQ?oc=5",
-          "type": "order"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "KEC International Maintains ₹30,000 Crore FY27 Order Inflow Target Backed by ₹1.8 Lakh Crore Tender Pipeline",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbF9QRVMyTGNqekJJeXFkZjMtdWFzLWgwaFoyZHdMbTJfYXNVc194Q2Rldy1KalJwUXloSUFEVDlFSlBMamVuVjZaUm1ZU1JhS2ItcTk5TktzYTRQSjVHdTZ1R29rYTRxa29RZndwVWZQM05TM2d3NXdTT29jZXhscUZVTEZWWnN4TDNkalRuTnkzMFlWZnBDaEU1NFd3dFBwekFnWFFveUF1ejlScG9YcllBbEJyeUxmai1lQnhYOWF2N1ROMGF4NDlROTlKeW13V2M3aFdlOFRiYl9jRVE?oc=5",
-          "type": "order"
         }
       ],
       "ratingSignals": []
@@ -512,6 +512,13 @@
       "headlines": [
         {
           "date": "2026-07-16",
+          "title": "Sophia Gardens announces Asian Paints partnership for marquee England-India fixture",
+          "source": "Glamorgan Cricket",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ZndNZWhBdWlINzdrWjBid3ZmNXBNRU1iQkZYUl9sWkxVVU9PTHdxNC1HTEdXbi1GU1c1b2ZuRTFLTVZ6WkFHNjloTUwxYmtFei1VdkNRYzBfMVIxUjB5VDlXMTZ6MEt1eXNXMjRSeVFTS2llS09aejkzOERBWlk?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
           "title": "Asian Paints Raised Prices 12% Amid West Asia Cost Pressures: Chairman",
           "source": "BW Businessworld",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTZwbkZSZnhLMVAtTE92bVRjVTRiRXF1SnRUbEpFRnhZUnVGYjJyM2E2U25nMWE3YUFxTUEtWXNxYVJzTTlGNjZzazJPNWx1Q2R5LXpDSGN0Z053UUdOb0hNTUdMMDkyWDZ6T0hnNTMzYTZKQ0xfeEVwUFNFbG1vNTdvcnNONmdQMzF4cTJpOGp3R3BrTVY3NjJLUnYtXzUzRm9vd2dqMFZscHhaS0UwdV9n?oc=5",
@@ -519,9 +526,9 @@
         },
         {
           "date": "2026-07-15",
-          "title": "Asian Paints, HUL, Tata Power among 11 stocks near dividend deadline",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWVYzUGRvN3JCbThacmhla01fakRXMG9KRVZBM1loeVVSSi13TU1jMWVYb21pV2FhdU1TTGVYa0s3X01FQ0x0V1VXbTMyOEhZMFFxem1lRlgxQ3RoelZGRlcxeXJpNWY2SWZlS1RISHpFU08xczRET0pYckU5NmxlOERiVXNtbnhkVlFremlwX0hQMUpMZTV4SExSdFdPd1hDQkxhUGJlb2dUTW9LcDZlOENyV2R3eXRGazllRGlpMjF2RDBJeFh5TWpPSzdCcFpVeWhJMjBPdXotNFpnU0k4QnhyTGdSYjYwU092Uw?oc=5",
+          "title": "Asian Paints (India) rallies Wednesday, outperforms competitors",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1RNUEZxU1ZrUGM5Tk9idmJqSWxRQjhOWll0Uk82Vy1iUDViNTQ2UmhQczRmVkZwSUtzQ1Z0ODI2Y09kdi0wVUVRZWpwNWRsWGJ6ZW5Edzl3RkxFcTNjLUFZYTV5Z2dpTE1WU214cERtbmgtcmZTZDlUWXNWN01uZWZMSUlFMHB6S3BPLUtsaEs0bmMwLTdJZkpJZUlQak5PR1VJUDJ3bDJWNU9uY2xfR2FJSFZZaGs?oc=5",
           "type": "news"
         },
         {
@@ -546,24 +553,17 @@
           "type": "news"
         },
         {
-          "date": "2026-07-14",
-          "title": "Asian Paints (India) slips Tuesday, outperforms competitors",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbE5JTjljcHZKOTkzaVBON0U2aFQ0TXV0RkdZR3p6OUhzcDQyendmWU1ZV2xveEUyMVl4OV9lX1NGenZpOUw3RWRsU1pzUmJPVDZINzh2dnRJQWRHSk53M19ub2h1OGNoRW1DQm4zUEdwZEdka0kyNHR5VzdUQzZCRWQ3ZWU5azJBbk9lYUJqbWNSb005TkpKRUpxRndhT01ZekVEWUV0MW1nbzE5dXZXN3R3?oc=5",
+          "date": "2026-07-15",
+          "title": "Sensex, Nifty close higher; Eternal, UltraTech, SBI among top gainers",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUt3bTNSU21TQWk3U2hwX3pCeWRjMDBZR2N5ZGlSaFppYUxpT2pxbXM4cW14VzlKSlA2RVRNYUZrVWluN1RMSUVmRlpJM1lZa1Z6Q3lyMFl3dG5URVlpcDlJUjJqbTJrN1I3SlJvVDFaM01JSWRJajBJZGRmR1dKOUd2SHl1TUxEOUZkMkRxeFQwZHVORzk5ZEwtQjNBaF9NTTNDZk1YVDNiWk9FQ2lKZmhqeWFMSThwZzBGbmozSWZoWG9yaUw4ZlY1Mmo5V21WdElZ0gHTAUFVX3lxTE5NS3dtM1JTbVNBaTdTaHBfekJ5ZGMwMFlHY3lkaVJoWmlhTGlPanFtczhxbXhXOUpKUDZFVE1hRmtVaW43VExJRWZGWkkzWVlrVnpDeXIwWXd0blRFWWlwOUlSMmptMms3UjdKUm9UMVozTUlJZElqMElkZGZHV0o5R3ZIeXVNTEQ5RmQyRHF4VDBkdU5HOTlkTC1CM0FoX01NM0NmTVhUM2JaT0VDaUpmaGp5YUxJOHBnMEZuajNJZmhYb3JpTDhmVjUyajlXbVZ0SVk?oc=5",
           "type": "news"
         },
         {
           "date": "2026-07-14",
-          "title": "The Brand Nobody Talks About",
-          "source": "ET BrandEquity",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQV96cGF5Q0FBdTVmU3VQZTM4MkdVTXo4aW9JOVNuNzBkaG1veHJXODU4R19lRGJHMEhvXzBuLTVOZ21sS25VeEtFcjBZaFlFN3lmU1lEN1lTenE5Y0ZuOUdkUHF4YWQwcUQ4Yko2TTVpa29Jb1NDNm1lRGJYajlhVHptdXZaSDdibG0yek9FS19EWkZMTk1fOEF3OHl0QXZ2cmlheGlleHNoQdIBqgFBVV95cUxOQV96cGF5Q0FBdTVmU3VQZTM4MkdVTXo4aW9JOVNuNzBkaG1veHJXODU4R19lRGJHMEhvXzBuLTVOZ21sS25VeEtFcjBZaFlFN3lmU1lEN1lTenE5Y0ZuOUdkUHF4YWQwcUQ4Yko2TTVpa29Jb1NDNm1lRGJYajlhVHptdXZaSDdibG0yek9FS19EWkZMTk1fOEF3OHl0QXZ2cmlheGlleHNoQQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Stocks to Watch today: HCL Tech, Asian Paints, PC Jewellers, Biocon & more",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYmxRUTNmVkpRUnU2NWVFRWluQUw4Vm93ckwtd1JfeE5xdXoxcUhkR1AwRFVtMUZYNkhTZXhjY2YwVF9oLTh4VU1USlhGbmllcEZmQV9jZ2w3Z3dtXzlEMWRrc1poZmN6bWthQ21uTXE4UGhyaHVvTS1BalN6ZmRZYlpFN0haeGhGRllENHhRNjRPSGUtZHZQVnZtS1djVUxvc2lhbzc4TlFkUE0tN29hV01RZmdLMWY5S0VYdVMydmUxamtrUkxWT2JIUjl0OVVI0gHWAUFVX3lxTFB5eV84aVFSV0Rkb0FYU1JhNFVDNDMwZ2Q4YVkyZm9Rc3NpM29XeWdGOGt2UGNCM0psakVRdk1TTHA2WVV0cVhSOHJWbHhfQ3ZvSnJSbU5VS2owUmRfM04wc2tiZmV1VzQtZ3ZTR3F6VjBnMWpBa2FPMEtPdU9xcVEyalJ5Uk5XaEIxYXVzc0tLX2hPVGdvQ1B0NnVuTEwyZmlJX1ZmU0I4ZFo4OHo3M19DT1NoTi1hX2tiYW9rRFA5aFVvT0l0eFg2VmlldnZJckUzWHR5a3c?oc=5",
+          "title": "Asian Paints, HUL, Tata Power among 11 stocks near dividend deadline",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWVYzUGRvN3JCbThacmhla01fakRXMG9KRVZBM1loeVVSSi13TU1jMWVYb21pV2FhdU1TTGVYa0s3X01FQ0x0V1VXbTMyOEhZMFFxem1lRlgxQ3RoelZGRlcxeXJpNWY2SWZlS1RISHpFU08xczRET0pYckU5NmxlOERiVXNtbnhkVlFremlwX0hQMUpMZTV4SExSdFdPd1hDQkxhUGJlb2dUTW9LcDZlOENyV2R3eXRGazllRGlpMjF2RDBJeFh5TWpPSzdCcFpVeWhJMjBPdXotNFpnU0k4QnhyTGdSYjYwU092Uw?oc=5",
           "type": "news"
         }
       ],
@@ -602,13 +602,6 @@
         },
         {
           "date": "2026-07-09",
-          "title": "Sensex jumps 452 pts in early trade; breadth strong",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHpaaER3bmlPa05ncUZSeExZaFhPUGpxWFVjMEhpYVVENmd1dUdaYkd1M01lbWxVbVVpRC1PZDI5MEFPaDZNVXZOcGZ4blAyNE9yZU9LVkVHNGF3VVlieXlXQ1VONGRhQmVvVU9qTnBZTnM3MmYtcVYxVTZ5QlBMMHE1eVVhdE9hQi1zUUV6VkUtZ2VhZ0p3UWUycm1xM1hIYmtOc1ZINkY2ZzI0MHQxQUExS1VfeV9GU2Y2RDh4U0tYT0dSbGRGN3prOVDSAdIBQVVfeXFMT2NyaDFMRTl2MjQ5RTdVNlFUMGxPV1N5YjNUSDZpbXg2empRZjNjRTRaTkxWdGZDRE1xbWZVYkRvNC1wVFo0X3lNMHdKRXU3UTllTFA5WmZTckh6a1BzSGpNdTZHenIxVDBDamxyOGY2azBnNTBLM2hqWDdMOGxfVXZWeVV6eGlJSTR6TzRMdGh6c2ZRMjZqdThFNmFNT0VCcFZudzF1YXNBdnJFZ0dvT2VuQ0ViLXA4aW5jcjRQakpRdWNYQ2gtWnFRQmQ4OGFNSGhR?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-09",
           "title": "Nifty above 24,000 level; realty shares advance",
           "source": "Business Standard",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmFCem9NSldiSVVXaDVIcWNkYlRtRHZWZVMzd202MXVMN29ZQldNcHRLanAwX1F2Z3VBZ1hXakNWMDFuazJHYk1UQ0ZGaVNZd2tuS3ZDc0xIZnVhT3lxS1lXWW5BMGZ5NFg0MVhpeHlkR3hrMDZNX0hJM2NBTUVKRWVIRDYzQ3VJNnhrLVBkS1AtSGRmejdTV0U0TlNfS3p0RzkzQ2RBOVlRYnZNdnZVZzhSRUhwVnR5S3F4ZFRONkNhUjJhNm1R0gHMAUFVX3lxTE9HSmctMXJSbGtrZm5CYW9BTzJjdmN0TVR6alRXQ0hldDV5TDRjVlY1eXFFdTVMUXFJZHBVWk9ES2VPZW4tLTFIbl85SnB0MnhfekhrU3loLV9pNnFkTVVZYkRrdzQ3OEd6Y1ctbFdnQ0FRUno5dm5TVU55OVVCbmRienR5UG9qLXJxZWZxWVZJbld1d0R6Y0hyUkZqTExFaFFhX2pibVNGcTFfYU1ueU0tR2pjdU1nWkFQRDFHbXdwYnZwdks5UGNmZHN1aw?oc=5",
@@ -620,6 +613,13 @@
           "source": "Business Standard",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0dWbGlUYkZrOC15VU9vdzF2QnMyWE1Pcm1qQTdVR09Ha2JmWGt0cC1SaTNxMkhaeEJoQ0M3WEFOU2hfd0VYbzJIb092eWw1TW91czYtbk1mdzhxODh0MGVIdVBzV01nV0k1VkthcGZzdDlQcHFYV2Z1OWg5LTZnSzFHSVZYb0dpNXlUWWhUeHdXS1VXUkR5cHJWVkNQSTB2SnJTWTJnWmFkNmxmWUctT3RBOE9MTW00UVM4MG1tM0xFdmxRY1RoQUpkbzZrRnIwM2Q4T0hQRUvSAd4BQVVfeXFMUDlYQU9UNTNQaEFFNjZfNmpjOVN2czltYkNXN0R5dVZUUGhEbWRFQzFhMkJIeENVMXpzQzNyWHduMlJ6S1BuVFZfTkZpRVdNdVN6ZDluaEd2RlZQOHhtN0pwbTU3NlBBQWhxd09jTEpMUl9iemt3b2FNVG8tSDFiVVdoMGpwNlhoSHhWbjV4Y0M2WmlDdmRxUnk4Wl9URFZTbWRwZGpJSUtyY0gtVnBFS2NjUTAwc0tCTzZ3VHc5UC1RbVV0Sm5LYm9QOXVZaFpaVzJxb1JBRnFBZkM4QTRB?oc=5",
           "type": "order"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Sensex jumps 452 pts in early trade; breadth strong",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHpaaER3bmlPa05ncUZSeExZaFhPUGpxWFVjMEhpYVVENmd1dUdaYkd1M01lbWxVbVVpRC1PZDI5MEFPaDZNVXZOcGZ4blAyNE9yZU9LVkVHNGF3VVlieXlXQ1VONGRhQmVvVU9qTnBZTnM3MmYtcVYxVTZ5QlBMMHE1eVVhdE9hQi1zUUV6VkUtZ2VhZ0p3UWUycm1xM1hIYmtOc1ZINkY2ZzI0MHQxQUExS1VfeV9GU2Y2RDh4U0tYT0dSbGRGN3prOVDSAdIBQVVfeXFMT2NyaDFMRTl2MjQ5RTdVNlFUMGxPV1N5YjNUSDZpbXg2empRZjNjRTRaTkxWdGZDRE1xbWZVYkRvNC1wVFo0X3lNMHdKRXU3UTllTFA5WmZTckh6a1BzSGpNdTZHenIxVDBDamxyOGY2azBnNTBLM2hqWDdMOGxfVXZWeVV6eGlJSTR6TzRMdGh6c2ZRMjZqdThFNmFNT0VCcFZudzF1YXNBdnJFZ0dvT2VuQ0ViLXA4aW5jcjRQakpRdWNYQ2gtWnFRQmQ4OGFNSGhR?oc=5",
+          "type": "news"
         },
         {
           "date": "2026-07-09",
@@ -639,6 +639,13 @@
           "title": "Mayur Uniquoters Ltd is Rated Hold",
           "source": "MarketsMojo",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEY1M2pTR3ZUMENXSHR6LU10MnpSenVuekRDa3J5Z0JsMlhvcDN0MmVWLTlDVnZibEloRGQwcjZBVkRnc0V3RnQxVG5sVGp4QlVNOC1hb0JZRzVvTXExRWVQOXpPMjlyTUxyMUM5RXhXblAzSFdnMDNVZlFUdlNtMWtNOUZtUmpGQmlsQ0g1b0N3Ym9ibVQ1VWllNk4?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Mirza International's Credit Ratings Downgraded by ICRA; ₹205 Crore Facilities Affected",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNd0U2UWpvWTFjWGpjY3RqNW9FUk5ESnpUUHZrSlNXR2tCckhmNkxOQnZkNmhjUS1NbmMtRlpWTFZudHlKV1A1STRFTFlRT3hUTXI0dUFRaWkxcW1VQW1zY3lxb0lMcmxvYUw3c3JkaEpkakhvZXpMOEFSQWZ5a2xxRzFLbWpfZUZCdzJWUTJDMWxYLUxXRTQwanljT3hhOXczRS0yclFwbkUzdVdmMThpVWRhdndOYnBWYklJZGtoRGU4cjFKZVBxVGZrX2pRd0RkZXJ3VFF5UGxiYmpCM1J3OHRaT2lGRUZSS1pQRHA1OWVqOWJINUJVSWtadUxXdkJMdGNrM3Ntb1dkNnljR0Fya1B6MmQ?oc=5",
           "type": "news"
         },
         {
@@ -682,13 +689,6 @@
           "source": "MarketsMojo",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUpQVGs1cHRNSkpkTWxpLU5ESUc0aDBxMnhDcGJRUHA4LXRSRFdrX2pWb2hrMDZPNlh6OXdTMFlKbHo5emtjMmZsWk1wRm1XSk1wd0Q0SzU3WUo3QzRHWHNLSk1mRkRoUllxMm5TRHZrRXVEQjBHbjJScHNlUUhoNVY0S1F0YkRGMmtzSnJRZ0RZMWFpc3FmalNZX2gyZWUta3lVQkdkNmY2aW14d3c?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-06-30",
-          "title": "Mayur Uniquoters Ltd Hits All-Time High of Rs 854.9 as Momentum Builds Across Timeframes",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0VBaldlaW1DcTdYTWN4UGZKOUpqR1N2ei1SV2pCMFRfUm4yeFRMYXdiMnVoOG9rZDhoaUlrVmpuaVB2emFtZE5qMTZMUGdaaTRhX2VRc0pLOU9QUXRHRHd3cGNxclJTbEViM0s3M2lDY2JTWW9lNU85VXhFZGkzRHZDLXMwcHlDUklKN3d5SThSOTJzX0xUbXEtV2ZjYXdYSFVkUmdERlB6RElMSkFURGo1TGFQSVhIcE1LVWhSYThianJxekdiV1BlUVQxTWs1Tnl6azM1bw?oc=5",
-          "type": "news"
         }
       ],
       "ratingSignals": []
@@ -696,6 +696,48 @@
     "DABUR": {
       "query": "Dabur India",
       "headlines": [
+        {
+          "date": "2026-07-17",
+          "title": "Dabur Glucose launches ‘Energize India’ Campaign to Promote Young Athletes",
+          "source": "Rising Kashmir",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHFxZmFtOTZUdmR1VGRYOGRCdDg4STFfdVVHeHlwSV8yZFhlYnZaZnQwdFhfd0FlTnF3bHFoUkpwSGNtSWNJb2FjUXgwNkxBT2dEa0NOWmpuN1BYU0ZDUHJHUFFJTmtiWEZLMHVyM2lES2VVYUpjRkpmWEJRYklZWGg4Z2s3dVp3TTFIbDMwYm10XzF3Z1A2VWYxSFNOX1NsejNZV1RoREsydkFFOTN5WGxUMmEzZDlJS1V5VGEtd1ZUWlowcVVnLURqcmhpQQ?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Dabur India reduces bonuses of CEO, group director by 50% in FY26 | Firm didn't specify reasons for payout cuts | Inshorts",
+          "source": "Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYVpPemZsS2w0bWhlLVk4QzlZUC1tQlBzeUg4bUx2c2JnMlM4ZU90ekVuRnVvejJIMUEtR3RJdVZ0dkdRZTlOT0hhSEhXZ05QeUNNU3pFR1o5NDFEd3djaFRVbVBzbWFla0dBUmtSXzdhaFhPR0lESWR3VHJGc3I4SDJ1M04wZVVQbGxWOVRVTm1HNldVUkdzVWNxWE96Tk53eEQyT01TQWpkXzdy0gGyAUFVX3lxTFBScEFGSElCRmFLZzFQQ2gzU1poZVpjR1p4XzRoQmQ3R2JCNkFPQjZXemNMLWtaX3hqQl90LXg3Q0RFME1oU0hXNGl2blJueEp4MHp4Nnp4a2FJa0gxZEQ3TEI4QmdiWTdNNFZZVkNCMkw3WER3REVYMXZXU2VYZDdfOVZJM2dpTVNRUmpUVFh0SWl5LWxuY3BoaEtMWl9iU2s1TzFfa2JMSEJkTXlCUEdINHc?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dabur India final dividend: Ex-date tomorrow; Rs 5.50 per share payout due",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa1VDV0RKYkRKOEk1SkJSRnlRY3NTZWFrV1prY1pzaHdCZ1p3eWVER0EzLVQyUnduNGVjZEhFbWdsWGdJSnBPcXJSNWJiamVkQkVLTldHSUZrdUFfc0xIckZMUjVfSm5VMkdUc2VPRUZZLWdtanI0bnJrNzVOc3BnS0JmUGU4QTZ6djZKWXgyNXpDLWN1UmVxbkVKbGtEOUxRVndSMWxTT2hJT1U5aUkxdi1MTE9OalM2c3ktdi1ZVG9JRi04N1JOcUpqZFpDZ1M3?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dabur India final dividend: Ex-date tomorrow; Rs 5.50 per share payout due",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHl0aVd4VldKbEd5cUhPcHlWZHFMNHdaakhEZ1I3SHo3MTQxYWVXb2JUOHNvY01DR1RveVpucl83QjU3bktCckJGYXMyV0Q1cEFQQmVPMWFPWnotbXNMWVpOTnQ3bXdtM1pZQzY4ZW9DUExGdWg1YUVPNFN1SGJwUlBObXcyMjU3RmhiOTBMdFI4NXZyVWQ5akcyVXR4SS1qenVNeWtUQkFKX2h6T0ktUFY3RnN4WXZVYmxERzg1aldzRkhtWnEyaUYwbDdkTm1sUnc?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dabur sets up largest manufacturing facility at Tezpur; invests Rs 250 crore",
+          "source": "The News Mill",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHV2WDBybk5ZM2wyalRnN0d2RXNCTV9BVHZoc3FucnJlV0hoWVNjeEthYmpteF96VkY4ejhGQ0F0eTdCWEo1ZGtBNFZFVEpSRFh3RkpzWmpjckpRZWlhVTZTa0hhVXYyUUU3THZyYzBSbWFlZEhodjRmWWU0T2FBNWpKRUt2WUQ0SzM3NHlpcGRtcUxDZC1QT3dpV1k3cy1DRXFrM2R2YndYWkhR?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dabur halves bonuses of top execs by 50% in FY26",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2x3Q3FQRVg1bExLUkdBeXZ1SXNqNDBvOVQ1UzZ1dTJtV3R2UUdER0U0TTN2aVh5em9oNENfOEd1ZUtQb2kyNlJtWkIzRHpZRVhQblBRanpXZ3pSWTlSbE15MHFvdE14MzlueUtENE95RmMxbzAyLXF4dXZPTEpSbjRfbGI1QW82T2lNU2JvS2tOZ1o1TGNPUDlSSUx3cFlXQVJrMEZHbjVkOUhE0gGsAUFVX3lxTFBvbHdDcVBFWDVsTEtSR0F5dnVJc2o0MG85VDVTNnV1Mm1XdHZRR0RHRTRNM3ZpWHl6b2g0Q184R3VlS1BvaTI2Um1aQjNEellFWFBuUFFqeldnelJZOVJsTXkwcW90TXgzOW55S0Q0T3lGYzFvMDItcXh1dk9MSlJuNF9sYjVBbzZPaU1TYm9La05nWjVMY09QOVJJTHdwWVdBUmswRkduNWQ5SEQ?oc=5",
+          "type": "news"
+        },
         {
           "date": "2026-07-16",
           "title": "Dividend alert! Last day to buy HCL Tech, MRF, Dabur, among 68 stocks for dividend payout worth Rs 1,365",
@@ -709,48 +751,6 @@
           "source": "Goodreturns",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOUxUTTJuQ09tOVNZUVdMcmhISDlTSXNrWFBsakk2MHZ3UFRsX0xvRzJ5SG5MTmN4enVpUXZVUGl6VGRuaS04cE1TakVaUU9jcnhra3BGZy1Db3dyXzJrVHdHX3ZWV3c5bzFjMjhFRzh0ZVRVWUx6blZJVGZLQlhxRC16eUtKM3NKTXVORmFEVkZkVktlenF0RExrMzhEeG9TVkpRVURzSy1yM1RSTndNekJ0X3NfNmdCYTZ1aXUxdmtpd3hxYmlKQnlsaS1MbjZaYjE2N0FHMzNrNzZoLTZESUh2UEtWdGY1WUthNF9B?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Hindu man’s ‘fast broken’ after drinking ‘moldy’ juice, wins Rs 70,000 payout",
-          "source": "The Indian Express",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHZLVG9VdGZKVmdERmZmbHBTVlA4dm51MV95TnlTUm1OOXdSOWR3alJ4VjJsNDdhNmgyWFZMeEdBTmZ6NmxfMGxpVmdPUi00WXlhM2lXWnlFREoyT28tSXlaWHAzYm12eE1SaU1YcTBGa09QWGg3R3hDNXptTTR2b0dWeENBdm93Z2tIU1dZcmJHMDBzU01FcUxveDFKRlRueDQxd0ItOFMzTlNiZl9mYWoxR2hzRU3SAb4BQVVfeXFMUC1tUld6cTlkbnV5WUU4UmZZS09qSGNveXNpOU5VaVZDZEgyMEJGTC1XUVAzRmpNSXAtRGRkV0tibWFiNUJYUkRJZzF4VDNzQmV6MTVJMGhTOFZFWjRFdU5GbmxLd2VFYVgza05hbkg2VE9MdGk5RzZFQm1qSWxpSkpadFdNdEkzY0lFUHNmVl9WeFFXT0pYbFJ1T2RGUjJRN0lOVFIyNG9ZVkNjZ0ZrZUVkM1NuLUdLQnFOUWNQdw?oc=5",
-          "type": "order"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Man's religious fast ruined after drinking fungus-contaminated juice; court orders Rs 70,000 compensation",
-          "source": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3FTVk1XeENaeURNSWdXVlFIUkpBLXN4MjFCWmtJMzR0dDFuYUlMZWtNZmNiRGlkcl9QNEQyUGRFSWlUdnlJai12TXpMMjh0R21SZmJUSEFwMjFfOENRUXJsTGhpOC1UQ0lxYkY2UjZmVU1ZMUh1ejNmT0dUQ2tVS1lhLVZCV2pVUE9Rd3JEa25LQjFVNkNQSXBpTVJrd05sd1otcXA3WmowV2RYTnBMVFVqaFhOUkVzbjI1dzJGRWduTVZSeHltcDRNU0dTWlUyaGxCVjRLSm5kOEJqLU9sOWVNZE1CSUhITXQwaUwwN1phd3lsZWdpYVptakc2bzZGcV9DOVVR0gGLAkFVX3lxTE5oVVk3OHhBVURYelVxQ1V0VDh3OVlfTlZFa01QaXdUT05FMEI1Y0tnWGNIUG83SkVxU200ajViOXhwcEVtVC1YdFJySW5ZRzV3eWJJN2lyWGdObmVpSmw4amdYNHlXQnV2bDdXb2JHQU03M2lsb05sODhmZ0hLcGdtMzFBRnkwTEpQaHpDNWR3ZEtiY1NEYVpLZHF0ME9KeEFSV3psY2tIMzBTdnpQMFFQOHIxQ245VnBESDg5NWtPQldxc2NjU2E5MTNYbURsdHhDVUJDaXVUeVlLRHZEczJ6QVVBdENmS1ZpckNBeGtLVF8zeHpyeW5EUE40TDhxSWdncWFEWThpRWFPYw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "SBI, Dabur and more: These 10 listed companies are older than independent India",
-          "source": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzRpcjYtVUZ1OURmNGJsbERaMVZwaEVzeHFZVWdhS1FsdUdST05qWHh5SnZHWXVrME1wcWpzQnBNLWJiWnFDRm5kZmlpY1JQcTJrRXlmMHo5cjJHQmdzMmx0Y2ZVckJHTHlhbUlMbHdmbTRYZFFOZnl2RzRHeGhNMGp3SVlSLWItVkpmQ3U1VXMyT2ZWaXdnTVJQMHVfa2dGN3hobmNiZGUwbkRiRWF1UHZFSElxMUY5a1dQWGVfY194MEZ6Q3hNedIBzgFBVV95cUxPbmxEak9ISWh5ZUg4ZTJuYjV3T2lFZDVNRF81aG1kZDcwMkhHNHNYSmNtYXU3eUpXNWJPOHR1NXdweUFVWW1IWjMzQmN5OGE2b1U5SjZpVTJpaUtjdjNPVlE0Q1Ewa1hqUnZkMUtHWnB5akx6Ujdfck5jS2RTUmdWUDJyTmIwelBFZE9uUE9odHA1QzNnQ2Q3WE1xRkZLcUdXY180ZTJ5OUVWektEMlI3ZWZTMkpLTmMxclpXcFI4NFdPVmllRko0dnl0d0dMUQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Court Fines Dabur India KES 107,000 After Fungus in Real Fruit Power Juice Ruins Consumer's Religious Fast",
-          "source": "streamlinefeed.co.ke",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUZ2NnhYV3lQMmcwRUxCNFpPY2ZQaXk0c0pYVnFnd2VneFE5VTJvcV9lSXRyQkdGNFJGTUtYUHAyaVgxNmNfcThRbm9ULVFBMWNsbVRQa2JrMlZfMGpScHdpeE1NWWpqaEFCdXBTaUIwSkN5Ulk3dUNwckU4a0V0bnU5N1Fxa216UE1OSUFWeHFVTVp3X24yZ2dpRGw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Dabur India's (NSE:DABUR) Profits Appear To Have Quality Issues",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnV0MDJ3VDNLa2RCa2YxeTlza1BPVHM1b2tXTi0ybWRmblJyVURSaS1nRjB5RThRTS1sTFdOcGxncjNZMmNENUlSM0gtOTROcjA4NGJEa1ZsYmpPQUx6Z0ZlWlBaWjRXZFE2V082UXFOZXhmWW9YQTdFQnpTN21mZzFIdTJwek5hZ0tOM1hWMHBqMGVwVmZVMWtqUTQ3TGlzWFcyMUdVVUU4cFNtZzNKZnhIT01udXhGTk5YU2RhX1k0NUo2U1ZpaFA2eTBVSHlh0gHWAUFVX3lxTFAzUExiY2ZnTjJxRlU5bGphcmFKR2d5aDRVeDUyM0NJMDFTZmlyelpuZWJlR1FuVzJ5cDF0MW4yN1pvWWJyYjZQNGlHREVNZ3ZQWkZMY2VUZUl6cnIxUldkLUlUV1dSV0lQeUhtWVBEdjJwMFRhanNhZ2xTYjJsZWppbW5QV01HdzZQZ2d0dFpGNklPR01iVE5fakViU04xRlJKZGNWRGtfVzUyR3ZoaHY4d05sQWJOZW4tRVVUZkE4Y1RUeUVGeUhkTy1uN1I5Z2tJQlFXWnc?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "FMCG hiring divide: HUL & Dabur shrink headcount as Tata Consumer & Marico expand",
-          "source": "Adgully.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1dSSTZCVFM2OEs5RDNxeTRDMHNFaVhoNi1yaXFxWE5BQms4RmZsMmhEMHZEdTJjMGxRbGZ4eHB3ZkpRNG1TbUJjamtKQjhxamRwRnRFVG4yejNiNXNhUWtqeUtmSzdXX3d1Mm1hSWc0bFhTX3lJdDBvbzZ1WjhwcjAzdEY5Q0Mwa0VXLVFueUQ5UXV2RlZrdnFyWWJZakxXS01wLThwTklhYlNvX1NEWQ?oc=5",
-          "type": "news"
         }
       ],
       "ratingSignals": []
@@ -759,10 +759,38 @@
       "query": "L&T Finance",
       "headlines": [
         {
+          "date": "2026-07-17",
+          "title": "L&T Finance Share Price Target at Rs 370: ICICI Securities",
+          "source": "topnews.in",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcElNLXFrbm01QVE3TlNPZHRtb19yX09QNUZaRjREOVBVc193bWgzeHhZWmJ1bktSMGFmNXFpMEJmb3FZbzFsd2U5Y19TZWxURFJxZlpITkZEU000d2xTSkFKSVktdkZHelpDV2ljZVBVNXo3VHVhNkFRWW5RenkyZm90VlNQQTA?oc=5",
+          "type": "rating"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "87LTF27.NH Bond Risk Profile",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oU3lIMmVxZldLckkydTR5ZE1hVHFsWlcwNlFUenFTNXZQcWJEc0YtS2QwdmZFSDB6YjFQWGNnZkl0eXFfam9scVE2Q2Q3dEJ5enZEcUc5Zk1ETl9DanBRQmdMdTVkZFBsaFBQVThjbnpDVXM?oc=5",
+          "type": "news"
+        },
+        {
           "date": "2026-07-16",
           "title": "712LTFL27.N0 Bond Coupon Profile — Rate & Payments",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92NlhORU1paFQwOTFnNmUxdXFpb05oNERZQ2ZVYjF2N3F6Sy04TC14NE03UXNzZnVKTWtGMHNreGw5OFJacDJxcF9uLTREdVAtcEZaVzZMb2FLaU5Td0N6VThkLV9NaTRPdjAtcHA4MDRHbUhDQ1V3?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "87LTF27.NH Bond Coupon Profile — Rate & Payments",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kTWRkY0hsWS1TUlJLcmdRcFpncFlNVVRVRFBYWUFEdTY5LVF2dDhCaFRaM25LRHNPWm5DV2FtY3p1MVV3WFBLS3VVSEZUc0lBcDVVQVREb1c3QzJVSXhPTHFJMUVkZ3JkeHNwOEgwdklsZlhJ?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "L&T non-banking lending arm taps offshore investor",
+          "source": "VCCircle",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnFhM2xSUDFfQ1hrY2hLVlVjZlA0S2JZR203RF94aDRjblVQcjQ4RnJ1Z2l1Y1FHWUpGMFZfeDh3ZlJEZkIzQ2FQdlRJQ2ZBOTE5OV9sLUl1SWhYTlh3TXUyUjZsOS1iVC1kbU4xMGx4NW1UMTVlMWM3eHNicWhyajVCbnJFUQ?oc=5",
           "type": "news"
         },
         {
@@ -781,41 +809,21 @@
         },
         {
           "date": "2026-07-15",
-          "title": "92171LTH34 Bond Coupon Profile — Rate & Payments",
+          "title": "865LTF26.NN Bond Coupon Profile — Rate & Payments",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jVmFJUndLQ2s0M0E5c0MxcmM4dmhNbHRsZVBQSjQ3dFdoU3hiV1JlaWRkcVRqME5laDdQQU9ZTUdjSGxndjZRNFE3cl9HajkxZTljZ0NkUmg5dGpsMG1DN0l0ZDEwZUd1NnBsczkxMzhWamJI?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "842LTF29 Bond Coupon Profile — Rate & Payments",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82MG82M0Z3aWZDODg0VEF2Q3AtWGhNSnFPUUJZdU5PWGFodDFLUTZUMF9KTFB6NW43YlozalB2UDdVVDhQVWV4Y2Z4SE9WTlVoMGJOLXJ0bHR1MUl1ZzdudnUtdFBJU190SjAzZTU0XzRyUQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "L&T Finance reports 29% rise in Q1 net profit as loan book and retail disbursements grow",
-          "source": "Prop News Time",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM3dKRS1mcDU1bjUxT1dLZU1GLTE0dmZzQ3UwNUxncWhrRU5nT2cwYnBJYnVCbWRDU1M0S1ZTZnk1ekhYS0R3dDMtQ1dpZXhfQTBGbnRsdnJ3VmpiaDhycjhoa0Z5TEdpdHJ5ek1KeTlycjhNbHVEMEFQZU9MZVlHQkxBU0Y2RHhlZ1JIeUtBRkZBOF9vUHRWXy1QbVY2UGRLNlNuOWJINmdXeV9mSU5lN29FdVB3cFBXTmNJZGw4andaUm43TmZRSzF1TmZkeDlDQ1hHM1lyQQ?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "L&T Finance - Tata Elxsi among 5 F&O stocks with a sharp rise in futures open interest",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQUZyRUYwVWtLb3lpUjFERGM3dFRxZTFNck1tYjZUOGE4cWhlallpWDlqWXRVUkY0RVhoelk4NFE5NU04WkJtbDA1YWtfQWFYT1pnSzM0Ni1oeWhHWDVDdEU5VVBuNnZHd0gxR3NwQ1FIQVV3NTJUWUp5N25iOU1yVFVuc1k4R0JfTzRtTkxtVV8xY2tCcjNIOWJOSHY1QVpocl9xOUNMLWJ1MDVKVjhjSENQYjNHVVp1UGJmZFkyUFU4WUEwRjFPWW5YQ1drVFBoMFVOdEg0UFZEMjVGSlFveXpfaEI1RzlPTjhFd2dKamhCZw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "L&T Finance's Lakshya 2031 strategy seen driving stronger growth, profitability",
-          "source": "BFSI News",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeTdvLUt1REdlSFppeDlkbGRuZDhleE1VczFHRjIzdXJCNmRXajNzSEI2SndXMi1HVUNMRGxQSzFWSkpWcUhuVk15RExNTjhKT2k4NmI5a3ZPTjNmQ0ljbmtzdHFEdzl1d0t1Ujl5eF80UGtXazZRbE9WSE93SEUtekhyenpsVkw3VFNWT3ZNYWdEZ0dpNU14MkVzdU9CX3N6ZUNzX3M4TzVrWXRRRWttbVIwWjZ0VnY4ZVd5RTlwWllNRlBGZXFGUXExSmxCMUdBdk9fR0VndF9aM2lPQzdpctIB5gFBVV95cUxPdUJjUmR2eFp3XzBjdGM2V1g4Sjl5UVhsUVotT1FKWjBGRWtRbmhVb0hqai15NUJPaVFjZkFXN2FESWEwMlRkbjREQkhhbHdMSDZoUlRrWmY2M1hJUWswYmF1RXpGbTNCZzJZd1NDVHRUemFWZVBJZVd1YXdSV2xleEl1Y3RwS0xHVU1PNm9scE4yWmFzaTRGYWpFUjczTktsTnBudlFaUGNMcmxPMGJxcmwxYk1pQm5rZkltZDZIZ0ctSXBwcE52elN0LXNqUF9FZVVsVHlSbzY3b1JlajB0WWpVTDFOZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NaVN5WTFnTFRuUXl2TTJtS3FtQWxYaFV3WHhiQ1JpbEdCUmdCNkE4cTBqcm9HeUd4SlZRZENLdkxlVjdJMU82ZG51dVdxaS1OSU10T2xtY2Ric0M5Yk9MdFFfMFdVcXNMRTF1bUxsZHo0eHczMlE?oc=5",
           "type": "news"
         }
       ],
-      "ratingSignals": []
+      "ratingSignals": [
+        {
+          "date": "2026-07-17",
+          "title": "L&T Finance Share Price Target at Rs 370: ICICI Securities",
+          "broker": "icici securities",
+          "target": 370,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcElNLXFrbm01QVE3TlNPZHRtb19yX09QNUZaRjREOVBVc193bWgzeHhZWmJ1bktSMGFmNXFpMEJmb3FZbzFsd2U5Y19TZWxURFJxZlpITkZEU000d2xTSkFKSVktdkZHelpDV2ljZVBVNXo3VHVhNkFRWW5RenkyZm90VlNQQTA?oc=5"
+        }
+      ]
     },
     "TITAGARH": {
       "query": "Titagarh Rail Systems",
@@ -842,13 +850,6 @@
           "type": "results"
         },
         {
-          "date": "2026-07-12",
-          "title": "Jupiter Wagons Surges 13%, IRCON, RVNL, Titagarh, IRFC Shares Climb: Know Why Railway Stocks Are Rising Today",
-          "source": "Goodreturns",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmY5UUx1SDhtUWNBLU9rblpEMVhFSVlEOXdJSm5QWFhUT0V2NFNobWVpTE5xSVRMTDZBRTVBbUtSSG1aRkVnTmtyVm1MMk5jd3dIMWx6X2hEWFhHVjl1UWFsR0FZOHVubHh2T2xOd3ZER2tqTmtYUTM4MmJrOWdUVGVMQTFtRnpVamdWbGlDZG05YklySXBEbDJGNlU3X0ZZaGZmLTZZUHpVLTJCbXhaS3F6TjlOMU15cDJEX3JLenM4WjdPZGluRnhFcFNKZ3BXSTVxRUM4cW1Rdw?oc=5",
-          "type": "news"
-        },
-        {
           "date": "2026-07-06",
           "title": "Where these stocks headed - Wipro, Sterling & Wilson RE, Titagarh Rail Systems, Goldiam International",
           "source": "BusinessLine",
@@ -856,10 +857,10 @@
           "type": "news"
         },
         {
-          "date": "2026-07-03",
-          "title": "Titagarh Rail partners TuTr Hyperloop to develop indigenous Hyperloop freight solutions",
-          "source": "ET Infra",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ045MzlHU21vYk5XYnlpcGZNRlllZXYzSnZFa2ZNQVVsNGJWajR0WGhUb19ycmVLbm94a2JXcXUtTWFXNFhzdVdvZVRhVE9DOFlyWTJqTXhqaXk2QkQ5VnFIWm5tNWc5ZE5tWVpESC1nWURmeDUybWFvLXFVUzh0OFhQZTYzdjVwUkhYbmoyUFpKNnNoSVE3T0NLS2JqelViNXNvMnFocEVIc1pxNWV5WXZIb0cxSDlHX2tfUWh6TW1iRDRlYTdSTWpuNWZhZHNFM3dzbFgxM0ZGTzZMTkM3QVRhWk1XQdIB6wFBVV95cUxNa2hZek5zOTE2MEtkWll5TE50Y3BqT1hYbzBlUnlsbGlCdkg4QzZBQzl2OEtuc2Q2dlNsRjIyR3phUE9TOHFCaS14bEpveS1yVUJJaEhtX1paTkw3T0dFMGlvVWhDZ1VTSVVtMUtNS0F4Q2pKVVBwblVxREQxNDRvQTVpZTAzMEU0TmdvaHQ5SF9KZzY3cmpralg4Q29STkpOVjh6NUF6TUg0bEhMVU1xMUliYXUxdVY4SjFEVWNkamYwYV9IS2tMYW0wQlRucXhQSktUcDRnWXRjbE5BcmpocTFtdGVFVjBwdG9N?oc=5",
+          "date": "2026-07-05",
+          "title": "Price to book forward of Titagarh Rail Systems Ltd – NSE:TITAGARH",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTZVQk5tX2JjS19lcEhtRnRNZzZQR2hUZ3B5VHlhSU5QYzVCN0p5dzAyb2REZXNmR2xMNG1qdGh4VTNuRlh6aHJUOThiZVhGSG42MmJxeG5IZjFJZTFUVlVLcjdmUDdEb25DVERBR1pjVnA3LWFMdWxZRjc5dUhBTnpKMS1Db3NOSlI3eDJidlIwdUNocEROY0VISUFpQQ?oc=5",
           "type": "news"
         },
         {
@@ -871,9 +872,16 @@
         },
         {
           "date": "2026-07-03",
-          "title": "Titagarh And TuTr Hyperloop Partners To Develop Freight Hyperloop Tech",
-          "source": "Metro Rail News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHRwRDZBS0FTdS1UM2s0MjBFN1VoWjBJaHVxUTczOTBaREZXS1VNQXZyTHQybW1Ra1RfYWtReGx0U3UwVUt6aEJITjU5R0RDdlk4ZjNZelJ5dGtPSE1WbWZYVXVTTGZjZkUwRkRuTHBqZDVUakZOdHNtTGhjZ0RTdnpsa1dCTnRTT2ZlTlJZRWNoV2REbTZZLU5aczU?oc=5",
+          "title": "Titagarh Rail partners TuTr Hyperloop to develop indigenous Hyperloop freight solutions",
+          "source": "ET Infra",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ045MzlHU21vYk5XYnlpcGZNRlllZXYzSnZFa2ZNQVVsNGJWajR0WGhUb19ycmVLbm94a2JXcXUtTWFXNFhzdVdvZVRhVE9DOFlyWTJqTXhqaXk2QkQ5VnFIWm5tNWc5ZE5tWVpESC1nWURmeDUybWFvLXFVUzh0OFhQZTYzdjVwUkhYbmoyUFpKNnNoSVE3T0NLS2JqelViNXNvMnFocEVIc1pxNWV5WXZIb0cxSDlHX2tfUWh6TW1iRDRlYTdSTWpuNWZhZHNFM3dzbFgxM0ZGTzZMTkM3QVRhWk1XQdIB6wFBVV95cUxNa2hZek5zOTE2MEtkWll5TE50Y3BqT1hYbzBlUnlsbGlCdkg4QzZBQzl2OEtuc2Q2dlNsRjIyR3phUE9TOHFCaS14bEpveS1yVUJJaEhtX1paTkw3T0dFMGlvVWhDZ1VTSVVtMUtNS0F4Q2pKVVBwblVxREQxNDRvQTVpZTAzMEU0TmdvaHQ5SF9KZzY3cmpralg4Q29STkpOVjh6NUF6TUg0bEhMVU1xMUliYXUxdVY4SjFEVWNkamYwYV9IS2tMYW0wQlRucXhQSktUcDRnWXRjbE5BcmpocTFtdGVFVjBwdG9N?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Stocks to Watch Today: PB Fintech, Bajaj Finance, CSB Bank, Ujjivan SFB, Marico, Titagarh Rail, BLS...",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ1VhdU84WTA3NWU2RjF1TGpXaXNxRVVfd1h3OUVmNjZ4aVYybnM4dW1iX3hPTXdBLW5NRXlmOHRLcnlrVTBweEhTQl93YnlKaG9HYzZLc3pEUEJZdDBUVkktLWZZeGQ4aVViTXh5UHhSd0EtNDV1SlNFM2pURXZKckZwQmJfRnlHNzVVVTczdEh3MmdDMlBVdTNMdHRqNHpOUnFBc1ZpelZVMENIc2VFVTctb0tsWm81OHUybVdGZEYySlpuU3dEQ2JXRWlaVGpSQ19aOVhHc2pESGtXWnZTSjBqcEVreGJlbHgzWWpnVFZBY3NNbVJSU0lhRHFDYTBXYWtRajU3Vi16dWJCUHVZUi1XVlIyb2pYQy1aM2xFcXlnTlBaVHhubnhlUlVOM0HSAbQCQVVfeXFMUDh4R1RXeVZTQ3NHdmljby16c3pBNDZrV2pST3NIYW1ZT09NWGhkdlI0T2MyUjc2SlhpN3ZNZzZudG5FSUpiV2w3c3NBZU5jamdqLWRKSEw1S0ExOE50UTRydXRCaUJYeW5CZjJPMmx2OVNRc2hETmJvWllub3E5dWxsM1VNRWxlLUtKTUtiUHdRYTM5QWtuRzI2UTUxcUI3cGVURjI4dnNsQkhQMzhiejEyR3VZaWtTR00xaC16YTc5ZGExY3ZNOHRYYl91V1JyTHZTcVVIWDNScFhwMWpHeDM5RTNOYURqN1RFR2Y2SnV2MTZVbDhESkhtcG5HQVlscjF6QmluZU81aU9qNklac3pkRkd4RmZXZGdJMjV3WUFvNWVEdmUwQzlCYkZOX3pBZldZbVI?oc=5",
           "type": "news"
         }
       ],
@@ -882,6 +890,20 @@
     "BATAINDIA": {
       "query": "Bata India",
       "headlines": [
+        {
+          "date": "2026-07-17",
+          "title": "Footwear Stocks Rise: Relaxo shares surge 12%. Bata up 2.47%, Liberty Shoes stock rises 4.48%",
+          "source": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTNPT2x2cnBQOE1RUk5UM25uT0FzVGhQR1NWdDNfNlR0ZHVHblVXQzVPU0E5ZjZ6ZnRiWV85N3otY3V3R1o2alRteU9Vcy1FRkRJWjlQZE1SaUhaZGdKcHRVcEt5M3J2dkZ2Y1NUTmhCZTY5ZmNMOXRZVzJGWTB1MFk5VmZjTzF2RUo0dU5MOVRCLTIyZVpURnE0d1lFQi1EbjFoY1k3R1FxdkE3Z3lHUWR4S1NjRkJBUGlvYmZ1bkNkeGdCX0xINEM0YTRrUl9LcUlWekJsUQ?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Bata India stock trades steady as footwear group reports revenue growth and margins under pressure",
+          "source": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUNzNzc1X3gzbnZoaS1vcHRwU2tIZWJseTJIaVBKNWVLbVV4UDVDMWlTcFc1bzZxWWtTdU9Gb2NITTFCUVVTQWdVejItZURJWE5zck4yVG5Gcm5CUVFNSjlOWG8xWlB0NDAtMnNLTnVTNU9icS1zNFBvc01CbkpCQ25UTnh4RXpHM3ZncFBNTnZEQ3JaeTVOZlBoeW9GNUFIeTVoaXhuYjRoLXkwSFFneDY3Uk5YR2VKbkpfeDhfNXRPTmRRTFlJN19B?oc=5",
+          "type": "results"
+        },
         {
           "date": "2026-07-15",
           "title": "Price to sales forward of Bata India Ltd – NSE:BATAINDIA",
@@ -894,13 +916,6 @@
           "title": "Bata India crosses 2,000 stores, creating India’s largest retail footwear ecosystem",
           "source": "Passionate In Marketing",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlhfVmhFYkNQME9hSTNsdDN6aTlhdUo4VFdXOWt5ZnRCRktJU0d4RkJXNThOa05OcGdqTUVDeW5qSklLMlFmSmpPV1lkbW1ZelNSTk9nNVBRUDhBZE5uYzh6ODV6RFRKTXpoOFgzbUtzalNzWlJGbzRjWjFwLWY3bGRJQ2ZOQzY1OTdRTHJaYVFFVlRDTExpa1JxZ3FSQ1Z2RFRVV0VEMW5kQmRxWkdsdUhqeVpHbEQxR0Y4?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Bata cross 2,000 stores in India",
-          "source": "Lapaas Voice",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNzh3dDkxTDFwbkd1TVZGeEZOZnJYdXU1SmNtRWYzOUJvRE1PS0UyTlhPeU1PaFVJZEI5ZEEtYTgzTGVVU09NTkZxUllFZlJ0ZjI1MUt1cDZvQmt4MFBmMVdjQzNteHhU?oc=5",
           "type": "news"
         },
         {
@@ -919,23 +934,16 @@
         },
         {
           "date": "2026-07-14",
-          "title": "Crocs ordered to pay Bata India legal costs after design suit collapses",
-          "source": "MLex",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVZqUWo0MGRvZTNRSFlBcDROcXdPNlgxWEV6TDRJaVMwWkxnak9TeG5QUHRwYVRmdFNYbFk2dXk3bW42V3BwUTBpaGlDdU1vUUdQVllOVFhPeUdMNHlqbkZ6UkdaZEZ3WnlacGRHeHRJUzZoUnI3OTB3aURrVUdpaDRDVHF4TGp0UDhEQUhsZE9neUtoQXFwUmRmZWdMOFBkcmhyNTdRTGZxUlo1LWfSAVpBVV95cUxQRXBBaXF3VHBIMTNrMmpPaUZjUVhQeDRXSTRMT2NDQmMzTE9kUlkzcEF5X2NibmFxTDFlWXFDbmp1VWVQUXRyNjZka1pGYmN0UWlBVXFSby1HLUE?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Crocs ordered to pay Bata India legal costs after design suit collapses",
-          "source": "MLex",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFcEFpcXdUcEgxM2syak9pRmNRWFB4NFdJNExPY0NCYzNMT2RSWTNwQXlfY2JuYXFMMWVZcUNuanVVZVBRdHI2NmRrWkZiY3RRaUFVcVJvLUctQdIBWkFVX3lxTFBFcEFpcXdUcEgxM2syak9pRmNRWFB4NFdJNExPY0NCYzNMT2RSWTNwQXlfY2JuYXFMMWVZcUNuanVVZVBRdHI2NmRrWkZiY3RRaUFVcVJvLUctQQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
           "title": "Bata India crosses 2,000 stores to become largest footwear retailer in India",
           "source": "Retail4growth",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGtqdlVQQ18zM0l5UGRHenA4cjNidDlEUUVBV1Z2dHJLeEpjSzBHeUpscS1QSDJFNllfd1d0LUtKeHNXRXpqV1ozRHVWeGx0eWxIMldyVHgzZ0w5TTRVYlg3b1ptcy1UWjJRdHdwdE55bTVNWkFpeUVOdC1UNDRpbjZPS0p5LXNNSDlmaEk2eXdEbE8zb3Nsakw5R2hVQlhmZ0F6QnlybklHRF90WlhQejRqUW52NjFzTkVOMdIBvAFBVV95cUxNcGtqdlVQQ18zM0l5UGRHenA4cjNidDlEUUVBV1Z2dHJLeEpjSzBHeUpscS1QSDJFNllfd1d0LUtKeHNXRXpqV1ozRHVWeGx0eWxIMldyVHgzZ0w5TTRVYlg3b1ptcy1UWjJRdHdwdE55bTVNWkFpeUVOdC1UNDRpbjZPS0p5LXNNSDlmaEk2eXdEbE8zb3Nsakw5R2hVQlhmZ0F6QnlybklHRF90WlhQejRqUW52NjFzTkVOMQ?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-14",
+          "title": "Bata India Accelerates Franchise Expansion, Eyes 3,000 Retail Outlets",
+          "source": "Indian Retailer",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXl2MFcyUWhPaUNJQ0YyRC1ISVo5MWFhVmdGZDNudGZJaFBDcGFfVFpRVU5rTGRvd045VzdESzVPLWJWa1F4RlB1WFlIUXVZOC1tQ1d0cm9KNTZIY3UtOUVpOW9TVWNtRTZEa2xFa0MtTlRPeHI5eDBVVlJvc2tob0JLUFNRTnVQd3pfbG9VajRtYWJlZHBZVlNucml3VlhINW1DTDFlVnBHTFNhbGJBRk1vQVRQUEExNENMajBOMkRrZw?oc=5",
           "type": "news"
         }
       ],
@@ -944,6 +952,27 @@
     "BALRAMCHIN": {
       "query": "Balrampur Chini Mills",
       "headlines": [
+        {
+          "date": "2026-07-16",
+          "title": "Analysts list top breakout stocks for July 15 trades",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd2s0ZTduQ2dHLWZ4RUQ2OWlSZHlfR0hHOUFON3BmekxQcjVJWFA3Z28yb1hlY0E5eGVYUko4S1JoWVFFOVFBY0g2bkEtUUFYUGVWbTFRdzNSSTlHODUzdkhfQ1RPeDNaUGVNcmd6WmJTcDlfOEdPdGowQ1pFdTlPT3ZUSE15SlJXUHVpZ2NnaE5rVGpHYVFPYy1sWUlMUXh5OXpRak5ad1lBUTdoblVwOE1aYnFEOWttRUZsYmk3X21jWGtFeUdtVUNfSzZQNjA1cmplLTJHdm9tZFF1LVhPSmhJd0NRTDF6UUE?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Balrampur Chini Mills Ltd is Rated Hold",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUZvMEN2SHBVc1VBMzNycGdQbFhBX1A5bm1ZQ2FSYTlxOTJnU3NwbnBOUFotWkpKQkRTOTJwRHRJM3dBUUk0SE4zUGIyNGNBbmw1Vl80aGx1d1B6MF9Zb2tUS0tmbjk2cVc5ZzBGRDNxQXhFRzZfOVNzSmd6emg3Sk9TMk5Bb2N0ZExSa1lXMy13dnZLcTcyVmhNeEphQlp4OXI0?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Balrampur Chini Mills Ltd Upgraded to Hold on Technical and Valuation Shifts",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmNZdkxMeGVGVGpVYW50Ti13bHh6ek5UTnY1YVlNa2ZMS1pKelVIRjNxd0F5ck1yTE90cWQ1dENVM0JOeHZmTEplSTd5UHI5dnVfdGZaa1B4Ty16ZFJ1WHBQcmxBTFA4Z3N6NjlfTmtFZGIxTlhYbEZPOW1kY1lXdFkwVWJCWF9DVnI2WkxxTDFMekszaU82TnRqaWNRZGxpdktRenlHcjlQQW5aa3F3eUNUTzhLRzh1c3hsTE5fS3plNlVmSWhvUDlhV1BlQmFzMEdHcw?oc=5",
+          "type": "news"
+        },
         {
           "date": "2026-07-15",
           "title": "Trade Spotlight: How should you trade Sun Pharma, Balrampur Chini Mills, Blue Star, Caplin Point Labs,...",
@@ -978,27 +1007,6 @@
           "source": "Whalesbook",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdno5RXk0aWMxVTdzLTdlZGFZX2ZaNDdzSjQ3Z0hRZWVUdjVUQ1dsTTVtTTItZUtGaFJSQWZPcjljbFBmM3R0aEJSOE1GWDFqNjJ0d2UxemFHdFp2QWZjYVVxVHVrSTVkenp5bXVLRmpYX2liR2tkZGsweFh4eTNLX1AyeWVFaWxNVi1NR1doVldrM3BIcnJJSFg3a2YzMjltRDAzR005ZW9ma20tWUtQNWFmRUE3djhKY3JkdkNCczEwNk9Eb1FjRmZMcUFzY1pUWUJDNlRTUzd5TnZDb2JHYnlfRQ?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "How ethanol and green energy changed Uttar Pradesh’s sugar industry",
-          "source": "ChiniMandi",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTllYMEZxblM2M20zYldRaF95dE4tMGtNOHV1Y2tDSVd5YWZoWlluTGpDRndSdWVyc3dxVDRaT2p6b2M2djJiVWVNalhMZUNVUUpfZXRLSHp0R3NuMk4wZ2t5R2Z5LXdIRkwwU2lWcE0tdXdoNFRiLVpLVGRyOWc5NVlvMW41TjdyeGZIOGd5U3dTMjJ5TU55Y0Rn?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Michelin, Axens partner to build bio-based PEF precursor plant",
-          "source": "Plastics News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlc5eE9NNlltd25YNWtnREFIbWdTOHZDVUQ1Qm5aYzRSTWFoVTB1T3VuaFF2UXhCOWhXYjhzXzIyNlBqM1NKdHJzUTJHOEV4Q3hmODlVeEVndUY2TkYxcUhtZmRJRXdLVWlMUFU1WTluS2tLWGo4OEpvdm1UcXk5UjV5SGRzelVoR2hqQmlaREpTSUZyWG9JaW5ZdGF4cUV6cVJLalUyQQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-13",
-          "title": "Balrampur Chini Mills share jumps over 6% after HDFC Securities initiates 'Buy'; sees target of up to Rs 650",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNHc1eG1ONmRlR0ZZQ2p0U295dGcydkh2ODhGcHBDWFIzLTU2d2tjX0RiZjVOUTdhZFY0dWI2c3RFeERnWG8wUGx3cGNCT05VOUVpOTFFUEk5Z3NqN0lNcGdvY0JlbDdPOFRGWURPc0tRUUdfbDdyaHI3a3VHcFNCQ3J5Zk5BOTJ0c1c4VFdyaFVwcl96SUxVa0U0QTYtblBGQ0NOUXpHQWZMUjJYQVZxV2ZKaVQ2MlpTUms4U1RaQ0NzenpfbDhJdllNWThRQmlIdDhCZTRHQk1VSHp2MFBLV3FqeWc0ckpidk55WENaZlpiZU1GQkwwcGZKQQ?oc=5",
-          "type": "news"
         }
       ],
       "ratingSignals": []
@@ -1006,6 +1014,13 @@
     "GOKEX": {
       "query": "Gokaldas Exports",
       "headlines": [
+        {
+          "date": "2026-07-13",
+          "title": "Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 20%",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRndGS2tyamRrSE1lT0VrWGNGYnBqS3RKNjFDMm4zZ0ZVOHpWUUZjY2k5dUh0MHIzMC1IU0JScTA4aEpRTUUxbzRaUkhYV2RaSkdPeGpYRXEzVDdoaDFLWktxcG93T0JhRFc0VFdTUUZJMHVpSlJmMER6WDNKTE5fRGJVRzJIUGJHbG85TlVtU0JXWERrTVhZZDMxVU5fX21HTEt0Q0FfTS1pY1k0dndfUzBLRnJEaC1EVlpKckJ6bnRfcXd1Mlp1ZS12cDZ0TmE0UEoyNHIxTEhERXVFVzNuLXBNdVRaTzZxMkdUOUF1SG5OUkt0Z2ZJc2RRUU5qR0N4d0tz0gGIAkFVX3lxTE1nYzRzY0hEV2JxQXJESjh2RGRPZ1lZXy1zbm85UGVUeW5IS0VJV1ZDdHMwb0dKckhnblZaZlR1eUNrRURELWRHYU8xaS1ZNXFBZ0R1a0U4eDQxdXloSG9YWk5IWGFaMzBMek05VkRvRVVCV2JuNm1CUXY4Y09IcUNJVFRFSnlWTkpqQUNWS3VOczJBQUdVNGdFcFdpeHk0NThVa3ZFZEQ4MURCS3lBMkdDVHVhbWV0VzljdndDcjl0cWNzZUUzNjV0b2FsQWZWM1N0RkRmWGFNRmd6REdEQnFtNzVsQ1lMR05YdVAwc1FYdkJxV3N2Y1h1MWE3el9ickRYSXhsTklFZQ?oc=5",
+          "type": "news"
+        },
         {
           "date": "2026-07-13",
           "title": "Golden Cross Forms in Gokaldas Exports Ltd Amid Mixed Technical Signals",
@@ -1042,24 +1057,17 @@
           "type": "news"
         },
         {
-          "date": "2026-07-10",
-          "title": "Raymond Lifestyle L Share Price Today, Raymond Lifestyle L Stock Price Live NSE/BSE Updates",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlo0Q2M0enhlYkdLSUxwOUtJQ3hSQlFqanZXMjFmNVpaVlNKQXNhLWFETDFhWHloTWZ3NmdMczlnTlpaTkVnbWgyU1c0azk5VTRhU1gxeENWQ2x2R1hiQ0lWY2hib0o3a2x1bENXOGtmNnBRSzlzdjFpUTBZMWhNWTY4UWQwM1BNbGFBbTBB?oc=5",
+          "date": "2026-07-12",
+          "title": "Vardhman Textiles, Welspun Living, KPR Mill Rally Up To 9% As Centre Waives Cotton Import Duty Till October",
+          "source": "Goodreturns",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWl9fMmpBT1ZHNDRBSXRVYUlJQ0I2cW84QWdjVGMyZ0tySXZYYjF2bEZFam8tLXVIMVRFWndFTlZKZzl2NFEyR1h3ODJDVXExZDZfSEg2cmFseU13eFRJeUJHc3JkSHprbEpMeTlrNGFITzFzNk1QUkU4YXl1MVc4bEVqakR6T0JSSUR4Ums4eTZlYXRWSzE5bzgtZFRhdTRtbmdGV212RjZfazVJZldueHVqTHcyYWdhcjlwMVdzbUZFNXN4QmE2YVlxTmtTZTc2OTQyYkJNVjJ5aGlYQUE?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-10",
-          "title": "Gokaldas Exports Ltd Shows Mildly Bullish Momentum Amid Mixed Technical Signals",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjhOYUk2Y0drdWtmU0RUTzVORmF0VV9IWXc4bFlMcWJsSW5pdW1XbFFfcU02NEJKeUJNX2xVX3UwRGRQdzlxMW9CQTI3bUlzbDhieS1pVFNaMHRBSHc1ZXhQSVVsQWgzeFV3RGFZZFhMdlJPTERseTdjOTlqcVFnSVdoeG4tSUhQMDQ3c2YwUThkZDk5U1MxOThrLU4yOEV1cHZIWEZYemF3UXZyUUxWSndieE5NNFhMU3BtaC1YVWt3WDBKRFBlbWxVN2tNUDdZRERV?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-10",
-          "title": "Gokaldas Exports Upgraded to Hold as Technicals Improve Amid Mixed Financials",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSXRxSldybF9vR1VkUGVWMVo5em1yQmRkeVVnX1NPVEY3THROeTFLVjZRTzJzSUVWVEphTDd5R2NSTmpjNFgxTmJPcEoweFRLVE1uMWthLXc3bmJlaE9Wc0FzVE0tZWdFTTZfbTBpWFIxT1lJRkNYQmhlTk1EMkVsc3M1MFVQTGxLZERDOHhNTmlVeXFfd0N3Nk1lS1RYVDF4QXZVT3VsSk9aSG1ZQ2lMNkdYVHFrVzYyTndCZHhfQmMtSFdiQml3N2ZncTdNZTRpd2dfYnJn?oc=5",
+          "date": "2026-07-11",
+          "title": "India UK Trade Deal Puts LT Foods Stock In Focus",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmRCbmRLOHBZZE8xOHhJMTM3ZXBGNTBRcTZPa2tSX0NTcXBxQVlVbm9OOGNFRmh1MFJ3YWZVaGdRMUNycFVvM21GSXVQU2dkaGdOdjBIZFlod3NxTXZBaUdqYXZ5LUd6SE5Da3FPSy1EbGphb0dhWWNRMi03Y0pNVHhyOENuMVVwV0l2a0pJQlI4aklOQUZicXl0TF93UnZZREptaVh5SEIwMENXYUhSc1I4VHZXNHRVWE9WQnF0YlJKdGlJR3h2dFEtS0k0Z0tB0gHWAUFVX3lxTE9BWE84TkQ0RnhKSF9GN1NoaFdUTVp1MFVVbVRjX1dkdE5NRzFKT0t6d1ptWFdjUlhNUzQwYkM2REc1enhlZXhSSHJtbVkwNDZWRjZzbjRyYkc0UmVIbVVGMHEzdHB4X3I1REU5WTVTdGF2dEM2cXVVYkZxaGlNWXVZa3cxTXpVTTNXQW1tN1REd0h2eloycEVDczA3OXk0UzlUUkg3MnBEMXZERUNWY1R4bjZKclJVN3BKRzl4SXFTR1hSRFNHMjdQN216aEk1dmNaaWU0Qnc?oc=5",
           "type": "news"
         }
       ],
@@ -1077,13 +1085,6 @@
         },
         {
           "date": "2026-07-15",
-          "title": "Infosys to announce Q1 FY27 results on July 23",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNGpFMnVONm1VRElVVDd0RGFLaC1TV0tOa0lYdkVVdjA2bnlycTd1bm1LM0cyaXNmcGNWS1BMWWRQekdOMXhwX2tEd29WRTlBemlESVY0RTRSSmk4bzF0NDVSaUxBVFRLVU9JeGdfSzR3aU15bkNpWDkwTDR1RFdOSzBkcVpYTTM0RUZyUmR6ZW5YbzVXdDBRV3U4dHNZU25SQ0xFYW1zb0pPekVhTjdZbWhfNGV6TnZrWXp2YVdKTWxTdGZid0ozZHNlTW5yTE0wcjBIQjhoU1FHblNUS19aZ3NR?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-15",
           "title": "Nifty 50 Gainers and Losers, July 15: Eternal, Shriram Finance Lead",
           "source": "HDFC Sky",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yR0hSaUtITEdEaGNCV0ZhdmNWMXBRN2EyRXFfdnBaNVYwOVdQSllyQjZpQjQ3YzlHaEVBTkJjZlNkR01YbXQ2UUROMW9yQUh2UzloTkUyR1p0VEpoYjZuR2Z0QWhtd0QyU25xMl9QWUxjYUE?oc=5",
@@ -1098,13 +1099,6 @@
         },
         {
           "date": "2026-07-15",
-          "title": "IBM Jitters Fade: Infosys, Wipro ADRs Recover; Accenture, Cognizant See Uptick",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeExLN2FxdXBXX05PNXRVdnIyRnNuczluaEpvLXd2Sm5YdEF4cXB4dVBpSDlhTkUwT29HX1h2VURkNVlwUnI3MFdtMVEyX2NmdHIxbnJFbWtkb05fVDY0aGtZT3lLNmlKTmp5UHZ3MjNnS3dNX0Z2SC1hWWxydHkxQmRiSUVjQUpmaWl2aXRVV2lJMGY2M3JhMVdORXByVTVaNFFvU3k1MWN2TDdORlJxLU8zM2R6RDNYZHpjc1BObGhXdGY4VkRPbkF1LTJ1N0pqY3RRN9IB3AFBVV95cUxNNXVRQnR6M2NucTRyeXlTejdfdmQ4aWtSR21Dek9HODdkeklfVWZJYUdPM0c4SHVNLWZHMHZSQ2tTZ0NjaUx1ZHRoOGM0b0l2RC1UY04wM1lsamx2YmNJSC03NFpYdWphTDFVb0RQdzRwTlpkSjVfWmJxRTRTM2twRXhLbFRVeTI2R3lncjkzcnNjbW51SGRpenBVVjJPeDRHekR5N2F3cmw4U0R1V2FxeGc0R3hKWEVfRGxtRVlYNUtOZF9zd3BYOV8wZVBsRDJEamdXQWdHVi1adjR4?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
           "title": "Buy, Sell Or Hold: Infosys, Suzlon, Kalyan Jewellers, IKS, Jio Financial, PNB — Ask Profit",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXZYUHV3VTFtRzctVlh2UXpyWTVpSWszcTNCVEg2cDVucVA3UmhRVGk1WmVjRDRRbWVIdmhwVGtiTzh6R1FZRGgwUjhJN0NxNklmM2ppeHJsRnd6V0NXOGFneEp4Tm5HS092Sll2VVIwMmlEOGtNNzFzbEVwd3dpSHRncnFwcFJTX2RxeHpnNm80ZHdrRzcyZ3JkUU8yUi1seFQxRUUxbDBWRHZkNFJ2dWZCZXN5TXI5TjBCUW9qc3ZyS3PSAcsBQVVfeXFMTS1xekVrNmFqNmxPczdEUlYxTk9qSVJkdzFhOW1zOHJLUFJJSjVFbmNfRlZFZ2tneVlVR0ZhZGJpb2ZnTldTZUpXYWkyNzBWUzVCQVZ4TVU0SzhyN2ctSkJSa3duOFdjS0k0UGJNWEl0YWtLdWlFTWwwMVp0akVmaWRhcXZWMEVWd3VDR1FVZzQ0N2xfdUZRemRUN2JzVks2U0JyYlFiM1EtZDBMTXpIZnNic0RiSzRvN0k0NEpqeWljOWFjbjJwbmFIUGM?oc=5",
@@ -1112,9 +1106,9 @@
         },
         {
           "date": "2026-07-15",
-          "title": "TCS, Infosys, Wipro Shares Under Pressure: All IT Stocks Fall After IBM's Historic 25% Crash",
+          "title": "IBM Jitters Fade: Infosys, Wipro ADRs Recover; Accenture, Cognizant See Uptick",
           "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEVsLVZqdllzTVI1LVpCenBhcG15elRzVG9qR3JCTkk5d254cXdqOEVIZ0xPR2hXeFpucHc5ek8zRnBxUlFEVmlHTko2dkRFU2NqcGZXTHIzcEpJRHdfM3RQSnpURjd3dmVVeXViU3d6ajZLWEtLTk56NjBSZjBLemdGX3E2Qjg1ODZxM3l5Qjg0T1laTnZ3Qk9iRkN3Vm1QM3hNbENzaGE1ZjluQ0lVWm12blEwUEI2YVRzMnpTUDR2TTV5OE43SFlXbUdKM3hfeVJMVjhR0gHeAUFVX3lxTE1tY1cwNnJ0ZVZQbDlzN0R3NHNSNUJSYzI0SUp0VWVTT3Y4SC1OWVI2MnIzWGJudXgxc01LUUVudlFQcXp2azBCTWxHYVdRa3hVTVpkckN3R1FVVXNIVXpoY255MUR0VWlBekQzR19GRlB4Q3FWU3NRb1hXOUxqRmJZR19BdTdKRWpZV0FzWThPWkhXQjV2QU1qNXdNdTVPZlF0bjZCaVBxZnEyMkZyeTROS1BnMm5lT24wWXVYcDVQazBNLWNfYmlFQXlNYjFZVkNsRlJmTzFqX0dVZXY2Zw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeExLN2FxdXBXX05PNXRVdnIyRnNuczluaEpvLXd2Sm5YdEF4cXB4dVBpSDlhTkUwT29HX1h2VURkNVlwUnI3MFdtMVEyX2NmdHIxbnJFbWtkb05fVDY0aGtZT3lLNmlKTmp5UHZ3MjNnS3dNX0Z2SC1hWWxydHkxQmRiSUVjQUpmaWl2aXRVV2lJMGY2M3JhMVdORXByVTVaNFFvU3k1MWN2TDdORlJxLU8zM2R6RDNYZHpjc1BObGhXdGY4VkRPbkF1LTJ1N0pqY3RRN9IB3AFBVV95cUxNNXVRQnR6M2NucTRyeXlTejdfdmQ4aWtSR21Dek9HODdkeklfVWZJYUdPM0c4SHVNLWZHMHZSQ2tTZ0NjaUx1ZHRoOGM0b0l2RC1UY04wM1lsamx2YmNJSC03NFpYdWphTDFVb0RQdzRwTlpkSjVfWmJxRTRTM2twRXhLbFRVeTI2R3lncjkzcnNjbW51SGRpenBVVjJPeDRHekR5N2F3cmw4U0R1V2FxeGc0R3hKWEVfRGxtRVlYNUtOZF9zd3BYOV8wZVBsRDJEamdXQWdHVi1adjR4?oc=5",
           "type": "news"
         },
         {
@@ -1122,6 +1116,20 @@
           "title": "IT stocks fall up to 1% after IBM's 25% plunge; Infosys, TCS lead losses",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjVqeEJtS0xWdVBxQVQ2dGV2RE54UjhVcFlfa2dVUHliUWY1ZGozZUN0YzhHbDRZdWdKbUs5TzBEYkhWeW53QURFVzRqdzN3WlVSa1B5NmM3XzlIS0dtOFlDYlVMenc5cm1LMTRGQl9sY2dwaHNNT0tHWUE0VXk5ZUZ2Nk1hX3ItUkJzcFUyV2tDSV9YMzByaVVoTkU3NHc4NFFNTkdwN3Jjczd4UUVQUF9PcHdNNEFZb0VKdDBvMTlYcUxkUHJQOHYwdw?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-14",
+          "title": "Infosys Q1 Results: Date, Time, Dividend News, Earnings Call Schedule And More",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjZKZmxUdDhid1pJY1l3MW1FUVlkakdRR0JhUjVQWmlVenZwQy1Td1J5blBmYWlpNW9zcGF0SnRNZTVGTDU5MTdpWGlMcG9EblZ2clhLTGpPbVlacTdra2xxY3dGYmVUcmVyOUNKTzJUdkxVTmg0ZXlxZENJMkpQdkJOM0pmTDZJTDlhcVNYR3AyQ3JHUHRwUVFVYUFqdW5pWnBmT25Sa1ppc1VudFZmdFVrM1d2cmJ6ZFHSAcIBQVVfeXFMTU5odG95SXhtMlBIWVVyWkZ2VHpwa2RxRk1kUEYzUk1FZVFic00xcTkyVVhSem1XVF9UZ2E3RUpLTkhDSndWaU5yTDhrbmVFZ09wUGVDanE3YWdxTWx5R3h4OThoRUZRSnlkNWk2TF90dEUzQ09nWTllOGhnTEpYbzZKa29KSFllR3NJSXJ6X09yNVYzTGo4Z3RVNEMtNWNSWDM2NVNSQU5pTUJNTHJoQWluY0gwaVpXTWlwTGtReTVsYnc?oc=5",
+          "type": "results"
+        },
+        {
+          "date": "2026-07-14",
+          "title": "Infosys, Wipro ADRs crash up to 7% as IBM warning sends ripples across IT sector",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTlY5Tm5rVm5BajNKQmFOSkgzYmdyeU1tNmRFXzVfWXJXQkZBLTV4QTZYU1cxU1Z0NEZhNmUxcVA5aVNzYVhOTHVGVVBKUUk0dTczLWpkaDlVN1pkSVRRUjVfbmlTM2ExMEQ4dUNqOVNnN1dib2NlMmVwbjYxVmgwSGRrR3o2S0h3MGZ1Zlhod1lCYjRGNXQwSFZ2MjZ6aFhpaEJVdFBDclh2UVVwX3pPOHF0SlN2QmM2Z3Zfa2I4d3BNbGl3T3Jya3NzVDFYc210SWVyNXExNkZfdGRjci1pQnA1djFSeTZFNV8w0gHwAUFVX3lxTE5kN19LOHpjSWtxM0k2eU4ydEhQeGFRQVhjSnB0TG9TVHY0alBEZDBvR1l3RWstMmZsNHVMdVRxUnJRdFc0VkJSQmZlOXRSaGxWQnEtTlU3LWIzTFRpSEY4bmtrSEZQN1ZsTG1ZSE5PWEpsbE5Eb3hwUnlUYWRHMkR6MnJVellsTzZPeUlpZDU4cV9jLUtiN28zaUhJLW1QT18tYkUtWDllVzlDZGxsU3VjaFQ3UGNJXzJXWGJDSVVUbEpCUHNhSlV2WTV6YXo1bzdBcWtGVTdMc0V4QjByX1FzMGNfQzZFU1FWLU40YmhUYg?oc=5",
           "type": "news"
         }
       ],
@@ -1131,87 +1139,79 @@
       "query": "Trent",
       "headlines": [
         {
-          "date": "2026-07-15",
-          "title": "Trent Board Meets August 6 to Review Q1 Results Following 19% YoY Revenue Growth",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFjUng2N0JTUnM0dmxmNUt6c2ZLNXE5blZhVEdpbGltWFZwVkRmb1NCTUJqTk9HM3pkWTZKS2h6cEJnMEZWcWhxT3ZjalBXdjZ5Y2ZrWi01WlJ3VGFyalJOejFQTVZibWRvRnlzWTZfU2laSTN2WlJ1VmJadl85bU94XzFDaC1HQXJmenlqblpITnZpVkVLMzgxd2J1RTBhelhNanhhWkFRMzdhZU5wZ29RcE1EaWQwblE?oc=5",
-          "type": "results"
+          "date": "2026-07-17",
+          "title": "Why the NBA Is Investigating Gary Trent Jr.'s $64 Million Bucks Deal",
+          "source": "Sportstar",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdzk3emlpSEQ3X2MwTXprbjFFZWlCSXg0OVpubEh5OWw0VlpZMmF6OHA2SkxlLVRGalVBT3FwYnlWazdiMVcycHZyd0lSRXpFcVhBNjQ3YTF1MXptUWVrOV9PN2h4TkJIUmNTbXNXLWZaMC1Md3haQWJnY3Uyel9Id3lkdURLQjNqV1hFRVpyRkNNaW5uckNwX2h0SXlKbjJIVm9pZFZwNjZZUHBBdzNmN2htM1dwTk1uZzBBTXhhNEZWRFkxcW1RVFBHR3jSAdMBQVVfeXFMTndKV2drMGFSd1p5ZWo3cDU5a1hyOFNyNlpSSW5sRkp3M0FUcHVVeU1QUFZ5X2Z0WmxEOC1IbEhBR2tia2JJMWJHeU00UzgxdHVVZXplakFKTG9BYTc2U3l1VWRrU1MtR1hDVExsNjd1RlZpcDAzX2R3N0U4dXQ1aTgwX2NsNXBKa2trcUo3VXlEWllSdERkbk0xM2N5MW1VeXBxOHJWempMa2NORkhFS3oyS0c0dGFRSGlJLVN5cFNMQUxSbnFHd1VzUWFaSmt0b25qTQ?oc=5",
+          "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "REG - Severn Trent Utlties - Financial Statements - ST Utilities Finance Plc",
+          "date": "2026-07-17",
+          "title": "The Growing Circumvention Problem",
+          "source": "Third Apron",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JSkJsNHd2WkFPREZZUjNRcEp6TVRxTkp2NzN2X2xscS1uaHpYRk9JVU9zSFZTLVBsTV9nbVR1UTVkRXNsU2E3YVFHYVV0dGZ4Z0k5eGNZcnA5elV2MkRvS2NDYi1ORTF5Y3VxYW5jRUdlMGVzemVkcjVYN2U?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "REG - Severn Trent PLC - Publication of a Prospectus",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZTdPZkZPWExHWVE2RzlzUGlfdjY2dWhNZ2VfWjJ0bUdHTEpqeWFmWXk4T1RPZ1Y2djVhUlhuQVB0N2pKZGJQOHI2MTlPNEY0S0pDclJnTy1BNS1hWjVvNEMxQVB3RktSNmt4Q3ZYak5sTVZCa0hudjhrRmpINU1DRERRUGZMamVodU9rTkVsMVNJY0J1bXFBeF9YOFVKLVlsX2d4NkticzdLU04xdjRkZFg2TWVhZUtNeDFKNzVRczV3VkhETF9abXZSdzNJT29GNGhTaXJmNkVHSEZPYW5z?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXR2MlljTlBzbVU0Mk9ETnBtUm8zVXpsaWZNT3VlZERyU1V2TnFEZTRWUEFmandZRXdPTlMwYVFNTndHR1IxcXNxazVOLXFsdWRvZ3VGeGdsbnR4TDNPSS1ncTlvSnZwNTg5LVdBdS1VaGVMVGVJNDdsTXdQQXVBdzhRR0tac3hLOWdlM0c1eUs5TGpTZVlSV3RJSEdVLUpib21KMWVfZUNFeFU1SDVMR09JeXBXejd0Q2VFNVdXUTRldw?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Trent: “I have always admired Mourinho, and it’s a pleasure to work with him”",
-          "source": "Real Madrid CF | Web Oficial",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdG5GNzNFYmY1RW5Wamh4N2c2TkZwV3VXX3AwbHZ1R0R6bHlVWDhKeHJBS01GSnQ3Mk1SYzN6aEgyN253cXc1WDRlU3B5ckYyZmRMaTVCcHZnVm1GQmZkSnVEMFR2RzIzd2x3emh6SFR6aXNEX3pIVjJFV040NFV5TExvdGYtTFlRdXRCRWd3VWR1WnJsZEl2YkdUUmEzeXpJTDZGN1c2WFl4WE52M3JoZHBjS1VjR1hnZUdsOV8zckt5aDZPazkwSXhUZ0l5LVQtMGQtQ3hkeDVtV042eHd1QWRB?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Why isn’t Trent Alexander-Arnold playing for England in the semifinal match against Argentina?",
-          "source": "Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRll0WFp0RFMxTFM2Wm1kUHNYV3p0VXUzVndIRFZxRnhiaHZEX2tPanBVSElZNGcwaUV4OUI0Y2ZUNGczbng4akcwMldLUkhxbE04cXNIeUlaNVRnWVYyQk9HREwzbEhnc2dyTHZ2Uk4wZ01YQ0daNmg4dDFRSXlJRzdlcDNqb0RuREJicnFFNTJjeTYzOVNYbm9Yb1E4TEwwZnA5ZDNlbGhINnl6dnFfU195UFVFbmpRRWJieWhtYXpxRmt4bGI5cjFiZHBXOXUweEw5eNIB6AFBVV95cUxNazBGRFByaGNJQm0ybTdaR0VEV0txYjlwTmhMUmdoU1djbUxFUHg5bmNSR2hIb29PNy1SVlVScGdDdjFhZThWdEJpYjJsckdOY2FnU2tQMHBCZnEwdXJvTWhTZFJtY242LVpqdVpMQmhEcmw4c1MtU3R1anpERjdFUlpQcnh3cUI2QzZnbGhZSEV0OHFQM1ZGUEN2TWF1ZWxFWGNXYmd1X0tCQzlNem9aNWJpT3dzeXlYakRJYU1JZG5CQmtNWFBDWmJuSWVQU3F4azh1b2RQanFEclFyc2p6ZnVEbjNvTGl1?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Trent Alexander-Arnold sent a subtle message to Jose Mourinho before Real Madrid's new season",
+          "date": "2026-07-16",
+          "title": "Trent Alexander-Arnold subtly proved Thomas Tuchel 100 percent wrong again",
           "source": "The Real Champs",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnFmZE1aYnFnVW9ZTEFBelYydmhSRjNyaDRUeUV0S2dnNEdSUlV2eFFCQzgwWDNyMlVSWG5EQjQ4RFBYVXg2eUdGRDVZLW9CcEpkaXI0ZTQ5QXJsTDdCM1JCVERxQ0JlNEdDcU5lYUZjQzlOTmNwQjlRRlFXdHNTeGRRRDlqMkVTTHdGcDgyb0hRZzhXd1hYZEJVX0hIS0tNV0xHWDNKREJjWUxpQURkeTM1MEQ1VTdWM3BvOFc5RnAwYkpUTUhEcmxpMXo?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWlycTBIdE5Qc25oTjhqTWxuelhGSm1iMTZsLWNHZF9IbWNXRS0xbktFempKTC1oNm1vUHNsVWVuczJuMEZsZ2ZCQnMzM0ZSNExpSWNGanBuSGhoZ1UwTng4SGF0OEtkTXlXcjVYN3ZRLWRObWlPYnJNSWRWNk0tWFZLTG05QlpqMkx6eDhKLWFrUy14QnJweXo1RkczWi16M3pTNHo2S0tIeGVXQzAyN0dTNA?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-12",
-          "title": "From Kalyan Jewellers' 52-week high to Trent's reality check: LKP Securities' top trading ideas",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOXJ2cXRJZnJDUFJORzMzaF9oS1ZTSG1NVkNndVVJU1BQUUxnWERXRldZeTc2dW8tMkpDaENISXM1UmZqNm1iZjRjNmgxVTVOWVBrX2ZfaFIxbjNPUUNwOTRKVktVZ3NNNWpYXzRfTGU1a09JWlRvSS1PbVBKN21fczVJX1ItM0VJWkpQZnlvNlREYWVfdnZTUl8ySnBQU00yZ2Z4UndSWVBDOGdNQnlmSXhYMGNyRzh2S3RvX1Y1RzZZQ0NPTXdkR3N4NTF3dGJqNW80RFR6TUFpQ3o2blItVFRpWTRJVV9nSHd0X1NCUHJPdklvTjFVddIB_gFBVV95cUxNLU82Vm8tZEQ2WFhZTkxZTVM3UERWa2JPc1FfaVVwUFdwS29zT0kzNGVuMGhCX190SmMzbUxlWkp5czI1TTNUZ1NvSmdmdVR5SmRCeGZTTDN4RDBHbDJyNFdQOTRVYmYwNFMxc0NjOHJOaXB0SGZ6a2VUejdGUkdpdGJ6QWhaZEhrS3IzUl9BcU4tN1V2YnZlUXJCQXVReUpRMjRmenVoZkJRcWItVFFDc2trYmwtaXRWMEVocVpWYU1CR1RrV0g2YzI2MHJabGpDLUhrOWhVSTFaRGZWenVmd0daMDMyS3RyQ0R4eTdpQ1ZObFNmTmQ0QkRUUDZ5QQ?oc=5",
+          "date": "2026-07-16",
+          "title": "Trade Idea of The Day - Trent Ltd Target Rs. 75 - Religare Broking Ltd",
+          "source": "Investment Guru India",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQczFaZDdua2x3eVFoWFA0T2tBektKUTF0dHRLMDVIakFUcmE0THJJOGtCRHozSWFyWVpDUXZTYUlXMkQxbkVfZXktVDZ1aTF5S0VUNVNsU0NiNnZvSTZOMWlnUFVadlVBMWxxNEhMMUFiNmlMQlpWT1RxZUR1eHRvdlVXbkRfemdlMDlXQVFLakpudHY4MVJ6WXU4eF93NDYyd3k5TW4wYjc0amg4Q3gxZ3RjV3EybFJZa2c?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-11",
-          "title": "Weekly Market Wrap: NIFTY50, SENSEX end in red; SMIDs outperform, Trent biggest loser",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd29TWkR4ekRfSXB6Y3Y4eEhDZVhaYWFfS1pNZjBGSDhJVzU0R3l0cVJqZlFEckRjT19YeE9xd1JiTjFpOTd5YzVkRDJMWnJkM2pfcnFNOTdYQ3NVdDlJY1ZUOVhlZGZxangwdC16a1NRc3FWWlh1MUoySVRiWHFQU2d6eThWczZ3S3NmN2FHRHd6ZGRKSUtSa3RtcHlIVTNPY2RiejNCM05YZ0ZHdlN5Ry1pbnZmb19Ld0FwT1k0T3hRWlllYlU0dXRGa0xfNndTRktsNzNsLXhTZw?oc=5",
-          "type": "rating"
+          "date": "2026-07-16",
+          "title": "Trent Alexander-Arnold just threw gas on the Jose Mourinho hype",
+          "source": "The Real Champs",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGk0RnpqcXhpbzdVOGhtSE5NcVEzRDRGZ1laUXFpQVBoNld0c0NCR3VnMTJDWE1JeF9INzE0Nlk2RVJjZERkUk9uaEs2Rkl3cGd5eGh5b1BDNVo3NjJhWlpyOUR2c3ZfRm1ISWFBVmxGSkhDTUp3dmFYMTRYSVlWSEFhcElsVW5qeXlIYllJd25TS0s1SmpyWUZsNFR0YkJtc3FCeQ?oc=5",
+          "type": "news"
         },
         {
-          "date": "2026-07-10",
-          "title": "Deepshikha Agarwal joins Tata Trent Group to lead beauty business for Westside",
-          "source": "Exchange4Media",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFJDbVB4YnZmNHFCWnI0eDhOR2dyZVRSTlRRbDdsSlpyLXZwYWNWd2R6aW95UzRzOFF2WW9oMVYzZlhPM3ZiSmUxQnhFLWx4blR4c0FpRHN4czNQTFpXOFJnck5ZZTN4RnF0SWpHNEIwcnF0NjVXaGVxNDk2aUdpSlV0RXFDV3pvTFAwZkw0dnhVTWhMTkdwRV9CNlRrRmhUNUt2QXVnd2JBM3VyTlZQYkFzYzFRY2VHWTdPbTN5NVNaczhGV1hBWWszRUxrT2FfSnZPanRUWTZMdw?oc=5",
+          "date": "2026-07-16",
+          "title": "Gary Trent Jr's $64 million Milwaukee Bucks contract sparks NBA scrutiny after free agency deal - Report",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUprTXZNM19fLXNnLTUxb2wtRU5HNWNPbUhKS3ZuR0hMdlBCSmU4SDkySUhmOWY1R0VNN2hsN3ZJWFBtVzRMbDROdTVxbzB4Z0sya01nb3pMMHByb085b0haYnBkclZ1YVR1TXRuSlo3VWhkdkQ0YktyRXZ0VzdNeHN4dHVRU0pFcUZlYlJpRHRIMXQ1WTNnWXJKM09razM5SVVyZnN6WEhvcS05N2dTN0xoSUc3eG5pRUZUU01zemh3X0xaV0xobVln0gHKAUFVX3lxTE9xSmtNdk0zX18tc2ctNTFvbC1FTkc1Y09tSEpLdm5HSEx2UEJKZThIOTJJSGY5ZjVHRU03aGw3dklYUG1XNExsNE51NXFvMHhnSzJrTWdvekwwcHJvTzlvSFpicGRyVnVhVHVNdG5KWjdVaGR2RDRiS3JFdnRXN014c3h0dVFTSkVxRmViUmlEdEgxdDVZM2dZckozT2trMzlJVXJmc3pYSG9xLTk3Z1M3TGhJRzd4bmlFRlRTTXN6aHdfTFpXTGhtWWc?oc=5",
+          "type": "order"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "REG - Severn Trent PLC - Director/PDMR Shareholding",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY1NsaWNLWGlxMWdIVjlaMGItQlVkc2N5ZGQwNXdIeUpOUG1VaWpwV3Rxenc5eWdGQTRCSFBsTjFoZ1NyWjRzaHNvdm0wN0hzMDYwbzliYk5ZNEFEUzVPcy1HQjFrLWJlS29GR2R2R2NKYzViQUF3V1kwTHBuNDJDbnU3REExNS1CXzlwN3Y5cXpQQXd4cGhYR3BtRGVUUUFqNXlDbnRZaW55OS1oX1FzT1dPUnh0ZHg3Y0JlQk80WWs?oc=5",
           "type": "news"
         }
       ],
-      "ratingSignals": [
-        {
-          "date": "2026-07-11",
-          "title": "Weekly Market Wrap: NIFTY50, SENSEX end in red; SMIDs outperform, Trent biggest loser",
-          "broker": null,
-          "target": null,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd29TWkR4ekRfSXB6Y3Y4eEhDZVhaYWFfS1pNZjBGSDhJVzU0R3l0cVJqZlFEckRjT19YeE9xd1JiTjFpOTd5YzVkRDJMWnJkM2pfcnFNOTdYQ3NVdDlJY1ZUOVhlZGZxangwdC16a1NRc3FWWlh1MUoySVRiWHFQU2d6eThWczZ3S3NmN2FHRHd6ZGRKSUtSa3RtcHlIVTNPY2RiejNCM05YZ0ZHdlN5Ry1pbnZmb19Ld0FwT1k0T3hRWlllYlU0dXRGa0xfNndTRktsNzNsLXhTZw?oc=5"
-        }
-      ]
+      "ratingSignals": []
     },
     "AHLUCONT": {
       "query": "Ahluwalia Contracts",
       "headlines": [
         {
+          "date": "2026-07-14",
+          "title": "Infrastructure Sector Update : Earnings recovery underway by Prabhudas Liladhar Capital",
+          "source": "Investment Guru India",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEZnQzV4WkxUTzN1M1JveDdxdTI2OVVCbXJIR210Qm1jTXpOZ1Z5QzRoQ0ktQ2dMaWs3NWdPQl9KTW1xcFVqUFNuT1VIb3JRRDdDTXkwN1FZbGlEeEs2Z2M3ZjA3SEF2NWQwcTJzTjVsVkVYUDFDMmc4ZE1TQ1dvTXpWcTIydzV5SGd0UGg4MHpZQXlwdmRQM3ByRl9DSmlBNUxpQllSMTB0eF9wUG9sazdCSGxyRGlVanZHM08tOUNMM2Y4YmdfQ01VNldiSmc?oc=5",
+          "type": "results"
+        },
+        {
           "date": "2026-07-12",
           "title": "Markets Rally, But Ahluwalia Contracts (India) Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off",
           "source": "MarketsMojo",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWZnS2RVXzdmZHhuMS11OTR3ejdXZllZTk1vSHFkUWtLZVpEY0hxZEdtNW9RaUFoQU9EOUNsLVVvQV9iYzBjTHVtamlEeXFab1J1S3dpTmRwalVhUHMwNHdQZjVOYnFNWFN6OUY3SDRvbFpOU1ByV2dDSHFrSy11YUVQUTREdmJRUUZCZXdKbE1hM3F5ZWdZM282SW1kS0swMFNVVmJpZVlTUFpXM3Roa0l6ejdGbmtvenFMelNkbE5MN1lyTDJUMw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-10",
-          "title": "Ahluwalia Cont Ind Share Price - Live NSE: AHLUCONT Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MWkd4OVNWNU5uV2FYNWZ6aHYtYXFwTVVERmktRjlhLW1CZGFVdlZWaEtlQVdrTkJkYjY3aEg4cVB1dE1FNW9vVTVjcFJwVS1SUDFmVmZrMkVfVERwdVhUTUlnN2psbmFfTVNzYk9n?oc=5",
           "type": "news"
         },
         {
@@ -1251,9 +1251,9 @@
         },
         {
           "date": "2026-07-04",
-          "title": "Price to earnings forward of Ahluwalia Contracts (India) Limited – NSE:AHLUCONT",
+          "title": "Enterprise value to revenue forward of Ahluwalia Contracts (India) Limited – NSE:AHLUCONT",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFBQVnZUMFpJTlpybmpTcEJ4ZG5GY3ByVnNsY3ZfQWJOenlBUmd1d2pZcmtST3JPOHdWTS1wYWZ2M2VBTkF3UGoyWUxQREhBMHFNcF9NVlkyRXVBY21UaThfa0pjdUpXREVaYjMzV2ZTRy1aQ21JX3hlYXVwY2d1Mm1MdHBERUVfYTRtNkNXeFVtUFRVOXBTX3pGbFFqQ3pITzZz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXAybG0tdEsxRmF5QzAtT0lQY3NXUXBpby1wZjljbS1ReXRvdEZ1TmxRWk42Vm5WRFdqZ1p3M2dOemVMS0dxZTRIWWFDN0dJaEMwOTY0YW1XdUtCYWhEV1R6Qko1VFlLekxRa3BpUmhMMlhiR1Y1NlZDUGxDWDB2eU1lN1pnNVh4dDBtS1BRcGhXaHhXZlJ4UGVyNWE4bXNiZVJJZWg3QVJlNVAtY2c?oc=5",
           "type": "results"
         }
       ],
@@ -1262,6 +1262,13 @@
     "HAL": {
       "query": "Hindustan Aeronautics",
       "headlines": [
+        {
+          "date": "2026-07-16",
+          "title": "HAL stock trades steady as defense order book supports growth",
+          "source": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0w4T2J1ZkdtSGVwMkdOcUhzeDFVQzZlMWRTOTRDa3hXdnNxcnFmT0hOd1NDanVyYUVKZ3NYakkweUtHVTAzc1BoOVk0OHNRRGZiQXc4Zkg3bjU2TURTazVuWWxXTGJ6SVpfQmg0eGp0d1EtM0VvbERQVDJsYTZIWURKN1JDakdsSTh1ZENPRENGbTAyN1FnZ1hVbXg3ektRT0NvWjJmUHB4ZWJlLXZCcG1adm9xYmk5eGJMVQ?oc=5",
+          "type": "order"
+        },
         {
           "date": "2026-07-15",
           "title": "From MiG-21 to LCA Tejas, India's incredible defence journey comes alive in HAL Amar Chitra Katha",
@@ -1285,23 +1292,9 @@
         },
         {
           "date": "2026-07-14",
-          "title": "President Droupadi Murmu arrives in Rajasthan on two-day visit",
-          "source": "News On AIR",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObDRaeFdxcTI1M05UWWJNQ096ZEswZHB6YllRY0NGQmlKa3hSNFdwWEpLUFF3ODh0LWg2NzhiUmM2MEJxUUlWQURSTVhiUjM2VXRzMVZvOTQzVlZ1dmdyNXNnc09IQXFtYzh0THAzNkE2YjMzeUJRcUVPSThVOHU2blFHUDJtcUJhRGREcVdfQjhvdw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
           "title": "Goldman Sachs stock picks! RIL, HDFC Bank, Adani Power, among 14 names brokerage is bullish on",
           "source": "The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSlBPWlNIemVHYVgtUTVGUXp0MDllZndvckhPMldWOURsVDNFb1N2b1FXM0JLdG9sYXFfY1NfY2ljNS00YjRQQXJGdVdETUZqSkxrd1ZsRmJzNkNPTzk3dVNEQzVPbDNXLU9tWHFLQV9mVmxfVXhBN2hQZ045TG90ZEdMV2JVa05uTnVaVlp6dmNiZnZxWnpTS1RYSWZYU2k5N1JoYnQ3a080cWhDRm1MRk4yV09rbVBKZlJpVXBnNE50U3h0RHNsTURleDhaTGpZUllmNjJWMUtJZVp1c1dsaGkzMFJXbU9FUnBOaExObnVsM3daaXk2RHc3eVFDS0UxbDhCQjFJOEZRX21IZUhaZDUyOXRGUVk?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Kotak Securities Upgrades HAL, Downgrades Mazagon Dock and Solar Industries",
-          "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLXRuQUdFcUt3QWdBY0Vnb1lIT3F3VGNJdVJLOXBxcjlWdmNmeEw4NnhaUEw2QkFNRTJjamxlQU5kRU9TOXhqTTNYdnlEQy1KNjhRUkxUZmFhV28yZzJ5Q1VBN2NBckxjVXkySEktYlMtUGloVG1lblBiTE1sVGYzbldsOE13dHNnZEJ2T2QtbG1FR1E4Z3pEM01GRE51dS10aWxreUNqY2E3SUJnYlNrSkJnUWRHTXRWYklHX003WXNiZWxOUTJpUWpHTmhZLTZ5c1dYRGxzYTRGbDJWVjROd0VrS0NCdTN0NndYemtB?oc=5",
           "type": "news"
         },
         {
@@ -1317,6 +1310,13 @@
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUtpei1sczRYOGdPZ2Nha2l2ckZ5b0tXNUlMSmNEOTlBbEhmeVMyREdNdzh0cUJSenJYNVhhZXhoUmFZeEoxSk9meEFVQmtCSE9SSXZ3ckJmd0VfZk02LWtzdTFJRHdNY3hCNmFiWWtvamlDVnhHMTg2c3dkbVEyb3F2V3JUV2lVWS1nOVV4dWVjVHQ0NG84d0w1RldEUVBmWFNKdEhLOVFxV3ZSVGozd2tabmdVLV83ODl4Mk9mdUtBYXVLWEE?oc=5",
           "type": "order"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Hindustan Aeronautics - Positive Breakout: These 13 stocks cross above their 200 DMAs",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPek9nWG1wVGxNdEx4ZElIeElWZU1PM0hLaTNxNm9RX2VqSnZKamJKaS1WRkU5MHo0YkZIazV4T1hSRW1sN1VsbmN5VlhjZFc2UHZuMHlOdjRZZUJKYks1MFBpMGJ5dWRzdWtoUHBkUXphRkliVUI1R2JxSWNrVGI2ZG44bHNGLWZQUEJraEVSOUJzQVpsRE1xQ3gyLWJpeTRlUWFGTzZndXVGcTJCb3dHYTczNGdaREhtMGJMMkZJWlNaUWkzdzNhQmtvdEdEMkh6V0o1R2p1WkJuNGVfSll6LUpvZ2FoSS02WGc?oc=5",
+          "type": "news"
         }
       ],
       "ratingSignals": []
@@ -1329,6 +1329,34 @@
           "title": "WedMeGood report finds Sri Lanka emerging as a preferred destination for Indian weddings",
           "source": "ET TravelWorld",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa0RadjFsMFB6SkdRRTlLYmUyeEhiN1EzU2NYVU91aWNFQkI0bmN0bWlWYjRhdXNjWXlvSUlYSjM5TWZwMGVPa0pDMmNlYklVNklRc196czNFU2pLVWFSSHBHNk9mQmcyZTFjbXR1SnVjSVVWbVdjYllqbGNLejBRMEdXYmRQWnRpaDJWRkhwX3VwZlFoclgzOVZpaW5ORGlkTWpVQ3RDcnRMMHBsVW1fN0FLWnUwWWJwa0NRUzdNRTZVVTRsbDZrUjdUNzREMy1waEt2MXJjMklsWWNBM0M5RGhscXRQZldNdU9wRmY1TmFYdHBhelE?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "IHCL holds the crown, OYO doubles",
+          "source": "Hotelier India",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWlGVVV2dlVZVkItYkg5dWVKYl9YbFNjYkZOS1RCQmJRSGkteHAwa2JmRlcwVmEwdUh6X3AwY2FJNEltblpBQ0gxODdXcmJQVFFhTVJidWl5OUtFS3BYdUJwcXNsLVlIOXZYWTVwOUJMOUZtQUtmUjlic0VTZ1RRc0hfRVFVdDk0VEdiT2dTQnY0enBXekE?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Volume Shocker: MFs lap up over 1 crore shares of 15 stocks that surged up to 49%. Do you own any",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb0hPdVhrX2JtT3JJM0ZNQ0dGMWJyeE9iaFZiVndOTXoxY1hldU9RVXNWR2ZwNzQtcnlDWTJVV1BUUnVhT3hkOVhFeUhLbTdNM0ZwTVM0TTNvZ3J6ZTVWTUVXMGtSckN2T3ZMdnQ4Umlla2Fua183TldJVXVDTEN1WVBUNmVTdlAwRnI1SDdXX0VjanphSWhnUm9XWGdZbDJSQWJJWW9TOEd0dUppX1BJd3pxYVJVQ3ZUTXAzSTZlcVlHdmxiOHNhdEk2QXRodzIzQnk2YTBIamttQnlnREd4ckhVUXRlaHEwQ1RIdUlyNXlXQkNia040TFppZnk3UlFTbGpUUHlpNEZienJ2d0JGYXo4d3k0akE?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "IHCL Appoints New Director of Sales- Commercial at Eternity Kanpur",
+          "source": "safariindia.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OS0xIOEZKVUVFdFdUU1huX0ZsRVBoazVJT3BJVjQzV05zOVZUa2dLbDBIUHlJRjV5MGNaMS1LeVpIc0J2djRMdXR5YUNCZmV1WXBvYjg5dW56cTlhWGNLd2ZENDZ2RFpnWDJYdUdIT3F6QTNab0UxcTUxT2lqelU?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "This tech company is changing the scene for smaller hotels in India",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUc2TlEzWHh5cGRFQ2diZTI3REotX2ZOX29rX2RKMHJMTnlhamo0WXhSdUVWRkdMTFpZM3lQbUNVQ01SekRvZ1VJU2U1Umo0dVpWNUJYVF9BSlpUSVgyREk0MDEyS3VYVVpycWFHMTFtUk43UEpkZzl5VDFwSEkzcGVHc19mdU1rNnBZY3RwVlJnd2ZFZ2dkRnRjVF9xN1JMRnYyQXRNV2tkT1VXRE1KYVhveVNQVE9XYnFxdGtxY05jaVNIandVVGpzanNERFJEaGE40gHTAUFVX3lxTE5RRzZOUTNYeHlwZEVDZ2JlMjdESi1fZk5fb2tfZEowckxOeWFqajRZeFJ1RVZGR0xMWlkzeVBtQ1VDTVJ6RG9nVUlTZTVSajR1WlY1QlhUX0FKWlRJWDJESTQwMTJLdVhVWnJxYUcxMW1STjdQSmRnOXlUMXBISTNwZUdzX2Z1TWs2cFljdHBWUmd3ZkVnZ2RGdGNUX3E3UkxGdjJBdE1Xa2RPVVdETUphWG95U1BUT1dicXF0a3FjTmNpU0hqd1VUanNqc0REUkRoYTg?oc=5",
           "type": "news"
         },
         {
@@ -1347,38 +1375,10 @@
         },
         {
           "date": "2026-07-15",
-          "title": "Stocks to buy in 2026 for long term: HCL Tech, Indian Hotels among 5 stocks that could give 10-20% return",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOQ0h6b05TR1dYYmpqWHQyblVFekRzSDAtb3QwYUtLdFU3M2FhMlZqQlR4X1J4TUpyRzJOVC1YMHFsQmJUZVIxVnZqU0JqWWlfMjh3SEVMRzRGREI2VVZfYTZiWlIwVGc4RG5jS3RJU3BNZEFvREE2amVlMjFnX2NqQVlFWkdRS2xERWZzNjc2eGt6MHJDa3lfTzZWdlRUTnFYVVJ6c3dZM0xiUENjc2hBNHU5cFQ2UFZkMldqSXF5X0dqdTB5VEd3Tm1WWmJTbkRqRExzN0VCVm1JZm1nYWdsTnFKZ2VycW5PLXF1MHhOakxZRFJ2cFk4bUhJbEwwZ2k4OGdnRl9vRHdoTzlZaTdxbTA3ZVFjSm1DajRabVEtSFd5NmliQlozeTFvbXdTc2xpS0FVendidGwta1E?oc=5",
+          "title": "IHCL Marks World Youth Skills Day; Partners With Aniidco And Tata Strive To Strengthen Skilling In The Andaman & Nicobar Islands",
+          "source": "The Indian Hotels Company Limited (IHCL)",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUGlBLVd0VUJqUVN4Q3dYQ3NaMnJCSHdBQTBybjlCZElILW8yTkNlakt4UENGeWhyMkMyTTl3c08ySmVlRkxIaFJIdkpxZU1zcVFYUjROWVB3c0h6OWt1WW1DX1lpamRpNDJ0RTJOcU9Jc3lzNGlRTjhTYlRhLWwteGk1TThmMGJwZTNPZWQ1QnBKVmY2dnFJT1cxQl9XQ2RXUHhpQWQ1NGZBUkhxUlR3RHMzN3B5VmVYQ29zZzA0VXFNeE5LbTZsX2JfeHBYVjFBSnlabzBObjBjV196ZGlZZHRxMlpRYWVCZXpQLW8wR3lvTWs?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Indian Hotels Co schedules earnings call on July 21",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUZxT1dMb003VExuY3JxMC1uMTdJbkxwVXJ3WFE1bEF5V1lpS2RKMTMtdDlDSTdZbGxWcnZVcnVxZDFhYkEzWFNuSWUyOGRvY296VDZaenE1cGxBYWlsSmJadVM1VGdnWHYwLW5QZFdtbEN3dXJXQmhFbU5OYXRlYWRZempfVlF2dmVqNm41M1lNeWFlS05UYzVaXzZBMDlia1ZrTlV3MmNOb25kVFRQWi1EQmdEZ1ZBbWRJcThiNmpMLS1reGYtTVRqSkZ5VjQ?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "IHCL partners with WAE for carbon-neutral water solutions across hotels",
-          "source": "ET TravelWorld",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT3lEUVo1ZTBKUS1IUzJKWXlyRm91RUVUSWNJMjg1U2lhRVRvbnNvOUt1T1hFOTBHRk42bVBYX2l4SnB3SnRxeUR0SHcwbXVBbHpwOVhZUjhjdGg5Q0x3UVB1U2MyUGxPekpFRkE2SkxRY3ZiemdlbUF3dUlhZjZnQmdsR1RjYmZXQlFDZ0UySjBfdXc2LXJuM0E0VUVGQVMtNHNZaUZqOGZPeUJtNHotWDdmakY5NktnS1dKR3NxWVppX1oyMXRiRGJFNTlmZHQzazZ3TU53bU43Zw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "IHCL Appoints New Director of Sales- Commercial at Eternity Kanpur",
-          "source": "safariindia.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OS0xIOEZKVUVFdFdUU1huX0ZsRVBoazVJT3BJVjQzV05zOVZUa2dLbDBIUHlJRjV5MGNaMS1LeVpIc0J2djRMdXR5YUNCZmV1WXBvYjg5dW56cTlhWGNLd2ZENDZ2RFpnWDJYdUdIT3F6QTNab0UxcTUxT2lqelU?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Oriental Hotels posts weaker Q1 profit at Rs 5.3 crore",
-          "source": "The Assam Tribune",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemthSVlhcEJ6VHdJb2ptb0x5NGQ2TkNhTkZDWWhJTkhmWnoySXlmSHp4Q1pObGlSY09HOUhhd1I5TkdJSlZ6eFAxQXVHaFRYc0pOR01MR1pRQ2VFVWpwTGZnaHVidGdiVEN5UWVtTzRtT0ZfMEs4Nk9hV3lPRGV6QzRNZjl6cHZJam5UcnJ5akptMHZ2Q0QxVUhEONIBoAFBVV95cUxOSWlCZmxVUkpobVozdkNSY0JJYVlvMzNNY3VSUDVLckNrMms2Q3lZUUQ4Q3NhQTNxMDlOYTlCMkJMWTl1WlA0V2hZYWlzVHdWY3d0NzdkQTAwSUxlaVV5S2RJdko1RWJYcXp4dGc0aDlxVzBpYzNlUWJZLUdfTWZEVW1WdHZPdExBc0trczdONHlYM09xVnR6VklTeFI5eC1h?oc=5",
-          "type": "results"
         }
       ],
       "ratingSignals": []
@@ -1387,10 +1387,24 @@
       "query": "IDFC First Bank",
       "headlines": [
         {
+          "date": "2026-07-16",
+          "title": "How 14% interest trap led to diversion of Haryana corporation’s Rs 50 crore",
+          "source": "The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMDlmWUxpYXg4ODZvNTA1ZlRzVVYwQWwwclprUGRXbGtHZjdrSTZsNXJyblNDdV9OWHoxQkZ4Mm15MVduQnpWZTdRaWttdWhJRk9FeXFxcUgtUDlyZEVQWE1SaEl3MjRZb3o4YjQyQ2Nhb2d0Vm9Ra0FwelhmNjhnQTRETWpHYUtKWG1wN3NibEpWd19hVnVRek45OXNPd2t3bU8tLTltVWhKYkxwbDFzTTNfTnNpd2FvSUNhZlBkanJWNHFrcmpOYtIByAFBVV95cUxPMDlmWUxpYXg4ODZvNTA1ZlRzVVYwQWwwclprUGRXbGtHZjdrSTZsNXJyblNDdV9OWHoxQkZ4Mm15MVduQnpWZTdRaWttdWhJRk9FeXFxcUgtUDlyZEVQWE1SaEl3MjRZb3o4YjQyQ2Nhb2d0Vm9Ra0FwelhmNjhnQTRETWpHYUtKWG1wN3NibEpWd19hVnVRek45OXNPd2t3bU8tLTltVWhKYkxwbDFzTTNfTnNpd2FvSUNhZlBkanJWNHFrcmpOYg?oc=5",
+          "type": "news"
+        },
+        {
           "date": "2026-07-15",
           "title": "CBI arrests two from Haryana Labour Welfare Board in IDFC First bank fraud case",
           "source": "BW Police World",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTkloVHBRcm1RckFzTm5zUVJScUhYSzh0aEdnUGtMZ21oZm9BWUtvMHhYdlBPNHRrOEZVTWJqOGJUeVg4ZmZfa2hPak9tLW10a0VFM2lxMGVMTHloUE5HRjkwa0h4OTJHNk5TNW9VY3NIMk1sZkdSbEM2Y3k3UmsxYl85X2xEczhtYnl2cDlNRlQ0LXZwYkxocGs3N1R6R3dNcnFkdUVidnc3aE9UQkk1bGxBVUNLT1AxandNZ3Zvd1NPdw?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "DT Next Campus | Applications open for IDFC FIRST Bank MBA Programme; here is how you can apply",
+          "source": "DT Next",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclNYckltLWVsaFhNQ21ob01tc2tfdHd4bTE2TXBfdzJ5NTZVRmNBZVRNcVV3NE1HaXVRa3piZ2hra1RYRl9rZTAxOTEyM1RmRGdPY2Z1RmRJYUN6TDEyZlY1cF81QUxPeDZva0dzYThQQzdrZEx4WVlxVUN0YnYzOTdGUHd0aGpwUUFtbDZ0R3ZaZkM4a0RKcmlkQVBfVW14aWFQUVRYTWpGQWgyLWl0WloydUZEb2szcXoyUUJ6OFRGSEF1djFCbdIB1gFBVV95cUxQS3dnMm1CTEUtQTI2ei1yVUNiVjR4UXREb3VPYng2UWpyakc3cEFpXzRQbUx0U3Y2ZWwwZ3FGM1VZc3d2UzVySm5kUFB0NWRUTXF0Qjg5NzFOQVNmdWdXOXo1TFc5TU1nN2RLRFFBMUV4Z2VKTHRSNHo0RkxyanBfR2VZbGRGazcxZDAzeXhLT3JKNFlmekxhSHB4cHNaZ2xhZ0xTalZaV2lzYzRBZm42d3ctRU9KSmJuMmMzOXFJcjEwWGZqT05oa2RIdEpFbjJtRnM3WWl3?oc=5",
           "type": "news"
         },
         {
@@ -1426,20 +1440,6 @@
           "title": "CBI Arrests 2 Haryana Labour Welfare Board Officials In Rs 50-Crore IDFC First Bank Scam",
           "source": "ETV Bharat",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUzBIZFI1cW95QzdFMmptLUVpZVM3dkpwdENRYXJ1ck96WEdxS1NTT1lQM0U5Y1BHX20xWXlIU0VGSzlaTVd1anNpdHl3Y0VSdVRmRFRQOHplQlcyWjBKVU1pQ01mclBQRmVTdV80eGN3aWllQUowMV9fSGw1cEFpc3NCZU5YT1FRUVB3ZjJtQmgtR05pWjU5cnNkQ0hCMTVKVnkxb2cxRFdoS1JsS2hKTUR3YmR3bWczUU1udEVfLTdpelpLZ0RnRjJrMWNxZ2JKd1V2SVlBVFjSAd4BQVVfeXFMTVZoMk1kUkNwZ0c5UVVFNmszUzJNdzJqRncxUFFZeVVYTmRxTldNdzRXbFpxMlpJRTNTcS1rVHBCeER6aDNJNEZjUXZDVTQ3ckh5ZXlHdDM2Sng5TFpzUlN1SF9PY3JlR1R2VG5zSnV1MnBYM2txTWNoZi01dE9acEdrMVlZcnhKVVAxcjR6V04wWDRjekJ0dzBaN0wtdmlreWdTWDJuOFpHMHFGc016ZVI0NEZHYzhIRDZ6U0NNOFoybndWMHpndTVVNk5HSFV4NHV6MUZGODJJOWFUb2RR?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-08",
-          "title": "IDFC First Bank fraud case: CBI arrests 2 Haryana Labour Welfare Board officials | Hindustan Times",
-          "source": "Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNEp0WDI3SmRMaFVtT0VUMmowaHh2aWw4bE9aZ1dHZm16YjRMQUZTd2NfMVpzalp1cGluQ3NCOHRSbWlPNHRuUHExSFBGRkNPc2tXcjZmb0JKeU9ycWRHano0ZUJ5QXR2R0V5UEo1WWJoM3N3bWZNeWtzZk1FdjNWZW13MTV1VmtwbXI4V0Y4TWc2QVd2cXVqcXFxZEZQeUhfYlVOeEw1WF96bTN5WTNWdDNTSHp4M2xtcUNfTmtlekFnVFg0azlZWThWbUlmbDhMekIwRWJ2YXJKMndET2FFd1NVQnVpa1hkVVHSAe8BQVVfeXFMTlhEbk05Rl9CR0Y1OS1oc0JGV2hFZWZmTTZHOHk2TmlTck81ZlVCVjBCUDk5d2NUWHJ6eU9jMnB5TU1zS3lGZG9JZkRQVzUtdlQ1UUt0Nm9ZTnp5SFNFQS1pdUdMMXkxY2doT3kxU2R1aHBkRnFWeW85SHBoa0ktOF9kMS1wc0dTOTl3MDdNVFBoNFlNYWtXZk9oeHcwbTBOdmpyNHAwNE9lcTFYX2NKT1pSaTBJUzBSUFdldThYUzZSTU1JazFmNm9KRzJhcC1nSGtoZW1TQVV4VkZZM3pSNzNoeHliZ3BJR2M4ZnBMYlk?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-08",
-          "title": "IDFC FIRST Bank Expands Its Content Ecosystem With The Launch Of @idfcfirststories",
-          "source": "MediaNews4U",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1JDbGlIbVU2c2taN2s2ZXVfSTA5UFUyRmt5R1BFMzhQcmptX0dXRHlQb05Ea1RKbjk3VDM5NmNsRnBHZkV5YkM1UHUyNDFQSVV3RW1HQnVONEUzdmdtSXBjNTUyelNwR1dteVVnaTZNVktCY3pZdHJlMWhRbEdvT185cGI0bTlvb096d3A2X2FZdnNQazZkcnJkYmIyY1cyeElGUThsX0tqS2Fxc0dV?oc=5",
           "type": "news"
         }
       ],
@@ -1485,6 +1485,13 @@
         },
         {
           "date": "2026-07-03",
+          "title": "KPI Green Energy grants 75,000 stock options at Rs. 35",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHV3bm1TMEtUYlMzNjNtT25kVVE0Q0p2TElKQkNMTlZBWG55d1FvY18xdXBJRXJJdE83Y2VlUnF4dlFmaFN2Z1FJY1NNOEd3QkJqcWdFZWo5aHY5ZDBKUHVQRHd2M1ZxQlBtMDZldnhfU0xEUDJOVHlra19tUUdEM0puZjhhb25LTWhfVlJqakM0MmtWa0JxY0xXWG1UaE5xS2VZanNvaWlmVE83RHJR?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-03",
           "title": "KPI Green Energy appoints Prof. Sunil Kumar Maheshwari as Vice-Chairman",
           "source": "scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeXdSZ05WU1VIb0hQaks3bmItNnZtX05ZRWFzVy1NU0oyM0pVLUJmOWlkS1gtdk1YTGpTaHhtX19EZ1lKeWhtWEM2bDlJQ2J2MkFydjdyendJUlFFc1o5Ty1tTXpyLXUzdjVkczJZLXRiLTFpVUc4Qk1GcnZxOUtid2FqRUtTSDY5TklLUXRGeWcxNUVLb1JZWU9vaDBMWlRVWnlNUTNya0gyb3E3dElkUFg2VEpRX3Z6czhUeGdtcm1oMUJ2ZWc?oc=5",
@@ -1496,13 +1503,6 @@
           "source": "Saur Energy",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdldTRm5ieWpXbXVKY2R2XzBqX1gxTndDb3R6WnVOUlJwV3hjNlJuOE1lNnpJOU85d2xvcTRlajhmd19BZHM1OW9PbjktMEZhM2cweXpMYUFlVkE3TmhvVTVSVW94azBENTctcHhHa2NxbUN5WnRvdU5vRlUwaTRVUzd5RWtJbmg0ZHM0X3hFcE40LWdFU0xPSzZuYmI2ZWxYbDNLVzMzQUw5ajV3S0ZSbGtDLU1OZ09qbUVOSTVNOUpSMENLbk15V2ZXSnJzRUtwTHc?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-06-25",
-          "title": "KPI Green Energy opens e-voting for director appointments",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGpiQ1NSa3RXZVIydjViX0NDemFKbmFlcHk1ZUpELWlkaWs2SzJMWTlUdEJWMU9FejdZc2RnQ3YtZGJ5U1gwczhRSGxWd2ZRYTZfSUt0MkNmb250WmRPeWdOYXJJWXFRSWluNFNkX1phS195bXJLRHlFVTZXbXpyU0lqRDZXNHYxbzh3VnlxQUltZjhva1QtcjBKLS1QaG9ERFVDOVUydi1VMnQwRTlycmJCaHNOalZHeUlVYnVjOA?oc=5",
-          "type": "news"
         }
       ],
       "ratingSignals": []
@@ -1511,10 +1511,45 @@
       "query": "Kaynes Technology",
       "headlines": [
         {
+          "date": "2026-07-17",
+          "title": "Jefferies flags Dixon, Kaynes, Syrma SGS, Uno Minda after MPMS approval",
+          "source": "Communications Today",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWo1clN6VWhMZWw3NlBtZXRkUlAwX3JXeHJWdnBhRDhuVFZGRnppa1I3TklMeF9DT0FKNG1aM3dna2dJejRlWGZ4Vjl2enpNcnVYMzlidmJIdEV2YzFVeERVYUloVzJTME9QWDdxTFVqTGE3UlNqN202U0JicVhqWWtLNU93NTRYUkpqTjBXVDRZT01TZEtuNkducEp4RDhqQU5jOU1tUnBEcTg?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Six EMS Stocks To Buy: Kaynes, Dixon Among Motilal Oswal's Top Bets — Check Full List",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3g1V0xjczBzemxvT29aYkpfVXR5X3duZUFmNDFrNHpHSnpob0xrMnBfVkNXVVRKenB6RzFiTDlpSkNmS28zaF9IQ3R3cUZnWlc4X3o0NDA4WDhqeEp0NTduU2xwTVZ3Wi1UVDVNZWVDMHU4Q2l2SEFmYjVMYzRHS1pjdzI5ZWlSQ2lMVVpvcWFaeUZkQkZYQ0pBck5IMTNKdDV5MWRfWUlOc0g4RUc5SkdmazFEZ0pHRTZoWjRoYXRrdw?oc=5",
+          "type": "news"
+        },
+        {
           "date": "2026-07-16",
           "title": "Dixon Tech Shares Rally Over 7%, Kaynes Also Advances After Mobile PLI 2.0 Approval",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3JYeWlfWE9vUWxzWGhPc2o0X1M0SlZHRTB5cFp3UzNRMHdtZ0NCY1l4TTF1RzIwUzBaWFRJb25pMXJ5T2o0Ry1oRkhCUFhBcGZvVWRZTUg2QVNRNkg4RWluY2d1UHpkRlpEaEZjSTNac0VRcXNhRkpldUFBYTdKUjQ2di1RY1dkZk1rcG5ZZ3RlaTh1VDB1YlNJQ003WThGNzRIaGJ5Yjl4RXByNVhXWHVpZHROZmlzQ2JsMmJwUnJPTm9DN3pjbDdNNEk2d9IB1gFBVV95cUxPN1hDVkQydDRhNFZXYmFiVTRINDZuczBsYTE1TjZnTHRhMnVNcEhMOTZZRDYtaXNqeEp5clBvSExMTUtoS3JNaVhwTzdGWWpDOVRQMFVfRkYzNXRBanZzVHBEUnZxVXVUZVRsQUNLZFRsV3FLNkpsVHEwTWtPSVpZRmR4amg2Y3dJTUpGLURkYnBNeEVYRlA2eWlUMU52MmwtSWZRaGZYV3MtaWQwdGduSkRDRlZJQ1ZVdmdleVkyWnk5R0pBNHNHdDROalZhdTVwZEwwRkJR?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dixon Tech, Kaynes, Syrma, Amber Enterprises, Cyient DLM jump after Cabinet clears ₹62,500 crore for mobile PLI 2.0",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMGhtWm5QXzN2T29udUVJTVZhWHVKRTNpX2RiM1RfVXFyc1g2d2FveUhkcmNSbXN2czVmSTNGZXRiMEFBeUdtbDhpTE8zdkxqSl9VcGN2eS0tVDFVTTBYdWhxenl6UkNoQjdfV0lUMm1zMU12R1kzTi1xQWd6V0p6eV9LcExXOGloZXdINFZxQmJ2M2tIRTJ5amlzU2FJRmpKSlZqekh1dnR0V1dabEdmVjJVN0YxU3ZyMFd1N2lnWlVkMWFuQWRMbWt1RTVSakQ3ZlZjbl9iMGQ2Vk01MEpKMUhHVTlkdHlkX0llWkFtcTFVblJQ0gH7AUFVX3lxTE85RTZrTk5FXzZWRGw5MGlLc2RfU2hIeExSWjg2Zl9TeDU1QWhPYm5uUzRVckF1M2Q2QnoxUFEyYUNMOGsyMEx1V2VKUzk0dWxSRWZhZFlUMVRiVUxQZ3l1YWd2WnBGMlFnVmRVZGo3dmUwaDI3aGxsZHhWajUwQ0ZaR05HejF6M3AzXzljMzVySW1ZUm9OY3VZZFVFdkNoMTdFVXlXakZLX3l2YUpsYWdOSmR2a2tJbnFhYklnS0RqRGxiVkRsLWUzanVjaThuWF81SkRhT0g2cGpyclNJMlRraWJmRXlGNi1zMUU2LVh0b0Rma3paLVJ5TUpn?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dixon Tech, Kaynes Tech, Cyient DLM: EMS stocks surge on ₹1.9L cr semiconductor, mobile manufacturing boost",
+          "source": "India IPO",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSEQ5SnlRV0U3MHhZYzUwVkYwQzFlcm9SNFBaZTdHQTNnV2VacjJHWmNQbW0xeWtGQW9PZWFEVXZFYjVqVjhuV2k0NWdBbTd0Y2JPem81WGZqWXozR3FzeDkyNVhtZ201Yk4zTkVVc1pqWXNvZ29yWGNJakZWRWZpUl9MTjliTDJCYmgzd2tVRjZDWDcxUlZva09mX01TZmFfdUlnMUFWX2ZnWFNfWUZTa25NNnI5dENfTFJ0TE9HalpCR1ZJUGJObkJtaE1wSjNsOE9F?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "From Dixon Tech to Cyient DLM- why are electronics manufacturing services stocks rising? Explained",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMzlBRExtdzAtWmpReTZYS3NUc2Z2M1ZWaE9mWmtHb1dWcGVSZlgzZEZNZktnenhxdWF5XzNONVVOXzYwdktiNmtvQUs5S0FaRktJNjBKdnRuOXNpbnRKRktXVXlJdXdKM3Q3ZC1POV90em80cHVBZE9fTEdpRDNHSzRnNEhhMmVXVVFkN1N5dFNsXzktNVItemZxQ0lRUUpGWTg5dU5XR2hNYWVVT2hSUjRDRnA1djNrcXJaRVdrbDE1UGhiOUNmdkpoWXNtS0ZDVlJwbTczeWtDeTdMaWRVYkpXMktZRU00cVBJNU43QlhGb3lUaEF3UHF30gH_AUFVX3lxTE1xWHJHVkFsYlVxU1ZzLXduMW9aQWhnWkZqQ1l3SDc2RHh0X2RiQ0lwU0M0YVlkNmx3ODN1eTlhV0Rxb2hBMjd0OXZNalFmaXpITGFkaHdXT0ZsRFdxV0FhTnRETzlfRnVQVVJ0M1RpeDdBbmpPRjB3R1lESVBZeFRkdFlvS183akQtYUg4b3pLVng2a05oOFMtVVlLRlBqbnRUZDhqdzllWmhiZDVSU3ZjbEJIOWdDNWx2akdiSnhDWHFkUjV3N2djRG5CRkJOOElwVkdvRWJESDlXcUtjeHFQZHFNNUZOMEM0aGIzTG1OVFVMYmxkZmxxdzFscEszcw?oc=5",
           "type": "news"
         },
         {
@@ -1525,46 +1560,11 @@
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "PM Modi inaugurates Kaynes semiconductor plant in Gujarat, flags push for chip ecosystem",
-          "source": "DD News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnpDX3QwZ2NQVTYzeVBOV2x3bTNwM2xxUlVVUktDbFdVN3lyRVRybjI1MXpkdWJfUFZCajBWV0JpZzl1RFFkV3BCUVpBc09qeWlCdWRxdm00VndwdEg3aWU4ekxTVVNKdGhKZmxtU0xCdjA0RmdUNXc1eWlTdkVXWmxsRnczZHJsVlh1UUYtWGFVUUw3VUhnUWl0YUcxQW9xWlMwWXJkZkJvSWk3U0NDWFdFMA?oc=5",
+          "date": "2026-07-16",
+          "title": "Top Gainers & Losers on 16 July: ABB India, Jindal Saw, Kaynes Tech, IIFL Finance, SRF, among top gainers",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeDFPS19JN0p3b1VaRnR6MUVrbENsbnBQYTlod3FiWEJIMHZ1NFM0OW8zQ2RBczNuX0ZfUUQ5RVJ2ZHQwTDNwMEdiY3diRnRPa1hDNFpvOEhtdXRlS3UxeGZHZTJnQnVCSHlHX1pyZmRzLWE3T19hNUNuYVNhLWVfZDB2WHdrb0o3ejRkYzZFcUYtbTJHSEd0Ykw5eUl4cjZDOGcxdFJvcVZjamc0a0J0SE9oRXZzRVBjVVhGYllMWTJndFRRZ0NYajB4REM5UWRfWUR1TlVBbHBDQW5LekY3NGo2T1dYRzNPSmlzZ1lxcWtYdGJlQUlsSXlUUdIBgAJBVV95cUxPWm5hYk1jZHB4dVVwZkdnVFJmYmdfaUcxWFpvT002QW9EQnNHZTR4ZXl4MzNQNG56SE9nU1lBblR5cU5TdzRQeWFrLVhPbHRvVG4tN1psVWxFU1RQSTdEM00teTZOVGg2dDFEWE9kT0JRZHk5OWtWclg5WkdQZDQxQ3hiWmlMNV9uQlNZVFpoUl8wOUtVbW5Sd3RIN2NoUDV1TEI3UjhTRGFGb21vTUZUa1l0MmMzN0xTUUwtU05ha1BHNzJlRW9XMlhNNC1uR1hOTkdpR0xZem4wcWZjd2tSSG5GOWlwNzAtUERVb3lkU2RQS3BtQ0tVdXFXZHkwSGEw?oc=5",
           "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Kaynes Technology India Ltd is Rated Sell",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTBSR193NUhmd29pbi1iQmRTMFJJbl8wRE1wcmp4bWI1RlJaT2Noc3cwd2Q4dzNOQ3RIT2tSQVNmQzBySVlYdFFKV1U0NVFiX2pIY2s5SzRJUXIyemYzQ19NX1h3V2tBY1dqMVo1NC0zZ0hxUlJoS3lnalVxOHlUaWNFRzNRVWZYM1RqT3I0OFdGZ19NWnZhNWRSTnd4akE5ekhuRDZB?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-13",
-          "title": "Indian Export Stocks Facing US Tariff Risk Investors May Want To Watch",
-          "source": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcjRMNkMycUJMV01BUFRVdFVYaTV1al9sUncwOXE3dzZ4RC1vQnhnTHFKWFBuUk0takhUN0pFbG94ZW9TSHk2QVhOWXNJS2Y1aHdKY3NMWnBHcGRkelZULXZhbXBBSV8tN2Z0SFpvRHBxeUhCdi1sd2duT3F6MjhkcWUxQTg1dkhfN0RTOG9FYkhlQTVKcFVGcjlDZlhQNG83VDBoSll4bW16bTVVdV9FZW13elRGcGtsQjhsY0xvYkNJR09keUtKWjIwT19lc3dhbS1xZ1g5SDM5RVhTUW9hNDFB0gHiAUFVX3lxTE5yNEw2QzJxQkxXTUFQVFV0VVhpNXVqX2xSdzA5cTd3NnhELW9CeGdMcUpYUG5STS1qSFQ3SkVsb3hlb1NIeTZBWE5Zc0lLZjVod0pjc0xacEdwZGR6VlQtdmFtcEFJXy03ZnRIWm9EcHF5SEJ2LWx3Z25PcXoyOGRxZTFBODV2SF83RFM4b0ViSGVBNUpwVUZyOUNmWFA0bzdUMGhKWXhtbXptNVV1X0VlbXd6VEZwa2xCOGxjTG9iQ0lHT2R5S0paMjBPX2Vzd2FtLXFnWDlIMzlFWFNRb2E0MUE?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-12",
-          "title": "Dixon, Kaynes Tech shares up 5%: EMS stocks in focus after government waives customs duty on key parts",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR0QyNkFmLUhJdlptNEl4ejk3S2xNdGh4dDFrTFktc3hYQTlCV2NwaFl3ckhtM3B3anMyY0NOY0xhb3ljajlLTWxrdlFxNGp4WFFEV2xkZnZ1ODhHOTZLTm5veTkwN0NZdHpydGlxNS1kZFFMMkJuWnZxbUYzV1ZuM25qNEpHMWx3Y2JoV0JyZEJXNWxMd0JmTS1zTDF2Z0FTY0wxV1J6NVlQM3Y5SmRqLUVtQnFBemktNHc1NXlNTm8zQTBaS2FvMWRnSUp2ZF9XY25neDFIRzk0dWhoYW5IY2F4ZzRoUVBzTlNsT29sVXRVdw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-10",
-          "title": "Kaynes Technology Target Share Price, Kaynes Technology Share Price Forecast",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFkzWE5mNmhYU3FDemQzc1RkZVE5akpycVF1bW5kaWxhRTJCYVZoTDQ4bUhZcU9LNlFBVFdQZTZGSXlQUThWRUxFSFB1SmxQbm1aa3lsYXQxRWpadjh5ZmE5NThqVFdtOU1wLVpiMWlJd0FCT2pJLVVpU29wQ0VoY29mYUxqVHlvanF1LVZCdjl2S1lLa0IxMw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-10",
-          "title": "Kaynes Tech Eyes 15% Margins Driven by ₹5,000 Crore Order Book Growth",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHNLek1EV1d4bTNzZ0Yyd3ExRmRhQUdMRy1FRlN1eGUxbGQ1aElnSld3N1hEUFN3M0ZuTUVxTmZPcHZTaTNNLV84eFZCX0Y3ZTZrQnZlcW0wbGFacTQ2X3Q1Y0NzU2UzeE9Pd2NqNW53Sm13VGRHZnRhZVBieDJITjUtTmF3ZE5RTlF5SVo3a3h3bG1qWHBoV3c4VzlydUxKVHVGSExEdXRSdw?oc=5",
-          "type": "order"
         }
       ],
       "ratingSignals": []
@@ -1572,13 +1572,6 @@
     "WABAG": {
       "query": "VA Tech Wabag",
       "headlines": [
-        {
-          "date": "2026-07-14",
-          "title": "VA TECH WABAG Share Price Today Down 3%",
-          "source": "Equitymaster",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOdHhoM3lFaVgwcENiclREbUE1T2FGb3UyZVhJSzkxcmVNVlBVdnhGMDY2bHNEeVBtRlYyN3hFWDV6OWJ4NFlCcUhDMGpSelVnWG9LUlVaTEl5QnFaRDJ0bXQ4SGlSel9RZTAzMGstcGVWemFMaG50UldRMGJEaG9ybzhUZWVfQ2laTmJqX0xBMUwyZ0g2eTZvdmJCTXRuWVN3NzFQc2RnazV4ckNHNl9oc3Z6WE45d3RPNm9vZUpVUVhHWHFlZHBCQWdTa002MHRKWklaaG5HZEg3SXdRczJLY2FLUWNTMF9MYnFkTm1YS2tuZ3pTNEd2NHlXTWpRdkw4M3hSazdMc1JrTFhVazNVMmk4QVRDalVTdk5aQmFzUlRaMzg1VVlSZFBudEI?oc=5",
-          "type": "news"
-        },
         {
           "date": "2026-07-13",
           "title": "Be Sure To Check Out VA Tech Wabag Limited (NSE:WABAG) Before It Goes Ex-Dividend",
@@ -1588,23 +1581,9 @@
         },
         {
           "date": "2026-07-13",
-          "title": "Va Tech Wabag Ltd is Rated Buy",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQmZaNWw0UFFkRlRhVFJSOTMxVkJ1WkM0MnZkakJjZUJURkhwMjNHMGVzZDVMQXVuRkpKMzdrUVdjNGNIcGtJN3o5Tk5ZTFhCbEptbmN2UUY4ZXZ6bzlWQmoyNEtEZFQybzVQdUUyUHk3WGNzQmdvakxuakl5VjA3M3BmNEZRUklRUTh6WkVnTEQ4bVFYYmU0?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-13",
-          "title": "Broad-Based Technical Strength Lifts Va Tech Wabag Ltd to 52-Week High of Rs 2252.4",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaW16UTdNZTc1bWw2U3FfLWE0VUJSbXB5UDRtOEFjVnJIY1hoT0xyQlZKMERwUUs5OWREQjVBWnd5ZUExUy1XRVZPWW5Bbkc4VVBPbmZpYUdCZEZXbUMtR2lNbHFKOXRqS09BZnFJM2ZQeWE2WExIVzVISTRHQnBDQ3hObHNybHc1cjRLZWtUWmRuYVBEYUk5LXZwbUp2d3I1Y3ZrTUJWbTFDRzdD?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-13",
-          "title": "Va Tech Wabag Ltd Hits All-Time High of Rs 2,252.40 as Momentum Builds Across Timeframes",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkx3SDBnRUJENDc1dTJoNjhLNmlLU3R4RXU1dHRicnJUdlFCWlU0TURtakJrZUppUlVNWDRPV3hHYnR0VmpURTYwX19jNS00ZE5GU3J3WTA0bm9RU0drbmFLWXVYZURiLUVjMHRTWVoxQ3hqQW5naUNKM3JBRWJiNkhUQ0h5LWkzR1l0SWpEcWl6SE1mTTcwc0ZFQU1xVi1LYXo0TmVQNFliRlpuZXpwVmRR?oc=5",
+          "title": "5 Companies Supporting India’s Semiconductor Manufacturing Push",
+          "source": "Trade Brains",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMElTMkc1dUhoRWd3LUtURVh0WHNSVl9qUGtWR2JUNGxnRXNSd254eWxMVmVKZTZfaG1rVFk1RjNXY3A4NEtjaTRBb1Y3VjQ1bHhtZm0tMnFDN2hKSWoxeGpmR1hOemRMejBzc0h0T0VIYl80Uk5aRDIwUjhnLThCVkRUd2NfaEp1dTFWcUJ3UQ?oc=5",
           "type": "news"
         },
         {
@@ -1616,17 +1595,38 @@
         },
         {
           "date": "2026-07-10",
-          "title": "Tejas Networks, VA Tech Wabag, BSE, MCX shares: Short-term trading strategy",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHRucl9xbm5OZXlMSWNNSUlnNDRDMnRkZW8tbk04Z3VSMnliU0pNZnJhVnFfUnNQbVJKNHdrWFllZ2VackxBTE92THVwZnlBcW1UeWZHTlVzVXlwRThLak1OUm9YcThZQnZlZDN2ZzdVQnlyUjV1ZWNUMWlORUpXMWVjQUI2ZHRrWWRNUXlNclh2dENSSWoza21vYXpzNkNaeXpwaWg3NDA0NUZEUklJdzhfdThZWHdrWnl6eE5wSFFzWFps?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-10",
           "title": "VA Tech Wabag షేర్ కొత్త శిఖరాలకు! ₹2,248 వద్ద రికార్డ్.. ఆర్డర్ల జోరుతో దూసుకెళ్తోంది",
           "source": "Whalesbook",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnk4MC1CWjNXUjVEQzRvazJqTzctUVB1c2Qwc3FDS2JyQkd5MV9uMFZ3WnlxRnJGUU5WVElCQ3JQaUczNk12LWNSa0I3QWhsaVhDTTlWNGhiMGRENlpkS3o2YnF4ZEFGUC1OM0tMUXVOSmZuX0pKTTREUWZYM0FkbzNwdjR1aEl5ZkdibDhseUtTNXlwM3FWM3dyQnFNdUJhc0RJMThGUmM4NXZ6S21FVTJyLW91czFzcnhfQi1zeGdmYzFvdG0tamNmbDJvUFRNdGFva0lLZWh4VUdfbGQ5UXV0cnd5bE9PLUQ4?oc=5",
           "type": "news"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "VA Tech Wabag ஷேர் புதிய உச்சம்: ₹2,248-ல் சாதனை! காரணம் இதுதான்!",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbERzTDdiUzdRSV90ZTg5TXZCYnBTUjlSSE5OLVB1Yy0xWmVLTGJ2dlkwNUZwV3Y4X3JKczJSUzYtVDVCemFvT1lhTDBtY1dXZ2RIY1lDQjZYOFo1aWVrRFJMdVlUd1pNZURIUEg3dEpyeXJDWHdoa0tsbTNSakFSSHRJNXBIeXkzYVFlN1RyMEhYUUtDTUZRUy1oT2k1Y1BocnFPODlzeUU1dmJvT25URnNoUUUzWGtlTVBoUnNMMTZxbVRLdnd4ODFpanN0YzAyN3N5dXNxckVVTmFqRjFLaXRxSGpDSHNzeGc?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Tejas Networks, VA Tech Wabag, BSE, MCX shares: Short-term trading strategy",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT19jb2RQRUhWLTFVYnp1eURKanQwd2p2YnlaTHBCQzdvalVKaGJZd0V4TWdtdS1pVXJoMG9zNEVxZl9lZU1xYk5zeWNreDRjZHhzX2o2NkltQVl0cXgwQmlad1FnNUhYbTBpT1FnSFhaemU3WjBJNGNjcVVTZElrb3FqV2w5aG53WDNwaUpjenFZWHlNQjd6UzFrQWctb1BqVkp6UWpHNGY2S2NzLWJkQnM1YXUwSE84X0lFSzJ1RjR1UnRzblZYTkhua0djSVVXVTBqR0130gHbAUFVX3lxTE8tNGpSR3ByZkxUZHFoaDZEODNaMGxJQXlST3pRSjFqQm56Y2g2Z1RCUFJiWnFkMmZXVlh5dU9wenI3dEw5dUV0SDZaVk1PTnFPNkpKN1BrZkx2cjZqVkRuekd1bXlRMWpYQnZPOU1xS0hEV2xQMDJqYzYyMWR3S0ItdWVsdElXNG45MFExSEJqTlZjRWNqcDdBNU1EeUlnVkpieDdIa3NNaXF5ZzBBbHRSc0R3dzNJT3p3WVo1aDVxTW1TQlM2Rk5NNDM0bW9aNXNLcmR0VnVTUHRvMA?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "Va Tech Wabag Ltd Downgraded to Hold Amid Mixed Technical and Valuation Signals",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFJOVF9GSks1aTBoeTZhUTVDRDdjMFlWNDRyTzFTQWVXNVIwY1M3RHlNd1lNdjhONThLNVRTU3UwUUpxM0gxT2t1Rmd4RFhhLWlfNnlYMXZ4T2pJUW9IUGRjeFgzbVdfYVVGeDJWa3llR0Q4ampKcXBnejFtLU9pTUwyWXhoZUFLYVlMdDJVWG9Uby1LYzQwUGJjYVRaR2NVanRreUNHbVBjRWdNY25ZRGp4N1gxenBkQno1UFBvTjdtUzNiTzFudzJKZ1ZTdXVWNzVSVnM5S3U?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Rekha Jhunjhunwala portfolio stock VA Tech Wabag jumps over 6% after announcing an order win; details here",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUXFsdWdOVkFvd3VKVjJValBVQzI1R0pmRjNVMmd5MWRWeFpXcXNzSVJDQmZJYWk0a09kcmsyRDRBQ0pydWc1NGx0N0I0VE0zNFhRRUowb19oeDRJekp5MWdST29kVkhRNWw3SDJKSDhMeUhENGV4aFZVZVlkT0ZHNU02NmVJaXRtZmNTQmxxckNxQnh6LUs1N0hvRjlRRm1CamhYdUhTTm5SS21heWRZTEd2ei10ZHZ0QUJ4T0tUd1FVZVZhWmluaUlqOGlORnluU2ZPWG9ld3BTcl8wcFIwYzR3em1sdWFucV9GamlqeGxFbzd2cmxZUlBlOWJMSGdyLWlaNtIBigJBVV95cUxOdzZWZjJtQ09hYnhCUE9IX3otbWFGS2NjVWVPbW1kYlZ5OW5lSWtWNzdqNmNJTjN6MFJ0TGFsTFRYSDVqdDJPNUN4Q05oS2c1SHVteTNpUmJTaWlYVmRnVlpjWGhqOEN3TTFackxBUnkzaUlrTHlKZlAwTTlNUDFaT2NLR1c1RnFUVU83ZEFxNFpsTXByVGFfdVVzWGl3ajN6UkJRV3VtR2xMSzRHOUswT296b0JyZ1E4VWk0dmFqMWNpSTBTd2dKdjdMSkFJZ3dqNUZYSjRZUWVxbXUzR3Bzb0NaN3NGaUZqRi1JZEVpT2FvZ2JnWDVIU2tZdGdqVlB0S21WZUJLOGs2QQ?oc=5",
+          "type": "order"
         }
       ],
       "ratingSignals": []
@@ -1636,58 +1636,58 @@
       "headlines": [
         {
           "date": "2026-07-16",
+          "title": "Dixon Tech, Kaynes, Syrma, Amber Enterprises, Cyient DLM jump after Cabinet clears ₹62,500 crore for mobile PLI 2.0",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMGhtWm5QXzN2T29udUVJTVZhWHVKRTNpX2RiM1RfVXFyc1g2d2FveUhkcmNSbXN2czVmSTNGZXRiMEFBeUdtbDhpTE8zdkxqSl9VcGN2eS0tVDFVTTBYdWhxenl6UkNoQjdfV0lUMm1zMU12R1kzTi1xQWd6V0p6eV9LcExXOGloZXdINFZxQmJ2M2tIRTJ5amlzU2FJRmpKSlZqekh1dnR0V1dabEdmVjJVN0YxU3ZyMFd1N2lnWlVkMWFuQWRMbWt1RTVSakQ3ZlZjbl9iMGQ2Vk01MEpKMUhHVTlkdHlkX0llWkFtcTFVblJQ0gH7AUFVX3lxTE85RTZrTk5FXzZWRGw5MGlLc2RfU2hIeExSWjg2Zl9TeDU1QWhPYm5uUzRVckF1M2Q2QnoxUFEyYUNMOGsyMEx1V2VKUzk0dWxSRWZhZFlUMVRiVUxQZ3l1YWd2WnBGMlFnVmRVZGo3dmUwaDI3aGxsZHhWajUwQ0ZaR05HejF6M3AzXzljMzVySW1ZUm9OY3VZZFVFdkNoMTdFVXlXakZLX3l2YUpsYWdOSmR2a2tJbnFhYklnS0RqRGxiVkRsLWUzanVjaThuWF81SkRhT0g2cGpyclNJMlRraWJmRXlGNi1zMUU2LVh0b0Rma3paLVJ5TUpn?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
           "title": "Dixon Tech Isn't The Only Winner From Mobile PLI 2.0. Brokerages Flag Their 'Sleeper' Pick Among EMS Stocks",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVUY2bkxrQ0tZSFBpZWswR2F4aU92bXNuSHZxYlVUVFZndm1mcnJncEgyYlRreFI5aHlndHBKM29iOEFDaWhYWmwyUXFraW9TY1pBTEF6MlNUSnJreW9wSnNFWFRjNUY5QVFwVnV4eUJQR1pGVTA0SlRpajUtZHp1cGF4QjNEeHBDNGpudkxWTkJodm4zZm5LVHFhTDVZeDlGTVlqSWllRUl6SkFBWjNXU3hJSEZJWGRMU2I3MnRFQUh5UmlGS3lJZ1JpVXpYTmxFSzFRMnJwVFnSAeABQVVfeXFMTVFscnBCVTItS2hmNklKcGlpNjV0b3NUVUNWek40X3ZsaG5INld2ZTdJZUYzYWVzdHRqMC12Wi1JRVdodG8wd0RSbkZVREgzQ2R4S3BKX2xLZlRmYUljR2s2MlNhV1M1aXJxdzZaZ29EamFqODRVZnhYdC03cllpMW0tTGIwdzZ3OTdlN0ZJUlctRFdrVDcwM3dhbUlJNG5MdjhzanNaTV91TExlTFFmY2IxdVlzNGYxbWhDcHRENWVVTm0xVzJLbElGU3JrOHNRSmxDZ0tuY25GUWNmNTRpYjQ?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Amber Enterprises India receives NCLT approval for merger with AmberPR Technoplast",
-          "source": "Business Upturn",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0g5QWgwODZOQVgzVXFYa0dCZFZuYUpDMklDS2xlbEVLU1RVcjNqejJvT1hkanFPeXRBSU9rQmVPQ0hxcjVHUlk4eWdsTHV1UXlGQlplcjNfNmtDV1ZvbmdOcTBJWktyT09wRHVmZkx4TF9oek1VVkthOV9oc2VROU5KQWlyOUNfb24yQ2YtNFA3VEhFclltdGxsZXBWUGFrVWczX1pYNGNfbHFsR3dyUkw4bmdfLTFrU1Fv?oc=5",
+          "date": "2026-07-16",
+          "title": "Dixon, Amber seen as key beneficiaries of PLI 2.0; upside may be limited",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVhlbWlZUVR6b0llYlV1XzdNcGtzNlJtaUpDTnZMQUYyMC1FUWlJbUpXOW1lVUMyekpVT2NxVEp6d3BpcW1JRUdiYVVlLW90TlFza0lDLUZaV0NTYnVOa1FzS05WRld1RWltYjdnOTZTVHZQSUFUd3VHZ18tNTJ6b0ZDei10S1pXbTdYaFR0YldxQWhaWUplS0Ztc0xmRndZN3FnUUJuMUx6RUpXODhobFBreEVDWUJfUWxZTVBSMDM1ZFNqeDI1TzhpeWE0Ulo5UWl30gHYAUFVX3lxTFBQV1JadVRVZ1I0bDRNdjIweGxQWWxCX3hQTS1YOFh0QVNiV05zRVJ3WlBTT28tWWxGT1Exb09kU19QZXh6aXlaLWJhX2Z1Zk9WYTI3dkJCNW5lcTViWVZyTUllQ1pGRUNTRW9nWG5VcUhwQ0M5UC0tc1dxVVNFaENGcVFUaXMyYmZ2a1JuTDFzakdBSEF2YWU3RUhOM3pkOUsyLXlEMlVyV1kwYjAyZnkxLVhoeVJqNWs0Uk0wM2xwTDRyM3gxbDdLeEUwYVJNWlRRQjF1eE56ZQ?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-14",
-          "title": "Amber Enterprises (I) Share Price",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1md2NpbkxOTmpRemZqTkpFd21IcjVkYkY3TUZ2aGxlMXYwN1RmTFhqOHgtcWN5TVBkVm5YWXRMLWNyamlxMFV6Y2lUOXRqRDM3NWtyQ19zZ0VpZ2w5bFhzWXpFZVRmVXhrclU1ZHVNdw?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Buy CONCOR, Sun Pharma, Divi's, Amber Enterprises; sell Axis Bank and SBI, say market experts",
+          "date": "2026-07-16",
+          "title": "Dipan Mehta bullish on Amber, ABB and Groww; cautious on EV and jewellery valuations",
           "source": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk1CZ3puWWxkejlyWHBJY3BLZVRHVUZyanhFSTBnRUU2eWh1STVZU0I0NmVYYnd0aHRKdXFkeEJua3VvcWh4SE1OUXlkYjZ5U3NGVDRqVTdROVB2ZnlSa2dKM2g2VHFSa0RyV05JWVh1dTRWa0tFWDY1VGNPdjYyTFI4d3F4aHRjMUZwZmNfVktQRkFrRVF0UjR2RjI5N0dfaGtLWks1alZSejZ4MmVvU3pJWlhweDjSAbwBQVVfeXFMTXlBTndKSXdsY0VzamRpeGVBNFdTcDlSWHJUWEpVajl1czdER0tIWWpIZ0t3OXgwbmFkNWcyVjB1RkFLQmxZb3FHckNBUW16RTBkOHZMNzAxRlRqeFZFWXRqNVA5dVdiaTktNjhsaTBSSXFFMDBmNlpGNU1BUG1qYy1DNzFwYUtQclFQNjU1RS1yRmgtRDQtX0ZNWDh4MkFOdWtXOS1La0lwRF9GQXQ2bDlwQkh1OU91WHBDOUc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOHR1ZnJIbGMzOF85TGg2UHhuVzNpeUVuUGNyRTVNcU05NlhFVGM4V0xWQlZlZm5NbEhWQm43anNhdkFZa1NPNUZlVmdWQmR3dWNyWVFzcHJDRVFlRURGRkN5SzQ2ZXNYRm14a3d2N3pPYm1pTHRfaWVEMzJlQXIzZFU1V1ZDMTVBT2xMaUlrWUFQZnppb0ZWT2lKbTlzYU1iWjJsLW1sRHl2MW5hNmpFajdNYkVVdGYyajFUSE42bzQyTERUQlBVV3I4TDZrN21ZOU45aFdIcVIwNm5adnVTeUUwVnFwZGNRWS13TE5MT0FqNlpM0gH0AUFVX3lxTE84dHVmckhsYzM4XzlMaDZQeG5XM2l5RW5QY3JFNU1xTTk2WEVUYzhXTFZCVmVmbk1sSFZCbjdqc2F2QVlrU081RmVWZ1ZCZHd1Y3JZUXNwckNFUWVFREZGQ3lLNDZlc1hGbXhrd3Y3ek9ibWlMdF9pZUQzMmVBcjNkVTVXVkMxNUFPbExpSWtZQVBmemlvRlZPaUptOXNhTWJaMmwtbWxEeXYxbmE2akVqN01iRVV0ZjJqMVRITjZvNDJMRFRCUFVXcjhMNms3bVk5TjloV0hxUjA2blp2dVN5RTBWcXBkY1FZLXdMTkxPQWo2Wkw?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-14",
-          "title": "AC prices may rise another 3–4% as cost pressure persists: HDFC Securities",
-          "source": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFNHMHNJMlVzRDNfblpmTjN5SlhSaEtCb3BsaWxlRE03dFdWalB3VHpfY1FUNTMxdHVQNWZpbU9kM3BSOS1oYU9OWEYtTVJVUEh6RTkzVW9oUl9uOFpNXzZESUNoa0FCU1kzNmIyTFV0YmJUV2lEeUR3ZEZ0cGcyUlhGQXFBUXJyTlJkbzZTbnBnT0paeU5iRkpqdmUzc2RLREJQQzlGRklxWE9nSWQtc2RIVkJlZnRGS1hQSHZiVdIBvwFBVV95cUxNWFNHMHNJMlVzRDNfblpmTjN5SlhSaEtCb3BsaWxlRE03dFdWalB3VHpfY1FUNTMxdHVQNWZpbU9kM3BSOS1oYU9OWEYtTVJVUEh6RTkzVW9oUl9uOFpNXzZESUNoa0FCU1kzNmIyTFV0YmJUV2lEeUR3ZEZ0cGcyUlhGQXFBUXJyTlJkbzZTbnBnT0paeU5iRkpqdmUzc2RLREJQQzlGRklxWE9nSWQtc2RIVkJlZnRGS1hQSHZiVQ?oc=5",
+          "date": "2026-07-16",
+          "title": "Dixon, Amber Or CG Power? Best EMS Stocks After Govt's ₹62,500 Cr Push",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN3NEbXVFazVUSnBKczJRN0dBVXFHZ2huNVBvdmxNLXN3RWRQWWs3MDB1T0VUb0dycEdHdjg2OTVGR2ZfU0p4dnh3RFU4Y0hRYUEwZk51ZjB3U1k1SGNZQ25tVEQ1c29hTVA0X3BoZ2p6bFZReVhucDRsSXpQQURYSFFUcXNyNGFIZnE5VmUxS2pTVDRVY0I4cWxHWmNyb1dDYVNyQmFrLU44OE5VZ1JBVl90bW9zTVZVRXk3NU1lYjFEaWp3UjZIWm1xRkRFMXo2ejBPVHAzWVBOaFnSAdsBQVVfeXFMTzdzRG11RWs1VEpwSnMyUTdHQVVxR2dobjVQb3ZsTS1zd0VkUFlrNzAwdU9FVG9HcnBHR3Y4Njk1RkdmX1NKeHZ4d0RVOGNIUWFBMGZOdWYwd1NZNUhjWUNubVRENXNvYU1QNF9waGdqemxWUXlYbnA0bEl6UEFEWEhRVHFzcjRhSGZxOVZlMUtqU1Q0VWNCOHFsR1pjcm9XQ2FTckJhay1OODhOVWdSQVZfdG1vc01WVUV5NzVNZWIxRGlqd1I2SFptcUZERTF6NnowT1RwM1lQTmhZ?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-13",
-          "title": "Amber Enterprises shares in focus after arm IL JIN approves various corporate actions; check key points",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeDdIdkE5dTZWSjYwU21YUWZJaWdSazQ1Qnk5RmZtelRzaDkxNF9FQ3J0MnpLaXRaLXBVaHNZRmNjZmpHdG9BNG0xcngtZkZCdy1HTmZHUFBhZU1CQWlNbTRjR3Z2cXZSSHRBcFBIbGRWenFmeTVVYXp1OE12RDNrbmg2RWl2STAzZ181ZHlaSDdQNloyWWhoQWJ2UzYxYlF0SFNXZGNPVG51Nm82TnRGOEt4Mmh0dkNRWTJpaUU0LUxNM1U1ZEZ1Znp3RzFLTE5kR09fUWRIMkg4VjNXcDFpbEJMOE01RmdsN0tLV3lEUjQ4Tjg?oc=5",
+          "date": "2026-07-16",
+          "title": "New incentive scheme cheers Indian phonemakers, stocks rally",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORHdwdV9DYTFBVmszbHFVWmFXd083X1FqdlplVHVTX3BqX1ZleTF2am5wYmd4QVVES2FaajRCMS13QWM0OWpCdWpmTXBDdFJ2dG1lZFZyM1JGcmhvb3RmUXpOUHRJWkgxSGREWHZKcHJDUk5ZM1dMQlVFOXBVQ1JNeGgwTjFndjdHMGlJZlZpQmFHLVVRSFl3d2JqZWR4SWlGSmFxLTdabDd4ZVctSE9LTTB1cllHdzBxVGI5TGxVelZxVE9kbm5tcG5ycFUwb0MwM0dZZ0R3RjZzSzFtQ01QN0dpMFNqTHlLdGfSAeoBQVVfeXFMTkR3cHVfQ2ExQVZrM2xxVVphV3dPN19RanZaZVR1U19wal9WZXkxdmpucGJneEFVREthWmo0QjEtd0FjNDlqQnVqZk1wQ3RSdnRtZWRWcjNSRnJob290ZlF6TlB0SVpIMUhkRFh2SnByQ1JOWTNXTEJVRTlwVUNSTXhoME4xZ3Y3RzBpSWZWaUJhRy1VUUhZd3diamVkeElpRkphcS03Wmw3eGVXLUhPS00wdXJZR3cwcVRiOUxsVXpWcVRPZG5ubXBucnBVMG9DMDNHWWdEd0Y2c0sxbUNNUDdHaTBTakx5S3Rn?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-11",
-          "title": "Amber Enterprises ਦੀ ਸਬਸਿਡਰੀ ਵੱਲੋਂ 25:1 ਬੋਨਸ ਸ਼ੇਅਰ, ਸ਼ੇਅਰ ਸਪਲਿਟ ਅਤੇ ਪਬਲਿਕ ਕੰਪਨੀ 'ਚ ਤਬਦੀਲੀ ਦਾ ਐਲਾਨ",
-          "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOXhGNlNqU3pEMnFuX2FWQXE1cE95eXNxUmtUeklhbHhCQTB1Z1ppdWlYVU5JT1NHaUlkUGhDRTVDY2JGTXVtWnV5dXRiOVZYdkhfdlNvY0FuT0s0aHFEUldlNnVxeEJiQjJZM1hLdlJjREQyOHEyU1hweHY2WTF4RGVtcUpWYkVXVm4tVk12VWk4NFMtbnVPVXgtTUVEcXJpcWZmYnBvd0hzclJXV2NtWS1uNkpVdU1CWmhmZTlNUnhaS1l1WE16MmhJeGhGU2xFWkFJa3JOVHRVckE5UHdYZUlPdnU2d09LSmNMeEJuQVVaYjBIVnNuQVVzTmlFLXZ4Q2ozQU4zaWVkVmt0?oc=5",
+          "date": "2026-07-16",
+          "title": "Amber Enterprises Sees Significant Open Interest Surge Amid Mixed Market Signals",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDdnYjBhWEFhNnZTR1hlb2RQdDdSX3QtVDVtaGxDeGcwTmloX0taWXdLSUxsRTJLdkRPS1FNODV6YXNXb0JyQnZuajNxVm5tb0ZwUURWbVVUa2U1Qm1LdldaUGxYeXpHZ01maWR1WUdiamp6R21teDZmd1FrblpNT0xWR3QybTJuZFlDeGpvRlhOSzExYTNRMUluZ3ExT3VVZC1rdVRxLU1VejE0NjM5a05kbHdKUWdsLUlrNUw1YmxBS04wWG1XS2lKS2ozYW9mWnlDdQ?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-11",
-          "title": "இந்திய எலக்ட்ரானிக்ஸ் ஏற்றுமதி: 2030-ல் $150 பில்லியன் இலக்கு!",
-          "source": "Whalesbook",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGYwV0NMdUtrSmJGdGM1VnY5RUtPWjc2bXNDX09XYnBqWWsweUtPNWJvcGFoV241MVdtYWFWVUhndHVrMEpWZTY0b0FXOFVRamJYT2lxVXRUVDlhTDR6R1ltU1BlYU5wc3hzZW8wbXFsTTdYSnYwcDdpSWVZang1MHFScDRPTTB4YURhMTcxa2Q3NmVxTHVYUWJzRkE3ZDU2MXhLQmk3bml4V3MxRF9HSDQxNVFCdW94Wk9UeVBkMUhmZw?oc=5",
+          "date": "2026-07-16",
+          "title": "Amber Enterprises Sees Sharp Open Interest Surge Amid Mixed Market Signals",
+          "source": "MarketsMojo",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR2hvc3lvTmZrNnVacGJHTlo2d09CNnI2NFNia2pldEZDcHFLMkNjd3QydnUwSHRsM0ZsS2RjSjBodFpCY3BUQUUtMVd4TGpKc1dKZ2lVZWR6aXhUOEItbE9FTHZzRlBzVzNKV2ZpaDd6d2ViQ2NrS01ESm4xZEVpazgxWWJ3bXZKVXMzb2dGaURkbVdpQWlETUVTaWRZZEVqYjg3OExnbGExc0lzVE5EQVJsSDRFcl9EMXpUbHh5V1VCdEVleWZJcHZ4TV8?oc=5",
           "type": "news"
         }
       ],
@@ -1697,63 +1697,85 @@
       "query": "Polycab India",
       "headlines": [
         {
-          "date": "2026-07-16",
-          "title": "Polycab Q1 Results Today: Dividend News, Earnings Call Schedule And More",
+          "date": "2026-07-17",
+          "title": "Profit booking in Polycab shares after Q1 earnings: Brokerages share price targets, outlook",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOVo5dHNjUF9RYUNRcmNjWktLNlVtc3NlX0RlRkQwMzRiMzNTX3NFT2ltSGZmSXlhMVRKZndWajU3aHAxLXFOTXJWQVFhbGtFeS00Nm8zcVdhSXAydEpwLVJIZlp0ZVRfX2pIMGY0Uk5pdlh2dlZMNjhYVkhZODUwN0dPbzlJWk41ZkhkTmhMcEFNVnJ2QkVvYUNXZDVYSGtDREM5N200YmwxZjZlZllLY0JVLVBpS21yaHhNTTFhZFEzZ2hDb2pJQUpCZkw4SThQc2hZUV8wY3F0a1pyRHYtMlF2VnFMbmdmclVXT2RR0gHzAUFVX3lxTE9xT3RkZnlkcmlCQWl6MGJiMVlfWlM3N09mb3RSQ2w0bm5mbVUwWkxHdEdRcFNrT3FxdnpySGdoWnc3VW9weU9LT3ZhZzVOampvR1dNM2JPYXF5djhPTnQ3dVRILTRhRUNMcmFQd1VDdUU5M3NDcWlkMlF2OGFfOXlxa1AwTTNpd2ZyR0FkcVhJTFN1Snkzc1ppajNJMGl3S0Exd2VMQzN2aXphbk9JTHZ1VV8wVUozSjlIblpDb2RubmRubmN5RzBJV0pPN2tFOTI5LVR3U3owTkZSeXhQMEtrYjhJaU1XajNONGlkb2NsV1pGbw?oc=5",
+          "type": "results"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Polycab Q1 Review: Brokerages Lift Target Price, But Goldman Sachs Sees Peak Margins In Cables",
           "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXpwWWhjblIyckl6RnhBSm5WOHBwN0xoMkttQ3l2TUtXdVdwaHNSdl9HRlhGRGgxaGdaT2hXYy01SHQ2RG5JaTRWbUpTRVpRMVJoS2kyd2NJVms3UlB3bjRGVXdEN0RldWN4WGdsR3N3QzVoVTNkV2dCNEFDNVNtQ1N2aHlwc2FGel9oOUJELWppbUpOSWZHTm5pTi1NOHRFNm4wa1RVVmduUUIxTW14MHRDS0FhdHppbUHSAcIBQVVfeXFMTjNnN1REaGRvSF9FalhwbmY3R0dQUUxaWDZXVHJvS1VlNzJjQVF6QndTUzZUb3pmQ09MWlN4dWVnQjJSblI1UU1VaUxKWmxKaWJGM1AySzJRcEV3R0ZXT2hjVEJianNRZGJsSTJJR1FvYXZNYnFrdVJRWThKZWpCWmNMSVBoYWoxbUQtdV82MHExdGJkMlprX2RMUldxMTF4UjNod0NzOElYTTMwTE5kSE9sZGJJVHl5eDBvdlE4R2dUa1E?oc=5",
-          "type": "results"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaVpHaVRac1d6bWZqT0x1Njg4eDFhMzY1VEQ2dDgzMUJjWmVRWm4ydmUtdUtUQzJPbkRRZk15VEM2YzFIUzB1VnQ2blZfT3p6MTBoNW9IVlVKd2JQVkxxUk15YTF1UXNGdjBZcGgwZFpqSERVbUxZLUFzQ2ExaWs1V0lzS2lvRWlOS0pUN3NMUHRFTVJxNmU5b1hhZHVDVGR1UzBfbnBwbUluQ215UTdOLU9tdTRiaFQ2ZHp4dlFxNmI1MVpfamROMlF5c0MwUmFGMVHSAdoBQVVfeXFMTmJvMG5FSjMyYjZuZ1d1eUhoX09PU0otM1hDaWpkUjVuT05NTnZ6SmNKZi1OOTZVT0tjeXhKV0JValhPbHhhbC1tUnFFRGNhdW1fUkNyTHNQLVJZVl8tY3gwdGttdFYya0U1ZllZOHk1WDFXWTUzdW85WWg5UUx5ZTJ3cDBQeTB3RDBRQnRPcjVZSHJ6UFV2QWRoT3ZlTW9Vb3FSWlg5YVdCSmJ5V2hkbDZ4dTNPU3pRNkVER1pCazZQYnFYUGpVWUd3X01EZ3ZyU3QwVUFYSGZLc2c?oc=5",
+          "type": "rating"
         },
         {
-          "date": "2026-07-16",
-          "title": "Q1 Results: Wipro, Jio Financial Services, Tech Mahindra, BHEL, Polycab, ITC Hotels, others to post earnings on July 16; check list",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdFNFdU5tMTc5R3ZWYkdDUDZjRTlsdWk0X0xXajNmem5uTU5qQUp3bHhPZjFSSXBXUGZnajB1dmZDQ3hXSEl4aTZfT05nLXc2aTVwS3V2VEJIalhnLTVqQ2tZSTgxd0RqdWtRcS1RRk8tOF9FUmw3V1JFX3NvWnc3WEdyM21uZGpWRVJSUHpkTEotYjJDVy1uX3FtSnhHRHZidDNaUDRoZGRSZzRzRGpKbVd6R1FQeXM3WjBlblRrMi1yZWRsWGZXSEc2TUpSVkN0NEJXMTg1TUFkZl9NVFFNeTJ0NEluczZKcGJvNm1nbEpDZUltRE1zQ00yZkVqVnVWLUxjcXY0bjd2WjFJM29WWlF3?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-16",
-          "title": "Wipro, Tech Mahindra, BHEL, ITC Hotels, Ceat Q1 Results Today — Earnings Estimates",
+          "date": "2026-07-17",
+          "title": "Stock Picks Today: HDFC Bank, Siemens Energy, HCLTech, Tech Mahindra, BHEL, And More On Brokerages' Radar",
           "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcjdWSFpCWXJwSkV2TGg4T0pSVFFnSHdqaVlKTktYcTk3QnJ3eGxVaUhHdzhubEwxNEsyY2Q5TlBnc2dHcXFzM1NiRnlLcnVfMy1OXzlSc0VReWc4OWh0MkxXelBfMTYwcjJQTmhjcVdGNVdnQUZvUy1jMjUzN2tJR0RQQXlZWVN4OHk3LTk5c0JmN2JtQU5UQ20zQUJhanRmd29WX3gyOTZLc0ZrcUswV0hjRTlkblFHTk1QanB5eUpRcmJlZHNMM2E4d3ItMFF0WjJHLU1iTkE2ck56ZGlnTHVKUjg3MDg4Z3cyWWo0bUIxRGYyVzJndWdma9IBgwJBVV95cUxOR29SOFVjV3B0STRYbUVMSTBsSXdtVTBDT2RIaHVINjZabkdjcEhRalJwUmVtYlQtT3BHcVlVM0ZIR0VaX0h6S2N0TzhBVmVyUGQ5ZXVmUEdhb2hRb3NBMU1VdnhnSEhGVS04Q2lOQ1p5OTJZZ3BqTUF3MS1Ub3lab2x6YVMweTVpbHExckZMdC1mblZSb1l3OEZOZnFaUEU2bmVkTjJ4OTBZd1JwTXpqczRWeWFMWTBpTF9qVGp0VjVXMTV2YjgyRXdBT1R2UkVGcmRrLVdaSWRxZlc3enMySmdqVjdoU0FpaXh2djVOUFdqUGNLSGNLam1hZ3Q3YklLMUlB?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-16",
-          "title": "Stocks to watch, July 16: Adani Power, Paytm, Angel One, Swiggy, Himadri Speciality, ICICI Lombard, Wipro",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbHZYVFZCR2EwMWpkVnhUaUxsUjRPelIzOXZ5ak5LQm9GaWJ3Zm5kazNoQmJPUWRCT2hsMjhiUDFYVHRzQXJqelZBRndzR3lwdF9ydEl4cXZhWUk4a3JoNHhhdmx4Nmw2MDUwV2dvTEhXa09KMFlOR3RhUFBXV2cwd1pQbU5vUVFQSDZFNm9IdTBxRmY5Z1phOC1USUw2RlQ3SHEwMHpYU3pEX0RjUm8tTlhDSEdvZWd0YWJORGNYTWZBSmRublg5UE5nWDBpNkxNYlZ5bm1SN3pKbl92dUlFV0pWZmhmUFZEcWY0cA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVXJOTWZWSER4Y1IxNWxUQlRtUlBJczRodExkZG92QmM2S0tTTnZGWHNQRlgyS0xidGNObnZHN2tDMmVseDVJb1lCVHZBTHN2OWpjOHlZQXJRbzZySDhIOExzRHJ2UUVfOGRFUlV5QVJkUEd1RUtTNmtkUjZlQ1YtZjMtOVF5OFRScWR4bnplOElWVmhRY0gzVFFHcTVPTDNJczRUSDRPazR5bTlEV2hUM0tDZnRZRkVHLTA2Rnk1QlJ4Tl9vQUtYNnkxdnM3ZWxybTMzZ21ZMElZTWxBcXFUM3hOYVF4VmRZSDI1ajJmZDlhb2p0RTJJedIBgAJBVV95cUxQbmRndzdmQkhsbVV6RlNob09QdFgxSVdwUTkyNjlIY0k2VTBVQWpBZlNWSHVXQ3hRQmdOemhLdWVfWllTQVBIa21zcVE3eF9lSnRDN0VRTnpoNzgzMHlJZnl3SERyQUMxZHc3cS1qazJCU3M1YTF2eVhLaTFTbHBLWG1TZGpmRUlzc2VNdzdWckVPWlVnblUxRXc0MHhlS0tURDlPYnhVSVN6bE0wWjk2ZDgyX0NlQUJERWFKTXg4RUQwd2JyNnZkZHFGeGVzd3BGRklVRDl3X0plUjF0UU02U1pScHVXbHdVdWpOdGxXWkNLTjc4OFRlS2ZXZjZoUHly?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-16",
-          "title": "Q1 results today: Wipro, BHEL, Tech Mahindra among 40 firms on July 16",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3U3WnFBc1h0bVZLNHFoTGl2UlIzN2sxM3JMTDRJZ0dfR2YzeTRpNndPYmZsaEVseEZQb2VtQUtPS0V3enktVUtwNTlGOS1STWNpOUVuN1VNSFRuMnVjTFFrODAzM181VUhBdnpya3hpSlNnbXo5SHdDbEVfZHNsREh4OUFrb0xwR09xdVBaVHhLRHVtYTRRN21lYWl2VTlTWnZyVVZmYy1XS1JnR2M1YzdhTW9rNFVHenBmbko2b2JsVk55czV5ZlhHWllsd05qdExYU1dCT0lqaFhYLWNFaVdGRdIB6AFBVV95cUxQakdWNmJVZ3FmUk1rUUhDYjd2eldRNTYyTW9UQnBLM0RzenBkTjZuSXNHeVR1RWQ0MXlzWnZuaGZGSWlCV29PSkpYaUt0dFhZQUlnZi0yZG9zZW1zejNaR1I1TFBuVTAtVTIxbkJGYWdIS2lkX0t0LWF5LTNEZlBWaE5Uc085dXlxaG10cFdBQ2xnZG13SU0zZ2ExcHZaUEJlU1puekNMR0FVV3Y4WFNmMGNqT003U2lvVTVuSlBUWHk5LWZIYkFMV2JmMFkybVBmZjI1aS1GSE9KTTc3aTdPVzF4c1F6c0lt?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-16",
-          "title": "Q1 Results Today: Wipro, Tech Mahindra, ITC Hotels, BHEL, Jio Financial Among 40 Companies In Focus",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzctZS15T1hWaHhrTFJSVUlqc1BtN0xEUng1a2gzOS1vNm1Vd01mSUNEWWcxM2FTcGsyWUg5VWJqeDVxRHRRcUd5aGtram5lRWpoVHNlaWxXd1dBZ3RGZ0Ztamk5VmF4VWc2NVFMd2E0c2UtU3psbWRoWGE5cF9xSkMwNW10Uzg2SkYtc1NCZGxhTElvbkY1alJ4WUdxeVpxUVBuMEtuTHByRHpOd25aUHVXUWZkXzIyT0ZMQkI0UjNQQk90Y3liZWFlTlltVlpMZnIxS9IB3AFBVV95cUxQM3Nwc1JkaDdnN0x3SGE3Q3I1WU45Yy1HeGJxNVZ3Z0RPaG5FQkQ3cUhjQ1NtYlhqa2h3OGRWc2xmQnRwWTFyY1l3aEVHdXJxMWl6YmF1al90aExXZ05FV2c1LVRxN0JScUtpdXJXTngyX3U5MWtvd2NGTFVkSExtWUhMZWRjRWlEeFdoOVVlaTF3V1UxN3F2Z0d1ZDVZZ05rYWZKTHk5blh6anliRWR0ZTJHd1R2bnNVeDdWNXdxN1hta1lvMk1KbG1CNFJrc3lHa1NqSURoMGFXVjE4?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-16",
-          "title": "Q1 Results Today, July 16: BHEL, Wipro, Tech Mahindra, Polycab, CEAT Among 35 Companies to Announce; Full List",
-          "source": "Goodreturns",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUk81dmJ0YjZ6cWJuVU9VNEJURjc0T3BqdUJtalBDUm8tT01uZERSaFAzY1NXbUQ2N2pROXkwNURON2NnNFpBNzFndm14cEdsTDJ2UW50RjV6dU5JTU5GRnRnRFBSSnRaY0h4dFVXNkJIZ1REaFAyZlpscjFwcUxSYmhSYlBObFA3SGR0aGJUNk9VM2JELXMzUVd3OVdQSTZER0lzclhUOUM5cklZakU0NDdWeEc2MW9xQURlV3JsUmt2QkpJQmt1Mmk2OURLaFBrN2V4Y1FSeFNaV1hp?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-16",
-          "title": "Polycab India Ltd is Rated Buy",
+          "date": "2026-07-17",
+          "title": "Polycab India Ltd Hits Intraday Low Amid Price Pressure on 17 Jul 2026",
           "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDBSb05iSlZwZWFDRDZUblh6V1c1ajBEN1FZQzlKeG9RempKX1Nvdy1lUU1RekhXaHU1eUxHYTU5UUZrOXFrVUNZRkhKSU9oa1NCYmJIelVZdmwwc1pGemtYdE9vdVl2cl9xb0g2Y3BLdkZGUDRLZkhuVGkyaWtMeW9UWjd2YzdSS2ZycTdYcHo1b3A0WUVN?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeHkyLWRkZkVzZ29xNmhvaVVtWXRyYXZIdTVneHNacmFWSHdYTnhiOFJOZEVwRTBKQ1VvOUNINkktTDFCeHZQZ0RZQ1VJS1VfNzFFYTZ1OXJXTWctZU04YUV1bDVneGtCUG1lZlNDa29ZS2JwZjlEdU9CTUJTTVNUaWVPeDJSdUstX183d1Z0NTdiYWtDLS1UVmF3OWl2TGpkOV8zSnFSd1AyZHNfb0NCUlo0QW4xY2dTQjFHTmhmQnVGSXdib2Nv?oc=5",
           "type": "news"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Polycab Q1 Revenue Jumps 39%, Margins Hit by Supply Disruptions",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbG90YUx3SS1DMXJqZzV1Tm9ZeTdQLUZQTVhHSXhfSThiajdIU3c0Ql91aFFUTkZ3UWxGQUcyWXJaMmxxcDhtOUw0OWVtTmxWVHlDQmRfTmNWaHBobG1Fd0RjS1plVzV6UklvQ2lRUmt1SW1mRWVSS010eTBlWE9hRGdwcVFGNXkzeFUycTkwcmhvdjVxNDNyaU9Kb0gxRkt4V01idUhnSHRDbEdxcEIyUDEzQVQyaEMyalBCTlFGekdtRGRiMDVScEJWWGVsSDd4cGZfVjl3dHUtLTlDU01DM0N0R2FVcTB6X3B0RVo3NA?oc=5",
+          "type": "results"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Polycab Q1 Results: Jefferies raises target price, says company has delivered consistent growth through cycles",
+          "source": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHdtM1Fvam9BYjB6aVlDVnJXa3JFM1BBdWpSZ0JwaDQzM3U2bkVLdG5WYXk1NHJ5ZU16U3ZPNWZJV1k5MHdaWEMzUURJOVJ6ZEJGU0RocG1adjlhUUJZM1Q0NE5ubjNUMVZESUhDdkVxWm9TbDJ2bFM0RHR0SmVsUUJQa1FiaTFFSWU1VUFYbWF2WXVIeFFOUlJVajNQSUxqTjgtNFRwNFVhNkJxZ3NiTnAtbnhuS21Yb2lIT3U1VWk5a3lWYmwyTXlIZnEyUUs4Z2lveXBNTVBZSjV0VlFUblVuQXVOLTZQRXlVQWpILTh2LUlvVkxYb1Y0YU0?oc=5",
+          "type": "rating"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Citi says Polycab is our top pick in the space after Q1 results, raises target price on stock",
+          "source": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVE1TeXBReW1GU1FSTGg5ZXgzbFdHbzlrU0ZvaTdwck4zNTZXUUVxZHFmdW1STVUtYlpqNkRNMVJpUDM0S0dYRndaMF82UGxRb0NKaFVsS0Q3SWp6N0hzbUh3Mi1SM3lDLTRlSzVsVXNEbzdJV2VPSEhLQ1Z3c0VLblVsTW5tbGlKRTV0UFNldHhHempFTGhyeVBfbXNId2FqOE5Qa1BOLURzY29GZktNZFNKM0NNc2lObFZjbzZ5SnJtaEdIbFdxbW5pUzRscTI0c3RWQktBYVdPdTRQZ3FPSDVheEJWcTg?oc=5",
+          "type": "rating"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Polycab India Q1 result: Profit rises 33%, revenue grows 39% to ₹8,210 cr",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGExT3hrWk1WTDNaYkQ2SHF4ZDJKdFhmTlZ2VUhLZmJwN0l1RGFPd29ON1pUeTJjc2Y0YVY2OWpyUU5abUp4eVFUeTMyT1FJa0ZhdC04UENPOUtXS0dnd2JVSDdhVlVKc0VYS2JlaWRnemxtVHlCVk10WXhvTGltSl96SzdkZUxveHI3ZjVVRFpaR01nV2tnWmJ6Z3RZVnBmRHY3R0EtazFRUnd1Y2NkUEZVZDA4WTRSQ2ozdWJVdG9RWTDSAcgBQVVfeXFMUDFhb1ZtQlRZMjFZa3dDRUktdklpbVlOQTZjS1BQZjFzNzBUN2NDdkxTZjhBMllib1Blck1wLWZfbjU0VkJsRVJzTXZCNU1tRG1UWFFtdHVlUklRTWdMN0FVSVY2ZXVhZ01JN2ZudUtnaEpBRk84WW5WT0hqbTdkNUFJYWMwNnBsdTdSamdRNS1HY2RfXy0zZnRYcl9TeGtrYUVJRDI0V2ZhSG45aGVMMll5VjIzaUg2NWlFNVkyeFNDZ05BdUx4bWg?oc=5",
+          "type": "results"
         }
       ],
-      "ratingSignals": []
+      "ratingSignals": [
+        {
+          "date": "2026-07-17",
+          "title": "Polycab Q1 Review: Brokerages Lift Target Price, But Goldman Sachs Sees Peak Margins In Cables",
+          "broker": "goldman",
+          "target": null,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaVpHaVRac1d6bWZqT0x1Njg4eDFhMzY1VEQ2dDgzMUJjWmVRWm4ydmUtdUtUQzJPbkRRZk15VEM2YzFIUzB1VnQ2blZfT3p6MTBoNW9IVlVKd2JQVkxxUk15YTF1UXNGdjBZcGgwZFpqSERVbUxZLUFzQ2ExaWs1V0lzS2lvRWlOS0pUN3NMUHRFTVJxNmU5b1hhZHVDVGR1UzBfbnBwbUluQ215UTdOLU9tdTRiaFQ2ZHp4dlFxNmI1MVpfamROMlF5c0MwUmFGMVHSAdoBQVVfeXFMTmJvMG5FSjMyYjZuZ1d1eUhoX09PU0otM1hDaWpkUjVuT05NTnZ6SmNKZi1OOTZVT0tjeXhKV0JValhPbHhhbC1tUnFFRGNhdW1fUkNyTHNQLVJZVl8tY3gwdGttdFYya0U1ZllZOHk1WDFXWTUzdW85WWg5UUx5ZTJ3cDBQeTB3RDBRQnRPcjVZSHJ6UFV2QWRoT3ZlTW9Vb3FSWlg5YVdCSmJ5V2hkbDZ4dTNPU3pRNkVER1pCazZQYnFYUGpVWUd3X01EZ3ZyU3QwVUFYSGZLc2c?oc=5"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Polycab Q1 Results: Jefferies raises target price, says company has delivered consistent growth through cycles",
+          "broker": "jefferies",
+          "target": null,
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMHdtM1Fvam9BYjB6aVlDVnJXa3JFM1BBdWpSZ0JwaDQzM3U2bkVLdG5WYXk1NHJ5ZU16U3ZPNWZJV1k5MHdaWEMzUURJOVJ6ZEJGU0RocG1adjlhUUJZM1Q0NE5ubjNUMVZESUhDdkVxWm9TbDJ2bFM0RHR0SmVsUUJQa1FiaTFFSWU1VUFYbWF2WXVIeFFOUlJVajNQSUxqTjgtNFRwNFVhNkJxZ3NiTnAtbnhuS21Yb2lIT3U1VWk5a3lWYmwyTXlIZnEyUUs4Z2lveXBNTVBZSjV0VlFUblVuQXVOLTZQRXlVQWpILTh2LUlvVkxYb1Y0YU0?oc=5"
+        },
+        {
+          "date": "2026-07-17",
+          "title": "Citi says Polycab is our top pick in the space after Q1 results, raises target price on stock",
+          "broker": "citi",
+          "target": null,
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVE1TeXBReW1GU1FSTGg5ZXgzbFdHbzlrU0ZvaTdwck4zNTZXUUVxZHFmdW1STVUtYlpqNkRNMVJpUDM0S0dYRndaMF82UGxRb0NKaFVsS0Q3SWp6N0hzbUh3Mi1SM3lDLTRlSzVsVXNEbzdJV2VPSEhLQ1Z3c0VLblVsTW5tbGlKRTV0UFNldHhHempFTGhyeVBfbXNId2FqOE5Qa1BOLURzY29GZktNZFNKM0NNc2lObFZjbzZ5SnJtaEdIbFdxbW5pUzRscTI0c3RWQktBYVdPdTRQZ3FPSDVheEJWcTg?oc=5"
+        }
+      ]
     },
     "DIXON": {
       "query": "Dixon Technologies",
@@ -1767,51 +1789,51 @@
         },
         {
           "date": "2026-07-16",
-          "title": "Dixon Tech Shares Rally Over 7%, Kaynes Also Advances After Mobile PLI 2.0 Approval",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3JYeWlfWE9vUWxzWGhPc2o0X1M0SlZHRTB5cFp3UzNRMHdtZ0NCY1l4TTF1RzIwUzBaWFRJb25pMXJ5T2o0Ry1oRkhCUFhBcGZvVWRZTUg2QVNRNkg4RWluY2d1UHpkRlpEaEZjSTNac0VRcXNhRkpldUFBYTdKUjQ2di1RY1dkZk1rcG5ZZ3RlaTh1VDB1YlNJQ003WThGNzRIaGJ5Yjl4RXByNVhXWHVpZHROZmlzQ2JsMmJwUnJPTm9DN3pjbDdNNEk2d9IB1gFBVV95cUxPN1hDVkQydDRhNFZXYmFiVTRINDZuczBsYTE1TjZnTHRhMnVNcEhMOTZZRDYtaXNqeEp5clBvSExMTUtoS3JNaVhwTzdGWWpDOVRQMFVfRkYzNXRBanZzVHBEUnZxVXVUZVRsQUNLZFRsV3FLNkpsVHEwTWtPSVpZRmR4amg2Y3dJTUpGLURkYnBNeEVYRlA2eWlUMU52MmwtSWZRaGZYV3MtaWQwdGduSkRDRlZJQ1ZVdmdleVkyWnk5R0pBNHNHdDROalZhdTVwZEwwRkJR?oc=5",
+          "title": "Dixon Tech, Kaynes Tech, Cyient DLM: EMS stocks surge on ₹1.9L cr semiconductor, mobile manufacturing boost",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRURDLXNPaHdOc2wxSzJxLTJlcEZWX0hlMjVyLXhuaHJoaTRxdWp1X1Z2SXM0UjlsUkNlelowSHdfUDJBVER4RzhRRnJ3VXNqS0VGNlZvVVJ0allPb0h0T294ODNDRDZOWElnMnN0Z3lDZHdadWoyR0VpQ0NPU01SdFRndXRJQS1rSEhnMHFrZDFZUGl0MFBwSGxRLUNuaGN3Rm1BaERPSEszQWdCRVcydGh4SXdrMGxSYVlFNzJONlFZSmw2V1dfU0RyLVByb25xT1lFWmJsZUN4U0ZEOU81TjJqYzNWSVFCazJ2bkRPS2NqbVVs?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Dixon Tech Could Be Headed For A 3x Earnings Jump By FY29. What's Driving Macquarie's Optimism?",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUHdsa0JLWWRVcVN6c0twd1dnTkxOWlNQMXhHWTZKb0xFWU5xN3ZtM3ZXMkx4WS1TZTMzcERPbEplNU1hUEVkUE9xQlJZM29xekdKS3FnZjkySFVyblRqcVNqTHVBZzNjWUxnVnpXS1JQemR2aXhKbEVCTXdsRW80dmtRaUszZk8yX2xEX3luejdCQ1dKTWl3N0hlUE9HT3haSms1ZWRyRnlzLVBqMEFPN0NjcGx6YnJyY3N1ZVk1NTAzYTN2Z1gyVkxIcUxBVVF4S0xRelNaZFNJMERpQ0JoR1dET2kwZkwyZlRR0gHzAUFVX3lxTE9hZkRRUC1BZGQ1a2t4SlQxQy0wY3NRRTgzVVh1N3ZzbGVyandXdERkaUhNVExFQm1pQ2YxMXQxY3VYQmRERWlwQ3FZRHFFcEwwWFhOa19XU2tkXzlEWDNpRDJUUUhFbmRkVUJKbFJMdFFYU19jUDluOGFYUTMzeThVenNvUG5jYzZOdW5SSHlfZFZhZUtCTko2QVNoQnlicnlqdVotb0JsTlFZRElVd2dqejFNVFNfLW52THJhOXZGdW5HWV9tdEZnNUEwZ0dfMGF6MENweFZWWFFBZGpkbDlxMW5SOHA0OC1nZjZnRV9vNDVjNA?oc=5",
-          "type": "results"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Stock Picks Today: L&T Tech, Divi's Labs, Biocon, Dixon Tech, Nuvoco Vistas, Adani Ports, And More On Brokerages' Radar",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUFdpT0xPZXhibUtHbFRPaXpYd3g2Y0pSX3MwT0tqRTB0cDM4YzYzUnhBbXdhLUJwbGV6TzJFeFdjajdIeWpLRl9NeWNpZklUd3lya3B0WExnRW9WdFZoM3BCNEpvblpZLWkyR1Ytc2VLZ0lEUE1EanNpZFFSWld4NHg4Nm0xM2dNZDBoWGN3TXRrQWV1UUlaN1M5cHZ0bTFkQTluU2FDbllTRjRON0VEckR2SHU1NDFHU2NIQUdwWjFOTXR1eHlXRlRaSU9lb1BCMjVNLTJva0sxYU5KSW8wRlFpZzZfQ2stMHJfbjFGZnRLNUYtUUU3ONIBgAJBVV95cUxPSmtfUnpkS0kyWERlYmZMQm9lOXF2RVN6YlFiODJVRlEzVmhXdW03cEJUam54MTlVNlFSWkdtWWJ2TjJzWlpuVEVtdkJmaWRoTk9rTHIxYmJGTkVZWnpsM0tIS2hxY3FDOWt3TjNEc0l2RWMyanBiaFhDODlyUlV1blJjenhoMjRrMUo4UmdOTnR3YUJna2tKcU9rc3FycE4yNXZkRzFWcVJaU25pMzVveUxBUWxSZFN0SEtZUGJ3dlZWYS1PZ0lZYlRIYzJsU3VNM0pGSUJrWFJQN01LTlBCZWZoSi1uWXpuX1NSVzNCSndRdTBMQ2djZ0liYlBpcDRx?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-15",
-          "title": "Where Will Dixon Technologies Share Price be in the Next 3 Years?",
+          "date": "2026-07-16",
+          "title": "Why Dixon Technologies Share Price is Rising",
           "source": "Equitymaster",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnRfbnVuVE9tSFZ2NE5SZTBiWVVLaFBKT0NiT0E2dHpBWnUybHpyVWxucTVXZEs2c2ozU2R3OW5mR1VFY0dCTmtSYkhaV0dDdW9OSTdKQmU0LVJCX0ZKWDEyVU94bGppWll5amQyWDZ0MjlweHFlb202UExVUTYwbXZ1MVYyRmptMmp0Y0RsTElycHpxeFJQVGRpaVNMWHliVFVscmFhNEtnMmRsa0lMYm13NVBiNUg4MTBza2xmNE96elFabXhuUFJVV3pQamx3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2dBRXZ2ZFBIWnBvamtwU3RGSS1XemZLY0d0SGZFTUszX3JTOVViNDdlQkRVMVl0VlRYQXhPU2hKZU5YUTN2YldYbGZIWEptSjRTN1EzVExMSDVzUWYzQWdkUUlycFBEcEk4aGoweWJ5ZXBhaDRocnE3NEs3UXB5MWlCNGRpd3BpM2RFM0lpQjgzVTJWc3ZNUW00Y2h1ZGc5WEdlcWZ2TTRROGVQWXlfTzd2bzg?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "Dixon Technologies Vivo JV Gets PN3 Nod; UBS, Macquarie Bullish on Growth",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDhwNXkwWXJSZTlZaGRpTDJmZGlkVUhXVmdzSV9fMlZKY2d5MnFTNFZSd0YxVjQxSnZUb2diSGlCcXRtZExqN2k4YmRtTllTUWVTOVZmSWl2U0oxSGU4alcwMWhaU0NIVWlIYUMxM193UWtUMF82SVFHQmIxOW80ME5LQmpYaUFSSzZlb0prdnpUNThJeTBmb2htQ0VtMFhYTUlLWkJRZXJZbEdkaG5YNA?oc=5",
+          "date": "2026-07-16",
+          "title": "Dixon Technologies shares rise 7%, up 50% from 52-week low; here's why",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0xiM20tR2VqTWYzYmFBQlNaU292ek1UNU9RYXlRcmZEZWRZQ0FYZ05NS2xaQ21UTlVVLVZPYUJPZ200bkthdUgtcXFFV1V3a3djSlhZT2Q4YS1ua2g2Z29nTVJyOHBpNU5YRjVhTm1PUlhyWGdlWnhJZlZGN1ZmaHFUaFBaNWpyLTJST09NVU42TllqU2FQZTh1UGY1cFJNWkRRUlZHY0tvMjR1YkFEbkwzNTVVMlE4eG1MS1J3blBKaDFSeE9XSG1rVlc1d9IB0wFBVV95cUxOY25fRmtFTUlPbmFtOFhmMzVQTE5NcEc2VTFQVDZPb0pRWGNTNUYwRGZkdEtMakFvaHplNmFhLUw4WTR6enlNeGMyamNzUUV6YUtSR0pMeHp6Q0l4RzhjNEtURWtzc190MGFENGVHWFRnOHZ0YU5Tbl9OQUZzOUFCQW9MTlpCMFlnNXNwQWlybFpPTWZuNWtxSkhxbE5TX212SnFFNjA4WUpLQlRjS0tXekp6U3ZSNDhodnY5U0NVTXBYdTFMVFJpTThzN3hkVzVMZDZr?oc=5",
           "type": "news"
         },
         {
-          "date": "2026-07-14",
-          "title": "Dixon Technologies Client Xiaomi Secures Stay on ₹10,833 Crore Tax Liability",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnBkenRORTNxaVJBU19kYXc1dTVSWnVGb19LZ3lwbG9meFJSRXd6QlJiRGpDaGdKRjVVdHpfam1PVm1zc1kwbl9CYXVDdTJFWXZQaU5hY1l5dThadjJDalhBcGRWSDVlR0pZQkdSZDczU0htVEVXY0xmZDkwb19KMjdiaExrVllQTGNnQUVQSEgyRXA3c3ZDYkprNFN6OVduVGxKb1FxMGF3Y3RtLUs3LUN6UkY?oc=5",
-          "type": "order"
+          "date": "2026-07-16",
+          "title": "From Dixon Tech to Cyient DLM- why are electronics manufacturing services stocks rising? Explained",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMzlBRExtdzAtWmpReTZYS3NUc2Z2M1ZWaE9mWmtHb1dWcGVSZlgzZEZNZktnenhxdWF5XzNONVVOXzYwdktiNmtvQUs5S0FaRktJNjBKdnRuOXNpbnRKRktXVXlJdXdKM3Q3ZC1POV90em80cHVBZE9fTEdpRDNHSzRnNEhhMmVXVVFkN1N5dFNsXzktNVItemZxQ0lRUUpGWTg5dU5XR2hNYWVVT2hSUjRDRnA1djNrcXJaRVdrbDE1UGhiOUNmdkpoWXNtS0ZDVlJwbTczeWtDeTdMaWRVYkpXMktZRU00cVBJNU43QlhGb3lUaEF3UHF30gH_AUFVX3lxTE1xWHJHVkFsYlVxU1ZzLXduMW9aQWhnWkZqQ1l3SDc2RHh0X2RiQ0lwU0M0YVlkNmx3ODN1eTlhV0Rxb2hBMjd0OXZNalFmaXpITGFkaHdXT0ZsRFdxV0FhTnRETzlfRnVQVVJ0M1RpeDdBbmpPRjB3R1lESVBZeFRkdFlvS183akQtYUg4b3pLVng2a05oOFMtVVlLRlBqbnRUZDhqdzllWmhiZDVSU3ZjbEJIOWdDNWx2akdiSnhDWHFkUjV3N2djRG5CRkJOOElwVkdvRWJESDlXcUtjeHFQZHFNNUZOMEM0aGIzTG1OVFVMYmxkZmxxdzFscEszcw?oc=5",
+          "type": "news"
         },
         {
-          "date": "2026-07-13",
-          "title": "Dixon Tech Eyes 40% Value Addition As PM Modi Chairs Semiconductor High-Level Meet",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXlTYTVHY1ZycTVfT1IxRk9CVW92UFloR3pxczJhd0NnVXQ4RGViTDdCT011cVZoNVpyVlBfSjFpX2V5NEdBemRRQXhtMTc3c3lsWFZjOXd4aWpmcnlSM3ZKU01OQkszQ215ZzhJX1pTS08zWVQ0U2lTeWUyejltd2tOYWNBZ2gzSEg1Tm9DQThzWll4c0VQclFJQ0xUNDhoWkZXR2tYZ0ZFemtfYjlOdHlmVEtVU3YzbXpkOA?oc=5",
+          "date": "2026-07-16",
+          "title": "Dixon Tech, Kaynes, Syrma, Amber Enterprises, Cyient DLM jump after Cabinet clears ₹62,500 crore for mobile PLI 2.0",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMGhtWm5QXzN2T29udUVJTVZhWHVKRTNpX2RiM1RfVXFyc1g2d2FveUhkcmNSbXN2czVmSTNGZXRiMEFBeUdtbDhpTE8zdkxqSl9VcGN2eS0tVDFVTTBYdWhxenl6UkNoQjdfV0lUMm1zMU12R1kzTi1xQWd6V0p6eV9LcExXOGloZXdINFZxQmJ2M2tIRTJ5amlzU2FJRmpKSlZqekh1dnR0V1dabEdmVjJVN0YxU3ZyMFd1N2lnWlVkMWFuQWRMbWt1RTVSakQ3ZlZjbl9iMGQ2Vk01MEpKMUhHVTlkdHlkX0llWkFtcTFVblJQ0gH7AUFVX3lxTE85RTZrTk5FXzZWRGw5MGlLc2RfU2hIeExSWjg2Zl9TeDU1QWhPYm5uUzRVckF1M2Q2QnoxUFEyYUNMOGsyMEx1V2VKUzk0dWxSRWZhZFlUMVRiVUxQZ3l1YWd2WnBGMlFnVmRVZGo3dmUwaDI3aGxsZHhWajUwQ0ZaR05HejF6M3AzXzljMzVySW1ZUm9OY3VZZFVFdkNoMTdFVXlXakZLX3l2YUpsYWdOSmR2a2tJbnFhYklnS0RqRGxiVkRsLWUzanVjaThuWF81SkRhT0g2cGpyclNJMlRraWJmRXlGNi1zMUU2LVh0b0Rma3paLVJ5TUpn?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dixon Tech stock jumps 7% after HSBC upgrade, new mobile manufacturing scheme lifts outlook",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGlVNHByanFFMjE5Wnd6dms3emZobkZWQlFDTmhBOGE1THpUcGZKN202WWhud3pqT21NRjBoMGdYek5ydW01WFV5XzFXeHV4dElhY1VuTTZIODlTTHdKaGFyVXVDbEFJcmlxcU9HVl9uLUdGaElVR3hic0VmOXpZOHk4R3d1ZUI4N0p3aDd1ZjFHZ3NzcjhLOXBMa0o1U1FyYUVtLWxWY3BfWWJUN3B1UXVxWDBGRDUyOXdyVVBmV0xhbmNrQk1uUndLNkVHXzZlWEVLTG41S2ZDY2lDNXI2LXFfYjJlVUlMV3fSAe8BQVVfeXFMTjNVVk1QbXNnSW5SWGRfRkRTb1Y1SExrSzJqSFVNX29kODV2XzM3Qy1HajhnRTdXenZ5czBCXzhieEpQODktNlJSVHBaWTFBd2JHTUVIcURhQ2VrTk9KR3FpV19PcHV0RHVJTmM3MFBkT0FnSkJhY3FVZ0JwdEdPbVVHaVp4VjFEampZX2hIUXZGU1RNZUhuanBIMXJnaWY1d3JBV3MtdFp6clpFZmgxdFdFTExLNEZiay02QmRUYV9WU29mRnhQUHF1WllVMEpxU21oY0ZpY2R4ODRUcHl0RVN0RmIxM2otb2t5TXktUzg?oc=5",
+          "type": "rating"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dixon Technologies, export-focused EMS players to benefit from new mobile PLI: IIFL",
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMGlZVDNjLVhOekVfTW5aemFMY2hORzQ1NENUbUhDMDBReHVvZ1JRdEpIV3h4eTNhcUN5c1F4eTZhanlVRC1DNDUyRUxjUVR5Rjd4aXlRNnRtdXl3U21TSllTME9Feks0NTlsQnRVMGJ0WFBSRGJOc0V3aE85TVMxbkxJQU1EaFJqdGxUYldzRmtxdWRVc2pBUDRCRFhZazhHVkhITzBXVk42bXJibmJMTHY3YTdVVHEyRzg2YUtDcnprcUloRUhXWEN0T1_SAcwBQVVfeXFMUDBpWVQzYy1YTnpFX01uWnphTGNoTkc0NTRDVG1IQzAwUXh1b2dSUXRKSFd4eHkzYXFDeXNReHk2YWp5VUQtQzQ1MkVMY1FUeUY3eGl5UTZ0bXV5d1NtU0pZUzBPRXpLNDU5bEJ0VTBidFhQUkRiTnNFd2hPOU1TMW5MSUFNRGhSanRsVGJXc0ZrcXVkVXNqQVA0QkRYWWs4R1ZISE8wV1ZONm1yYm5iTEx2N2E3VVRxMkc4NmFLQ3J6a3FJaEVIV1hDdE9f?oc=5",
           "type": "news"
         }
       ],
@@ -1822,12 +1844,26 @@
           "broker": "hsbc",
           "target": null,
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmNBcVJhRGFTWWxlcV9wOWtlRy1JWHJpcG9TRXRCSVVLYVROODdrRENxc0l4M1BLeUFENF9FUEZyc0YtcndndWxla0dFekdHNGJTc0M5UmVIWFRteVJZMzZwY0tENTQweFl2MVZGd2JYdHh1UXNhU3lIUjJnSUpldmRGVnc2SGlKMXZqRFJQNTNZbGg5VHJfb3gzSjJsaGZtZXJfV1d4LUxhcnMxQmpRWlJhdVBialVCNDRfOUFFbGo1V2VWQ0hLN1kzWdIB0AFBVV95cUxPS2ZDNGFheV9QcHRYYjRJMVV0dENQUVlSR2FIX2o5cmU0TlUtRllkeS1RVFRXSFpLZmJjUS0zSG5tSmxndzZ5NzlGX01fdnpSNXBEMW1EX0VrRTRTbmJuWTJ4WHYwMzJwR1VCNzFPUENkU3VzcDBjMDA5SDdRNGxrN0NfSEUtMTByZHdsVmx4c1VnOVZjYTFrVnczRVY3WDdBaHpDZVF3VGhvM3ktVWlGRlY1RlRqSURucXptaTZXOGtGVFFYMnA0a0VrZkEyUTU1?oc=5"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Dixon Tech stock jumps 7% after HSBC upgrade, new mobile manufacturing scheme lifts outlook",
+          "broker": "hsbc",
+          "target": null,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGlVNHByanFFMjE5Wnd6dms3emZobkZWQlFDTmhBOGE1THpUcGZKN202WWhud3pqT21NRjBoMGdYek5ydW01WFV5XzFXeHV4dElhY1VuTTZIODlTTHdKaGFyVXVDbEFJcmlxcU9HVl9uLUdGaElVR3hic0VmOXpZOHk4R3d1ZUI4N0p3aDd1ZjFHZ3NzcjhLOXBMa0o1U1FyYUVtLWxWY3BfWWJUN3B1UXVxWDBGRDUyOXdyVVBmV0xhbmNrQk1uUndLNkVHXzZlWEVLTG41S2ZDY2lDNXI2LXFfYjJlVUlMV3fSAe8BQVVfeXFMTjNVVk1QbXNnSW5SWGRfRkRTb1Y1SExrSzJqSFVNX29kODV2XzM3Qy1HajhnRTdXenZ5czBCXzhieEpQODktNlJSVHBaWTFBd2JHTUVIcURhQ2VrTk9KR3FpV19PcHV0RHVJTmM3MFBkT0FnSkJhY3FVZ0JwdEdPbVVHaVp4VjFEampZX2hIUXZGU1RNZUhuanBIMXJnaWY1d3JBV3MtdFp6clpFZmgxdFdFTExLNEZiay02QmRUYV9WU29mRnhQUHF1WllVMEpxU21oY0ZpY2R4ODRUcHl0RVN0RmIxM2otb2t5TXktUzg?oc=5"
         }
       ]
     },
     "TECHNOE": {
       "query": "Techno Electric",
       "headlines": [
+        {
+          "date": "2026-07-16",
+          "title": "CERC Closes NERGS-I Transmission License Case After 750 MW Assam Solar Project Suspension",
+          "source": "SolarQuarter",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamhpSjgwd21MVVZQT0l6eEx1cW5MLXEyS0hRamFkTmowSzRyeUFmOE1oRHZzS3FYdWlBYTY3R2pENVNpRG9XYjRjZ2lVdHllUEEtNm5mSjFpXzJTbGVjbjVmWE1ybE5MQlR0bHE5bFFCNkw0V1VUM3pRUVkxR0t2d1Fidnd0UXVHSEhHN1Q3YnBIeWtwTjRjbldseEVEdGN5R3lFME1RN3JSX1VxczNtdTF1QUlaRFhOQTFfUms0Qzg5S3J4?oc=5",
+          "type": "news"
+        },
         {
           "date": "2026-07-16",
           "title": "RVNL Share Price Today - Rail Vikas Nigam on NSE/BSE",
@@ -1837,16 +1873,16 @@
         },
         {
           "date": "2026-07-15",
-          "title": "India-Australia Civil Nuclear Pact: Which Companies Would Benefit?",
-          "source": "HDFC Sky",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTW9YWUFObXFRTHZ6WkVnV2EwQ1F2emd2SWI1dDExVF9OOXpHNWthOHgxVl9BSy1RRjNHYmMwbGZXbXlVbDloUVRwbUpjWmFaLUY1bXJ6a084azJFeVV2R3UwZWdibWI0aEFwX2o3RWEzT0FDdWpBLWVIbFFpazl0Ng?oc=5",
+          "title": "Assam’s 750 MW solar project withdrawal renders transmission scheme infructuous",
+          "source": "Power Peak Digest",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsLWlEb2JBVnRqRmRPNUFVVnVlcFk5TG5yYjhhZndEWDdTMXRiY01xRDRvOGduaXR2OUxhMFFaZ2lwekxIeUMtczE4UzNkbFhNMDdjN3hiangyVWVlVlVPUHpPNElxNlNMb3pWRXBXYTdhczYzWWtkdGUzRQ?oc=5",
           "type": "news"
         },
         {
           "date": "2026-07-15",
-          "title": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVmU3ankyakd3LWZkTXJmN2xacmxRYlhfdjZlWmpWUzRKYjFZS1IzZ1RuOUxaSHVhS05NWHNGUVRKNTZ4VWEzc3V4RjdoMlJsWUNDSW5fY0hLZGR2bDN0TDM2Q1hYV2M?oc=5",
+          "title": "India-Australia Civil Nuclear Pact: Which Companies Would Benefit?",
+          "source": "HDFC Sky",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTW9YWUFObXFRTHZ6WkVnV2EwQ1F2emd2SWI1dDExVF9OOXpHNWthOHgxVl9BSy1RRjNHYmMwbGZXbXlVbDloUVRwbUpjWmFaLUY1bXJ6a084azJFeVV2R3UwZWdibWI0aEFwX2o3RWEzT0FDdWpBLWVIbFFpazl0Ng?oc=5",
           "type": "news"
         },
         {
@@ -1875,13 +1911,6 @@
           "title": "5 Companies Supporting India’s Semiconductor Manufacturing Push",
           "source": "Trade Brains",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMElTMkc1dUhoRWd3LUtURVh0WHNSVl9qUGtWR2JUNGxnRXNSd254eWxMVmVKZTZfaG1rVFk1RjNXY3A4NEtjaTRBb1Y3VjQ1bHhtZm0tMnFDN2hKSWoxeGpmR1hOemRMejBzc0h0T0VIYl80Uk5aRDIwUjhnLThCVkRUd2NfaEp1dTFWcUJ3UQ?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-13",
-          "title": "TECHNOE Share Price | Techno Electric & Engineering Company Ltd Stock Analysis & Recommendation",
-          "source": "MarketsMojo",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jZ2MzQlRVRVhqeDIyM1g2OWFhRmpGZEdqaTFXTW5ySm13MThmTmxQZGNJUXRDUkEzckxaSmpLM3lhLWZ3c1RiUV9ScUNzQlJFMHB0RmlRTi1NQ2dPRjFyS1l2Y0VGZjhFUnlvR1NpVk96YUo4d1ZZ?oc=5",
           "type": "news"
         }
       ],
@@ -1967,17 +1996,17 @@
           "type": "news"
         },
         {
-          "date": "2026-07-15",
-          "title": "TCS, Infosys, Wipro and Other IT Stocks Fall Up to 2.5% After IBM Crash",
-          "source": "NiftyTrader",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0pXcWFpNmZyamZHZjNibXdUVDBUNS1mWHF0RE9wX3BUdXRtbHVZQ3JnM2wyb1B3MFpqVnFlRUFlYm9rQl9jbG9DZ2tmbHRxb0NYNWhTcTZ4TVJWRW1qbWVoT3hIS3dTSnlNeEI1NmdqOXpKNzB2a1pDTThlTWFYd2Z6eUE?oc=5",
-          "type": "news"
-        },
-        {
-          "date": "2026-07-14",
+          "date": "2026-07-13",
           "title": "Persistent Systems publishes 36th AGM notice in newspapers",
           "source": "scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnhRMGV3Ul9wRmFCa1VlN1djZ1JZaE9CaVpQUDEzWWVOZWNYUDlCWldEdnFZSmtfRXNxU0M3NTBkc2ZlT0c1bGotc3Fud3YwS1paSlpiOEtrZm1TUjlKN1lwZlZjQ3RndG4wNkJaUVdhMTVLUHphNXkwMXRGQ2dqZHV0alpnWmxIb29xTFExTG1uR0ExMU5iUmhuaFpITGFtYkEwRFNZVFFPY09SRE8zT2hUdnNVclVRTVlvNDkwNzNOMDVBdWFGNkgwQQ?oc=5",
+          "type": "news"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Persistent Systems Ltd up for third consecutive session",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRUpPMTNpMzUzVHJ6NGJZQmxUOGd3Zk1rZ2VhYU1UQUNFYmhnS1IzbFNmZVpUNE5ZSnRsMl8yT2NNN1ZFYXBBNGx3N3p3OE9rWUZuR3hmU3JJdnN6ZVhZYUxNdllncHpIU0tjXzByZmhFWjd4TjBSRnUzdVRTbDdINnctWm41OHFoM0lBQVNYX19Zc3lBaXR6NE5VMlVUMGpSdGtadUNwUFQ1UVZDWU82VFpLZTFwNWpwdkhKMWV0cHptVkZLNjA4TkNMTFNWZmgtamtZ0gHYAUFVX3lxTE00QU01TlJtWTFVSFlZNUZFTm5RTU5kSEZnNF9oU1lhSTM2NVBWSjdFNXRDQUJETmdZb3N1MkE5ckVrQlNHNHJLczhVX05uSFhnMjdFTFBJR3AyRzZZQVQ1SkZaZVJKX0NfNHRLdkgxQ3ZPS3Z6QmJHZEZZU2NjNV95U2NUZ0x5b0VVTW1BeDVDTGlSX1N2ZE05MU1XU3N1UkZkQ3QzUVB0SjdJc0pNdVhGTEIxYTB2VVBpM0Vma3NwMFZtdGZ5LUVnZUtRNTViVzNvamQ5S1ZMTA?oc=5",
           "type": "news"
         },
         {
@@ -1995,10 +2024,10 @@
           "type": "news"
         },
         {
-          "date": "2026-07-13",
-          "title": "Persistent Systems Ltd up for third consecutive session",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNEFNNU5SbVkxVUhZWTVGRU5uUU1OZEhGZzRfaFNZYUkzNjVQVko3RTV0Q0FCRE5nWW9zdTJBOXJFa0JTRzRyS3M4VV9ObkhYZzI3RUxQSUdwMkc2WUFUNUpGWmVSSl9DXzR0S3ZIMUN2T0t2ekJiR2RGWVNjYzVfeVNjVGdMeW9FVU1tQXg1Q0xpUl9TdmRNOTFNV1NzdVJGZEN0M1FQdEo3SXNKTXVYRkxCMWEwdlVQaTNFZmtzcDBWbXRmeS1FZ2VLUTU1Ylczb2pkOUtWTEzSAdgBQVVfeXFMTTRBTTVOUm1ZMVVIWVk1RkVOblFNTmRIRmc0X2hTWWFJMzY1UFZKN0U1dENBQkROZ1lvc3UyQTlyRWtCU0c0cktzOFVfTm5IWGcyN0VMUElHcDJHNllBVDVKRlplUkpfQ180dEt2SDFDdk9LdnpCYkdkRllTY2M1X3lTY1RnTHlvRVVNbUF4NUNMaVJfU3ZkTTkxTVdTc3VSRmRDdDNRUHRKN0lzSk11WEZMQjFhMHZVUGkzRWZrc3AwVm10ZnktRWdlS1E1NWJXM29qZDlLVkxM?oc=5",
+          "date": "2026-07-12",
+          "title": "Why is Persistent Systems stock rallying today? By Investing.com",
+          "source": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1QzY3BVeGd1b2JROURIMXZrLURwUmZWRXN6dXRaODVuNDd2MUw4NTJxVzBobkVYWjJBdEFKSTQ5NlByTTEzUUQ4N2QzS1piREZsZTNFSks0UUVabmVJaUJsQnp3S3loaGhPX2oxb3Fpb215MEV5V3FBcjg3NEwwVTBxcm01Qy1VTW01UkpQOGZjOHNyU2REWGZXWjNDSHN6QkpDSC1oQXctb2s?oc=5",
           "type": "news"
         },
         {
