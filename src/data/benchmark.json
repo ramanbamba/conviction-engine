@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T02:51:40.244Z",
+  "fetchedAt": "2026-08-17T02:59:33.597Z",
   "symbol": "^NSEI",
   "name": "Nifty 50",
   "latestClose": 24366,
@@ -16,7 +16,7 @@
     },
     "1y": {
       "label": "1Y",
-      "startDate": "2025-08-15",
+      "startDate": "2025-08-17",
       "benchStart": 24877,
       "benchEnd": 24366,
       "benchReturn": -0.0205,
@@ -25,10 +25,10 @@
     },
     "3y": {
       "label": "3Y",
-      "startDate": "2023-08-15",
-      "benchStart": 19465,
+      "startDate": "2023-08-17",
+      "benchStart": 19365,
       "benchEnd": 24366,
-      "benchReturn": 0.2518,
+      "benchReturn": 0.2582,
       "portfolioReturn": null,
       "alpha": null
     },
@@ -328,23 +328,23 @@
       "portIdx": 100
     },
     {
-      "date": "2026-07-23",
-      "benchIdx": 95.95,
+      "date": "2026-07-27",
+      "benchIdx": 96.46,
       "portIdx": 100
     },
     {
-      "date": "2026-07-29",
-      "benchIdx": 97.48,
+      "date": "2026-08-03",
+      "benchIdx": 99.59,
       "portIdx": 100
     },
     {
-      "date": "2026-08-04",
-      "benchIdx": 98.95,
+      "date": "2026-08-07",
+      "benchIdx": 98.77,
       "portIdx": 100
     },
     {
-      "date": "2026-08-10",
-      "benchIdx": 98.82,
+      "date": "2026-08-13",
+      "benchIdx": 98.07,
       "portIdx": 100
     },
     {
