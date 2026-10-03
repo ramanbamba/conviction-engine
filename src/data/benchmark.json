@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T07:58:55.179Z",
+  "fetchedAt": "2026-10-03T07:39:33.627Z",
   "symbol": "^NSEI",
   "name": "Nifty 50",
   "latestClose": 22422,
@@ -16,7 +16,7 @@
     },
     "1y": {
       "label": "1Y",
-      "startDate": "2025-10-02",
+      "startDate": "2025-10-03",
       "benchStart": 24894,
       "benchEnd": 22422,
       "benchReturn": -0.0993,
@@ -25,7 +25,7 @@
     },
     "3y": {
       "label": "3Y",
-      "startDate": "2023-10-02",
+      "startDate": "2023-10-03",
       "benchStart": 19529,
       "benchEnd": 22422,
       "benchReturn": 0.1481,
